@@ -4,22 +4,36 @@ import pandas as pd
 from recordclass import RecordClass
 from typing import Any, NamedTuple, Text, List, Union
 
+
 class ColumnMapping(NamedTuple):
   """Defines how to process columns in state data source file."""
-  target_column: Text                      # Processed output file column name.
-  source_column: Union[Text, None] = None  # Source file column name.
-  dtype: Any = None                        # Pandas data type (for casting and validation).
-  converter: Any = None                    # Converter function/lambda.
-  constant: Any = None                     # Constant value for target column (if provided, source_column is ignored).
-  na_values: List = None                   # Expected null values in source column.
+  # Processed output file column name.
+  target_column: Text
+  # Source file column name.
+  source_column: Union[Text, None] = None
+  # Pandas data type (for casting and validation).
+  dtype: Any = None
+  # Converter function/lambda.
+  converter: Any = None
+  # Constant value for target column (if provided, source_column is ignored).
+  constant: Any = None
+  # Expected null values in source column.
+  na_values: List = None
+
 
 class StateConfig(NamedTuple):
   """Contains configuration for a state data source file."""
-  state: Text                                # State name, e.g. "Colorado"/
-  state_abbreviation: Text                   # State abbreviation, e.g. "CO".
-  source_filepath: Text                      # State data source XLSX filepath. Expects sheet named "Data for {state}".
-  target_filepath: Text                      # Processed output CSV filepath.
-  column_mappings: List[ColumnMapping] = []  # List of column mapping from source file to target file.
+  # State name, e.g. "Colorado".
+  state: Text
+  # State abbreviation, e.g. "CO".
+  state_abbreviation: Text
+  # State data source XLSX filepath. Expects sheet named "Data for {state}".
+  source_filepath: Text
+  # Processed output CSV filepath.
+  target_filepath: Text
+  # List of column mapping from source file to target file.
+  column_mappings: List[ColumnMapping] = []
+
 
 class ColumnReadReport(RecordClass):
   """Report summarizing the processed output column."""
@@ -33,6 +47,7 @@ class ColumnReadReport(RecordClass):
   mean: Any = None          # Mean (only defined for numeric columns).
   mode: Any = None          # Mode.
 
+
 def process_state_data(state_config: StateConfig):
   """Read and process data for a single state based on config.
 
@@ -40,7 +55,8 @@ def process_state_data(state_config: StateConfig):
     state_config: configuration for state data source.
 
   Returns:
-    (df, report_df) where df is the processed DataFrame and report_df is the DataFrame report summarizing the data.
+    (df, report_df) where df is the processed DataFrame and report_df is the
+    DataFrame report summarizing the data.
   """
 
   # Process column mappings configuration.
@@ -54,7 +70,9 @@ def process_state_data(state_config: StateConfig):
   for mapping in state_config.column_mappings:
     if mapping.constant:
       constant_columns[mapping.target_column] = mapping.constant
-      assert not mapping.source_column, f"For column {mapping.target_column} provide either constant or source column."
+      assert not mapping.source_column, (
+          f"For column {mapping.target_column} provide "
+          "either constant or source column.")
       if mapping.dtype:
         target_dtype_map[mapping.target_column] = mapping.dtype
       continue
@@ -69,11 +87,11 @@ def process_state_data(state_config: StateConfig):
     if mapping.na_values:
       na_values[mapping.source_column] = mapping.na_values
 
-
   # Read XLSX file.
   df = pd.read_excel(
       state_config.source_filepath,
-      sheet_name=f"Data for {state_config.state}",  # Sheet with this name must exist.
+      # Sheet with this name must exist.
+      sheet_name=f"Data for {state_config.state}",
       usecols=usecols,  # Drop unmapped columns.
       dtype=source_dtype_map,  # Cast columns
       converters=converters,  # Drop unmapped columns.
@@ -111,9 +129,9 @@ def process_state_data(state_config: StateConfig):
     column_report = ColumnReadReport(
         state_config.state,
         column,
-        df[column].dtype,
-        df[column].count(),
-        df[column].isna().sum())
+        dtype=df[column].dtype,
+        count=df[column].count(),
+        null_count=df[column].isna().sum())
     column_report.column = column
     column_report.min = df[column].min()
     column_report.max = df[column].max()
@@ -134,16 +152,17 @@ def process_all_states(config: List[StateConfig], report_filepath: Text=None):
 
   Args:
     config: List of StateConfigs defining how to process each file.
-    report_filepath: If provided, then write the processed data summary report to this path.
+    report_filepath: If provided, then write the processed data summary
+    report to this path.
 
   Returns:
-    (state_dfs, state_report_dfs): state_dfs is the list of processed state DataFrames and state_report_dfs is the list
-                                   of corresponding reports.
+    (state_dfs, state_report_dfs): state_dfs is the list of processed state
+    DataFrames and state_report_dfs is the list corresponding reports.
   """
   state_dfs = list()
   state_report_dfs = list()
   for state_config in config:
-    print(f"Reading {state_config.state} from {state_config.source_filepath}...")
+    print(f"Reading {state_config.state} from {state_config.source_filepath}.")
     df, report_df = process_state_data(state_config)
     state_dfs.append(df)
     state_report_dfs.append(report_df)
@@ -159,4 +178,3 @@ def read_config_file(config_filepath: Text):
   with open(config_filepath, "r") as f:
     contents = f.read()
     return eval(contents)
-
