@@ -9,9 +9,10 @@ setup(
     },
     include_package_data=True,
     install_requires=[
-        'pandas',
-        'numpy',
-        'recordclass',
-        'absl-py',
+        "pandas",
+        "numpy",
+        "recordclass",
+        "absl-py",
+        "Levenshtein",
     ],
 )
