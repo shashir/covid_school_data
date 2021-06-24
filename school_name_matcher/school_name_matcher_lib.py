@@ -36,15 +36,20 @@ SEARCH_STOP_WORDS = {"school", "district", "high", "middle", "elementary",
 def trigger_school_name_results(
     query, schools_df, schools_search_index, threshold=0.3, num_results=1
 ):
-  results = schools_search_index.get(query, "sch_name")
+  results = schools_search_index.get(query)
+  weighted_jaccard_scorer = \
+    data_frame_text_search_lib.WeightedTokenJaccardScorer(
+        schools_df["sch_name"])
   jaccard_scorer = data_frame_text_search_lib.TokenJaccardScorer()
   levenshtein_scorer = data_frame_text_search_lib.LevenshteinRatioScorer()
   scored_results = list()
   for result in results:
     hmean_scores = statistics.harmonic_mean([
-        jaccard_scorer.score_df_result(query, schools_df, "sch_name", result),
-        levenshtein_scorer.score_df_result(query, schools_df, "sch_name",
-                                           result)
+        weighted_jaccard_scorer.score_df_result(
+            query, schools_df, "sch_name", result),
+        # jaccard_scorer.score_df_result(query, schools_df, "sch_name", result),
+        levenshtein_scorer.score_df_result(
+            query, schools_df, "sch_name", result)
     ])
     if hmean_scores == 1.0:
       return [(result, hmean_scores)]
@@ -54,7 +59,8 @@ def trigger_school_name_results(
   return scored_results[:num_results]
 
 
-def process_state_file(path: Text, nces_schools_df: pd.DataFrame):
+def read_state_schools_csv(path: Text) -> pd.DataFrame:
+  """Reads school names for a given state from CSV."""
   state_abbrev_from_file_name = path.split("/")[-1][:2]
   df = pd.read_csv(path)
   # Validate
@@ -63,34 +69,45 @@ def process_state_file(path: Text, nces_schools_df: pd.DataFrame):
     state_abbrev_from_file_name])
   # Unique
   df.drop_duplicates(inplace=True, ignore_index=True)
+  return df
+
+
+def best_effort_merge_nces_data(
+    state_df: pd.DataFrame, nces_schools_df: pd.DataFrame
+) -> pd.DataFrame:
+  state_abbrev = list(set(state_df["StateAbbrev"]))[0]
   # Get NCES data for state.
   state_schools_df = nces_schools_df[
-    nces_schools_df["state"] == state_abbrev_from_file_name]
+    nces_schools_df["state"] == state_abbrev]
   state_schools_df.reset_index(drop=True, inplace=True)
   schools_search_index =\
       data_frame_text_search_lib.DataFrameTextSearchInvertedIndex(
-          state_schools_df, ["sch_name"])
+          state_schools_df, "sch_name")
   output = list()
-  progress = ProgressBar(len(df.index), note=state_abbrev_from_file_name)
-  for index, row in df.iterrows():
+  progress = ProgressBar(len(state_df.index), note=state_abbrev)
+  for index, row in state_df.iterrows():
     query = row["SchoolName"]
+    if pd.isna(query):
+      continue
     scored_results = trigger_school_name_results(
         query, state_schools_df, schools_search_index)
     has_results = False
     for scored_result in scored_results:
-      output_row = [row[c] for c in df.columns] +\
+      output_row = [row[c] for c in state_df.columns] +\
                    [state_schools_df.iloc[scored_result[0]][c]
                     for c in state_schools_df.columns] +\
                    [scored_result[1]]
       output.append(output_row)
       has_results = True
     if not has_results:
-      output_row = [row[c] for c in df.columns] + \
+      output_row = [row[c] for c in state_df.columns] + \
                    [None for _ in state_schools_df.columns] + \
                    [None]
       output.append(output_row)
     progress.increment()
+  progress.complete()
   return pd.DataFrame(
       output,
       columns=(
-          list(df.columns) + list(state_schools_df.columns) + ["match_score"]))
+          list(state_df.columns) + list(state_schools_df.columns) + [
+          "match_score"]))

@@ -23,8 +23,9 @@ def main(argv):
           "state_schid": pd.StringDtype(),
       })
   for input_file in FLAGS.input_files:
-    joined_df = school_name_matcher_lib.process_state_file(
-        input_file, nces_schools_df)
+    state_df = school_name_matcher_lib.read_state_schools_csv(input_file)
+    joined_df = school_name_matcher_lib.best_effort_merge_nces_data(
+        state_df, nces_schools_df)
     joined_df.to_csv(input_file.replace(".csv", "_with_NCES_matches.csv"))
 
 

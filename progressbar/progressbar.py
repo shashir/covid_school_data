@@ -5,6 +5,7 @@ class ProgressBar(object):
     self.bar_length = bar_length
     self.note = note
     self.display()
+    self.is_complete = False
 
   def display(self):
     progress_frac = float(self.progress) / self.total
@@ -14,6 +15,10 @@ class ProgressBar(object):
         "#" * progress_bar,
         " " * remainder,
         int(progress_frac * 100)), self.note, end="")
+    if progress_frac >= 1.0:
+      if not self.is_complete:
+        self.close()
+      self.is_complete = True
 
   def increment(self, note=None):
     if note:
@@ -30,3 +35,10 @@ class ProgressBar(object):
       self.note = note
     self.progress = progress
     self.display()
+
+  def complete(self):
+    if not self.is_complete:
+      self.set_progress(self.total)
+
+  def close(self):
+    print()
