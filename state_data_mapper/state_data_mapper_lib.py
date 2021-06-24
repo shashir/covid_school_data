@@ -49,6 +49,8 @@ class StateConfig(NamedTuple):
   nces_schools_merge_config: Optional[NCESMergeConfig] = None
   # NCES merge configuration for district names.
   nces_districts_merge_config: Optional[NCESMergeConfig] = None
+  # Source sheet name containing data. If not specified, then read from "Data for {state}".
+  source_sheet_name: Optional[Text] = None
 
 
 class ColumnReadReport(RecordClass):
@@ -148,11 +150,15 @@ def process_state_data(
     if mapping.na_values:
       na_values[mapping.source_column] = mapping.na_values
 
+  sheet_name = state_config.source_sheet_name
+  if not sheet_name:
+    sheet_name = f"Data for {state_config.state}"
+
   # Read XLSX file.
   df = pd.read_excel(
       state_config.source_filepath,
       # Sheet with this name must exist.
-      sheet_name=f"Data for {state_config.state}",
+      sheet_name=sheet_name,
       usecols=usecols,  # Drop unmapped columns.
       dtype=source_dtype_map,  # Cast columns
       converters=converters,  # Drop unmapped columns.
