@@ -51,7 +51,9 @@ class StateConfig(NamedTuple):
   nces_districts_merge_config: Optional[NCESMergeConfig] = None
   # Source sheet name containing data. If not specified, then read from "Data for {state}".
   source_sheet_name: Optional[Text] = None
-
+  # If more than one, source sheet name(s) containing data.
+  # If not specified, then read from "Data for {state}".
+  source_sheet_names_list: List[Text] = []
 
 class ColumnReadReport(RecordClass):
   """Report summarizing the processed output column."""
@@ -150,20 +152,36 @@ def process_state_data(
     if mapping.na_values:
       na_values[mapping.source_column] = mapping.na_values
 
-  sheet_name = state_config.source_sheet_name
-  if not sheet_name:
-    sheet_name = f"Data for {state_config.state}"
-
-  # Read XLSX file.
-  df = pd.read_excel(
-      state_config.source_filepath,
-      # Sheet with this name must exist.
-      sheet_name=sheet_name,
-      usecols=usecols,  # Drop unmapped columns.
-      dtype=source_dtype_map,  # Cast columns
-      converters=converters,  # Drop unmapped columns.
-      na_values=na_values  # Null values in source file.
-  )
+  df = None
+  if state_config.source_sheet_names_list:
+    df_list = []
+    for sheet_name in state_config.source_sheet_names_list:
+      # Read XLSX file.
+      partial_df = pd.read_excel(
+          state_config.source_filepath,
+          # Sheet with this name must exist.
+          sheet_name=sheet_name,
+          usecols=usecols,  # Drop unmapped columns.
+          dtype=source_dtype_map,  # Cast columns
+          converters=converters,  # Drop unmapped columns.
+          na_values=na_values  # Null values in source file.
+      )
+      df_list.append(partial_df)
+    df = pd.concat(df_list)
+  else:
+    sheet_name = state_config.source_sheet_name
+    if not sheet_name:
+      sheet_name = f"Data for {state_config.state}"
+    # Read XLSX file.
+    df = pd.read_excel(
+        state_config.source_filepath,
+        # Sheet with this name must exist.
+        sheet_name=sheet_name,
+        usecols=usecols,  # Drop unmapped columns.
+        dtype=source_dtype_map,  # Cast columns
+        converters=converters,  # Drop unmapped columns.
+        na_values=na_values  # Null values in source file.
+    )
 
   # Rename columns.
   df.rename(columns=column_rename_map, errors="raise", inplace=True)
