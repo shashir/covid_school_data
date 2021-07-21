@@ -26,7 +26,10 @@ STATE_ABBREV_MAPPING = {
     "MT": "Montana",
     "NH": "New Hampshire",
     "RI": "Rhode Island",
-    "VT": "Vermont"
+    "VT": "Vermont",
+    "NY": "New York",
+    "TX": "Texas",
+    "FL": "Florida",
 }
 
 SEARCH_STOP_WORDS = {"school", "district", "high", "middle", "elementary",
