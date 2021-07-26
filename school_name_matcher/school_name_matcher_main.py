@@ -46,7 +46,8 @@ def main(argv):
     state_df = school_name_matcher_lib.read_state_level_csv(input_file)
     joined_df = school_name_matcher_lib.best_effort_merge_nces_data(
         state_df, nces_df, process_districts)
-    joined_df.to_csv(input_file.replace(".csv", "_with_NCES_matches.csv"))
+    joined_df.to_csv(input_file.replace(".csv", "_with_NCES_matches.csv"),
+                     index=False)
 
 
 if __name__ == '__main__':
