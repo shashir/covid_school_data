@@ -21,18 +21,6 @@ class ColumnMapping(NamedTuple):
   na_values: Optional[List] = None
 
 
-class NCESMergeConfig(NamedTuple):
-  """Defines how to merge NCES data."""
-  # Left column to join NCES data with.
-  nces_join_left_on: Optional[Text] = None
-  # Whether to transform left on.
-  nces_join_left_on_transformation: Any = lambda x: x
-  # Right column to join NCES data with.
-  nces_join_right_on: Optional[Text] = None
-  # Whether to transform right on.
-  nces_join_right_on_transformation: Any = lambda x: x
-
-
 class StateConfig(NamedTuple):
   """Contains configuration for a state data source file."""
   # State name, e.g. "Colorado".
@@ -45,10 +33,6 @@ class StateConfig(NamedTuple):
   target_filepath: Text
   # List of column mapping from source file to target file.
   column_mappings: List[ColumnMapping] = []
-  # NCES merge configuration for school names.
-  nces_schools_merge_config: Optional[NCESMergeConfig] = None
-  # NCES merge configuration for district names.
-  nces_districts_merge_config: Optional[NCESMergeConfig] = None
   # Source sheet name containing data. If not specified, then read from "Data for {state}".
   source_sheet_name: Optional[Text] = None
   # If more than one, source sheet name(s) containing data.
@@ -68,56 +52,11 @@ class ColumnReadReport(RecordClass):
   mode: Any = None          # Mode.
 
 
-def merge_nces_schools(
-    state_data_df: pd.DataFrame,
-    filtered_schools_df: pd.DataFrame,
-    nces_schools_merge_config: NCESMergeConfig):
-  state_data_df["left_join_key"] = state_data_df[nces_schools_merge_config.nces_join_left_on]
-  state_data_df["left_join_key"] = state_data_df["left_join_key"].apply(
-      nces_schools_merge_config.nces_join_left_on_transformation)
-  filtered_schools_df["right_join_key"] = filtered_schools_df[
-    nces_schools_merge_config.nces_join_right_on]
-  filtered_schools_df["right_join_key"] = \
-    filtered_schools_df["right_join_key"].apply(
-        nces_schools_merge_config.nces_join_right_on_transformation)
-  state_data_df = state_data_df.merge(filtered_schools_df,
-                                      how="left",
-                                      left_on="left_join_key",
-                                      right_on="right_join_key")
-  state_data_df.drop(["left_join_key", "right_join_key"], axis=1, inplace=True)
-  return state_data_df
-
-
-def merge_nces_districts(
-    state_data_df: pd.DataFrame,
-    filtered_districts_df: pd.DataFrame,
-    nces_districts_merge_config: NCESMergeConfig):
-  state_data_df["left_join_key"] = state_data_df[nces_districts_merge_config.nces_join_left_on]
-  state_data_df["left_join_key"] = state_data_df["left_join_key"].apply(
-      nces_districts_merge_config.nces_join_left_on_transformation)
-  filtered_districts_df["right_join_key"] = filtered_districts_df[
-    nces_districts_merge_config.nces_join_right_on]
-  filtered_districts_df["right_join_key"] = \
-    filtered_districts_df["right_join_key"].apply(
-        nces_districts_merge_config.nces_join_right_on_transformation)
-  state_data_df = state_data_df.merge(filtered_districts_df,
-                how="left",
-                left_on="left_join_key",
-                right_on="right_join_key")
-  state_data_df.drop(["left_join_key", "right_join_key"], axis=1, inplace=True)
-  return state_data_df
-
-
-def process_state_data(
-    state_config: StateConfig,
-    nces_schools_df: Optional[pd.DataFrame]=None,
-    nces_districts_df: Optional[pd.DataFrame]=None):
+def process_state_data(state_config: StateConfig):
   """Read and process data for a single state based on config.
 
   Args:
     state_config: configuration for state data source.
-    nces_schools_df: Optional DataFrame containing NCES school data.
-    nces_districts_df: Optional DataFrame containing NCES district data.
 
   Returns:
     (df, report_df) where df is the processed DataFrame and report_df is the
@@ -204,22 +143,6 @@ def process_state_data(
           f"column '{mapping.target_column}' which has type "
           f"{df[mapping.target_column].dtype}.")
 
-  # Join NCES district data if available.
-  if state_config.nces_districts_merge_config and nces_districts_df is not None:
-    filtered_districts_df = nces_districts_df[
-      nces_districts_df["state"] == state_config.state_abbreviation]
-    filtered_districts_df = filtered_districts_df[[
-        "district_name", "state_leaid", "leaid"]]
-    df = merge_nces_districts(df, filtered_districts_df,
-                              state_config.nces_districts_merge_config)
-  if state_config.nces_schools_merge_config and nces_schools_df is not None:
-    filtered_schools_df = nces_schools_df[
-      nces_schools_df["state"] == state_config.state_abbreviation]
-    filtered_schools_df = filtered_schools_df[[
-        "sch_name", "ncessch", "state_schid"]]
-    df = merge_nces_schools(df, filtered_schools_df,
-                            state_config.nces_schools_merge_config)
-
   # Write file.
   if state_config.target_filepath:
     df.to_csv(state_config.target_filepath, index=False)
@@ -250,17 +173,13 @@ def process_state_data(
 
 def process_all_states(
     config: List[StateConfig],
-    report_filepath: Text=None,
-    nces_schools_df: Optional[pd.DataFrame]=None,
-    nces_districts_df: Optional[pd.DataFrame]=None):
+    report_filepath: Text=None):
   """Process all states in list of configs.
 
   Args:
     config: List of StateConfigs defining how to process each file.
     report_filepath: If provided, then write the processed data summary
                      report to this path.
-    nces_schools_df: Optional DataFrame containing NCES school data.
-    nces_districts_df: Optional DataFrame containing NCES district data.
 
   Returns:
     (state_dfs, state_report_dfs): state_dfs is the list of processed state
@@ -270,8 +189,7 @@ def process_all_states(
   state_report_dfs = list()
   for state_config in config:
     print(f"Reading {state_config.state} from {state_config.source_filepath}.")
-    df, report_df = process_state_data(
-        state_config, nces_schools_df, nces_districts_df)
+    df, report_df = process_state_data(state_config)
     state_dfs.append(df)
     state_report_dfs.append(report_df)
     pd.set_option("display.max_columns", None, "display.width", 300)
