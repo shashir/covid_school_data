@@ -11,6 +11,9 @@ flags.DEFINE_string("config", None, "Config filepath.")
 flags.DEFINE_string("state_data_dir", ".",
                     "Directory containing state data files.")
 flags.DEFINE_string("report", None, "Report filepath.")
+flags.DEFINE_list("required_columns", [],
+                  "List of mandatory output columns. If no data is available, "
+                  "they will be empty.")
 flags.mark_flag_as_required("config")
 
 
@@ -19,7 +22,9 @@ def main(argv):
   config = state_data_mapper_lib.read_config_file(FLAGS.config)
   os.chdir(FLAGS.state_data_dir)
   state_dfs, state_report_dfs = state_data_mapper_lib.process_all_states(
-      config, report_filepath=FLAGS.report)
+      config,
+      report_filepath=FLAGS.report,
+      required_columns=FLAGS.required_columns)
   print(pd.concat(state_report_dfs))
 
 

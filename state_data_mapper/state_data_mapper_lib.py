@@ -52,11 +52,15 @@ class ColumnReadReport(RecordClass):
   mode: Any = None          # Mode.
 
 
-def process_state_data(state_config: StateConfig):
+def process_state_data(
+    state_config: StateConfig,
+    required_columns: List[Text]=[]):
   """Read and process data for a single state based on config.
 
   Args:
     state_config: configuration for state data source.
+    required_columns: List of mandatory output columns. If no data is available,
+                      they will be empty in the output.
 
   Returns:
     (df, report_df) where df is the processed DataFrame and report_df is the
@@ -111,6 +115,7 @@ def process_state_data(state_config: StateConfig):
     sheet_name = state_config.source_sheet_name
     if not sheet_name:
       sheet_name = f"Data for {state_config.state}"
+
     # Read XLSX file.
     df = pd.read_excel(
         state_config.source_filepath,
@@ -125,14 +130,21 @@ def process_state_data(state_config: StateConfig):
   # Rename columns.
   df.rename(columns=column_rename_map, errors="raise", inplace=True)
 
-  # Constant columns
+  # Constant columns.
   for column, value in constant_columns.items():
     df[column] = value
     if column in target_dtype_map:
       df[column] = df[column].astype(target_dtype_map[column])
 
+  # Mandatory columns.
+  for column in required_columns:
+    if column not in df:
+      df[column] = pd.Series(dtype="object")
+
   # Reorder columns in order of the config.
-  df = df[[mapping.target_column for mapping in state_config.column_mappings]]
+  df = df[(
+    [mapping.target_column for mapping in state_config.column_mappings] +
+    required_columns)]
 
   # Validate dtypes.
   for mapping in state_config.column_mappings:
@@ -159,7 +171,8 @@ def process_state_data(state_config: StateConfig):
     column_report.column = column
     column_report.min = df[column].min()
     column_report.max = df[column].max()
-    column_report.mode = df[column].mode()[0]
+    mode = list(df[column].mode())
+    column_report.mode = mode[0] if mode else np.NaN
     if pd.api.types.is_numeric_dtype(df[column]):
       column_report.mean = df[column].mean()
     report_rows.append(column_report)
@@ -173,13 +186,16 @@ def process_state_data(state_config: StateConfig):
 
 def process_all_states(
     config: List[StateConfig],
-    report_filepath: Text=None):
+    report_filepath: Text=None,
+    required_columns: List[Text]=[]):
   """Process all states in list of configs.
 
   Args:
     config: List of StateConfigs defining how to process each file.
     report_filepath: If provided, then write the processed data summary
                      report to this path.
+    required_columns: List of mandatory output columns. If no data is available,
+                      they will be empty in the output.
 
   Returns:
     (state_dfs, state_report_dfs): state_dfs is the list of processed state
@@ -189,7 +205,7 @@ def process_all_states(
   state_report_dfs = list()
   for state_config in config:
     print(f"Reading {state_config.state} from {state_config.source_filepath}.")
-    df, report_df = process_state_data(state_config)
+    df, report_df = process_state_data(state_config, required_columns)
     state_dfs.append(df)
     state_report_dfs.append(report_df)
     pd.set_option("display.max_columns", None, "display.width", 300)
