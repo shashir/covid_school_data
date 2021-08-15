@@ -18,7 +18,7 @@ class ColumnMapping(NamedTuple):
   # Converter dictionary. If provided, will create a converter that maps values
   # according to this dictionary (if the key is present, otherwise keep the
   # original value).
-  converter_dict: Dict[Text, Any] = None
+  converter_dict: Dict[Any, Any] = None
   # Constant value for target column (if provided, source_column is ignored).
   constant: Any = None
   # Expected null values in source column.
@@ -59,6 +59,12 @@ class ColumnReadReport(RecordClass):
   max: Any = None           # Maximum.
   mean: Any = None          # Mean (only defined for numeric columns).
   mode: Any = None          # Mode.
+
+
+def converter_dict_getter(converter_dict: Dict[Any, Any]):
+  def get(x: Any):
+    return converter_dict.get(x, x)
+  return get
 
 
 def process_state_data(
@@ -108,8 +114,8 @@ def process_state_data(
     usecols.append(mapping.source_column)
     column_rename_map[mapping.source_column] = mapping.target_column
     if mapping.converter_dict:
-      converters[mapping.source_column] = (
-          lambda x: mapping.converter_dict.get(x, x))
+      converters[mapping.source_column] = converter_dict_getter(
+          mapping.converter_dict)
     elif mapping.converter:
       converters[mapping.source_column] = mapping.converter
     elif mapping.dtype:
@@ -201,8 +207,12 @@ def process_state_data(
         count=df[column].count(),
         null_count=df[column].isna().sum())
     column_report.column = column
-    column_report.min = df[column].min()
-    column_report.max = df[column].max()
+    if df[column].dtype == object:
+      column_report.min = df[column].astype("string").min()
+      column_report.max = df[column].astype("string").max()
+    else:
+      column_report.min = df[column].min()
+      column_report.max = df[column].max()
     mode = list(df[column].mode())
     column_report.mode = mode[0] if mode else np.NaN
     if pd.api.types.is_numeric_dtype(df[column]):
