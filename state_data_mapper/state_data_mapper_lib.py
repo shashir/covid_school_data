@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 from recordclass import RecordClass
-from typing import Any, List, NamedTuple, Optional, Text
+from typing import Any, Dict, List, NamedTuple, Optional, Text
 
 
 class ColumnMapping(NamedTuple):
@@ -15,10 +15,19 @@ class ColumnMapping(NamedTuple):
   dtype: Any = None
   # Converter function/lambda.
   converter: Any = None
+  # Converter dictionary. If provided, will create a converter that maps values
+  # according to this dictionary (if the key is present, otherwise keep the
+  # original value).
+  converter_dict: Dict[Text, Any] = None
   # Constant value for target column (if provided, source_column is ignored).
   constant: Any = None
   # Expected null values in source column.
   na_values: Optional[List] = None
+  # Is temporary column. Will be use for intermediate manipulation, but will not
+  # be in the final data frame.
+  is_temporary: bool = False
+  # Calculate this column from other columns.
+  calculation: Any = None
 
 
 class StateConfig(NamedTuple):
@@ -75,6 +84,7 @@ def process_state_data(
   constant_columns = dict()
   column_rename_map = dict()
   na_values = dict()
+  temporary_columns = list()
   for mapping in state_config.column_mappings:
     if mapping.constant:
       constant_columns[mapping.target_column] = mapping.constant
@@ -86,9 +96,21 @@ def process_state_data(
       continue
     if not mapping.source_column:
       continue
+
+    if mapping.is_temporary:
+      temporary_columns.append(mapping.target_column)
+
+    # If this is a calculated column, then no need to read it from XLSX.
+    if mapping.calculation:
+      continue
+
+    # Pandas XLSX read parameters
     usecols.append(mapping.source_column)
     column_rename_map[mapping.source_column] = mapping.target_column
-    if mapping.converter:
+    if mapping.converter_dict:
+      converters[mapping.source_column] = (
+          lambda x: mapping.converter_dict.get(x, x))
+    elif mapping.converter:
       converters[mapping.source_column] = mapping.converter
     elif mapping.dtype:
       source_dtype_map[mapping.source_column] = mapping.dtype
@@ -141,6 +163,13 @@ def process_state_data(
     if column not in df:
       df[column] = pd.Series(dtype="object")
 
+  # Calculated columns.
+  for mapping in state_config.column_mappings:
+    if not mapping.calculation:
+      continue
+    df[mapping.target_column] = df.apply(mapping.calculation, axis=1).astype(
+        mapping.dtype)
+
   # Reorder columns in order of the config.
   df = df[(
     [mapping.target_column for mapping in state_config.column_mappings] +
@@ -158,6 +187,9 @@ def process_state_data(
   # Write file.
   if state_config.target_filepath:
     df.to_csv(state_config.target_filepath, index=False)
+
+  # Drop temporary columns.
+  df.drop(temporary_columns, inplace=True)
 
   # Create report.
   report_rows = list()
