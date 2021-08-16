@@ -195,7 +195,7 @@ def process_state_data(
     df.to_csv(state_config.target_filepath, index=False)
 
   # Drop temporary columns.
-  df.drop(temporary_columns, inplace=True)
+  df.drop(temporary_columns, axis=True, inplace=True)
 
   # Create report.
   report_rows = list()
