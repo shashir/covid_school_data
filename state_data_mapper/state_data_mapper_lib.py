@@ -92,6 +92,9 @@ def process_state_data(
   na_values = dict()
   temporary_columns = list()
   for mapping in state_config.column_mappings:
+    if mapping.is_temporary:
+      temporary_columns.append(mapping.target_column)
+
     if mapping.constant:
       constant_columns[mapping.target_column] = mapping.constant
       assert not mapping.source_column, (
@@ -102,9 +105,6 @@ def process_state_data(
       continue
     if not mapping.source_column:
       continue
-
-    if mapping.is_temporary:
-      temporary_columns.append(mapping.target_column)
 
     # If this is a calculated column, then no need to read it from XLSX.
     if mapping.calculation:
@@ -190,12 +190,12 @@ def process_state_data(
           f"column '{mapping.target_column}' which has type "
           f"{df[mapping.target_column].dtype}.")
 
+  # Drop temporary columns.
+  df.drop(temporary_columns, axis=1, inplace=True)
+
   # Write file.
   if state_config.target_filepath:
     df.to_csv(state_config.target_filepath, index=False)
-
-  # Drop temporary columns.
-  df.drop(temporary_columns, axis=1, inplace=True)
 
   # Create report.
   report_rows = list()
