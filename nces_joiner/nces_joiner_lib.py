@@ -50,5 +50,7 @@ def process_state(state_case_df, lookups, drops, process_districts=False):
     state_case_df = state_case_df[state_case_df["DistrictName"].map(lambda x: x not in drops)]
   else:
     state_case_df["NCESSchoolID"] = state_case_df["SchoolName"].map(lookups)
+    # Infer district id from school id.
+    state_case_df["NCESDistrictID"] = state_case_df["NCESSchoolID"].str[:-5]
     state_case_df = state_case_df[state_case_df["SchoolName"].map(lambda x: x not in drops)]
   return state_case_df
