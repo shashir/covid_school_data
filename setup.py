@@ -14,5 +14,6 @@ setup(
         "recordclass",
         "absl-py",
         "Levenshtein",
+        "openpyxl",
     ],
 )
