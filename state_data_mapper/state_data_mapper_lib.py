@@ -28,6 +28,8 @@ class ColumnMapping(NamedTuple):
   is_temporary: bool = False
   # Calculate this column from other columns.
   calculation: Any = None
+  # List of values for rows that need to be filtered out.
+  filter_values: List = None
 
 
 class StateConfig(NamedTuple):
@@ -166,10 +168,9 @@ def process_state_data(
 
   # Calculated columns.
   for mapping in state_config.column_mappings:
-    if not mapping.calculation:
-      continue
-    df[mapping.target_column] = df.apply(mapping.calculation, axis=1).astype(
-        mapping.dtype)
+    if mapping.calculation:
+      df[mapping.target_column] = df.apply(mapping.calculation, axis=1).astype(
+          mapping.dtype)
 
   # Reorder columns in order of the config.
   df = df[
@@ -186,6 +187,11 @@ def process_state_data(
 
   # Drop temporary columns.
   df.drop(temporary_columns, axis=1, inplace=True)
+
+  # Remove rows that need to be filtered out.
+  for mapping in state_config.column_mappings:
+    if mapping.filter_values:
+      df = df[~df[mapping.target_column].isin(mapping.filter_values)]
 
   # Write file.
   if state_config.target_filepath:
