@@ -164,11 +164,6 @@ def process_state_data(
     if column in target_dtype_map:
       df[column] = df[column].astype(target_dtype_map[column])
 
-  # Mandatory columns.
-  for column in required_columns:
-    if column not in df:
-      df[column] = pd.Series(dtype="object")
-
   # Calculated columns.
   for mapping in state_config.column_mappings:
     if not mapping.calculation:
@@ -177,9 +172,8 @@ def process_state_data(
         mapping.dtype)
 
   # Reorder columns in order of the config.
-  df = df[(
-    [mapping.target_column for mapping in state_config.column_mappings] +
-    required_columns)]
+  df = df[
+    [mapping.target_column for mapping in state_config.column_mappings]]
 
   # Validate dtypes.
   for mapping in state_config.column_mappings:
@@ -218,6 +212,19 @@ def process_state_data(
     if pd.api.types.is_numeric_dtype(df[column]):
       column_report.mean = df[column].mean()
     report_rows.append(column_report)
+
+  # Mandatory columns.
+  for column in required_columns:
+    if column not in df:
+      df[column] = pd.Series(dtype="object")
+      column_report = ColumnReadReport(
+          state_config.state,
+          column,
+          dtype=object,
+          count=df[column].count(),
+          null_count=df[column].isna().sum())
+      report_rows.append(column_report)
+
   report_df = pd.DataFrame.from_records(
       report_rows,
       columns=["state", "column", "dtype", "count",
