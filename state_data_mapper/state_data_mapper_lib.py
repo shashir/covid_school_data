@@ -185,13 +185,19 @@ def process_state_data(
           f"column '{mapping.target_column}' which has type "
           f"{df[mapping.target_column].dtype}.")
 
-  # Drop temporary columns.
-  df.drop(temporary_columns, axis=1, inplace=True)
-
   # Remove rows that need to be filtered out.
   for mapping in state_config.column_mappings:
     if mapping.filter_values:
       df = df[~df[mapping.target_column].isin(mapping.filter_values)]
+
+  # Dates should be mm/dd/YY.
+  for mapping in state_config.column_mappings:
+    if str(mapping.dtype).startswith("datetime64"):
+      df[mapping.target_column] = df[mapping.target_column].dt.strftime(
+          "%m/%d/%y")
+
+  # Drop temporary columns.
+  df.drop(temporary_columns, axis=1, inplace=True)
 
   # Write file.
   if state_config.target_filepath:
