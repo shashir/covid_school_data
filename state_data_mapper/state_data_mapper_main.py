@@ -28,7 +28,8 @@ def main(argv):
   state_dfs, state_report_dfs = state_data_mapper_lib.process_all_states(
       config,
       report_filepath=FLAGS.report,
-      required_columns=FLAGS.required_columns)
+      required_columns=FLAGS.required_columns,
+      states_to_process=FLAGS.states_to_process)
   print(pd.concat(state_report_dfs))
 
 
