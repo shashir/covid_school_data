@@ -248,7 +248,8 @@ def process_state_data(
 def process_all_states(
     config: List[StateConfig],
     report_filepath: Text=None,
-    required_columns: List[Text]=[]):
+    required_columns: List[Text]=[],
+    states_to_process: List[Text]=None):
   """Process all states in list of configs.
 
   Args:
@@ -257,14 +258,22 @@ def process_all_states(
                      report to this path.
     required_columns: List of mandatory output columns. If no data is available,
                       they will be empty in the output.
+    states_to_process: List of states to process from the config. If not
+                       provided, then all states from the config will be
+                       processed.
 
   Returns:
     (state_dfs, state_report_dfs): state_dfs is the list of processed state
     DataFrames and state_report_dfs is the list corresponding reports.
   """
+  states_to_process = [state.lower() for state in states_to_process]
   state_dfs = list()
   state_report_dfs = list()
   for state_config in config:
+    if states_to_process:
+      if state_config.state.lower() not in states_to_process and \
+          state_config.state_abbreviation.lower() not in states_to_process:
+        continue
     print(f"Reading {state_config.state} from {state_config.source_filepath}.")
     df, report_df = process_state_data(state_config, required_columns)
     state_dfs.append(df)

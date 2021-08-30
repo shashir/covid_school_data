@@ -14,6 +14,10 @@ flags.DEFINE_string("report", None, "Report filepath.")
 flags.DEFINE_list("required_columns", [],
                   "List of mandatory output columns. If no data is available, "
                   "they will be empty.")
+flags.DEFINE_list("states_to_process", [],
+                  "List of states to process from the config. If not "
+                  "provided, then all states from the config will be "
+                  "processed.")
 flags.mark_flag_as_required("config")
 
 
