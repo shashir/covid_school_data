@@ -185,17 +185,19 @@ def process_state_data(
           f"column '{mapping.target_column}' which has type "
           f"{df[mapping.target_column].dtype}.")
 
-  # Drop temporary columns.
-  df.drop(temporary_columns, axis=1, inplace=True)
-
   # Remove rows that need to be filtered out.
   for mapping in state_config.column_mappings:
     if mapping.filter_values:
       df = df[~df[mapping.target_column].isin(mapping.filter_values)]
 
-  # Write file.
-  if state_config.target_filepath:
-    df.to_csv(state_config.target_filepath, index=False)
+  # Dates should be mm/dd/YY.
+  for mapping in state_config.column_mappings:
+    if str(mapping.dtype).startswith("datetime64"):
+      df[mapping.target_column] = df[mapping.target_column].dt.strftime(
+          "%m/%d/%y")
+
+  # Drop temporary columns.
+  df.drop(temporary_columns, axis=1, inplace=True)
 
   # Create report.
   report_rows = list()
@@ -235,6 +237,10 @@ def process_state_data(
       report_rows,
       columns=["state", "column", "dtype", "count",
                "null_count", "min", "max", "mean", "mode"])
+
+  # Write file.
+  if state_config.target_filepath:
+    df.to_csv(state_config.target_filepath, index=False)
 
   return df, report_df
 
