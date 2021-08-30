@@ -199,10 +199,6 @@ def process_state_data(
   # Drop temporary columns.
   df.drop(temporary_columns, axis=1, inplace=True)
 
-  # Write file.
-  if state_config.target_filepath:
-    df.to_csv(state_config.target_filepath, index=False)
-
   # Create report.
   report_rows = list()
   for column in df:
@@ -241,6 +237,10 @@ def process_state_data(
       report_rows,
       columns=["state", "column", "dtype", "count",
                "null_count", "min", "max", "mean", "mode"])
+
+  # Write file.
+  if state_config.target_filepath:
+    df.to_csv(state_config.target_filepath, index=False)
 
   return df, report_df
 
