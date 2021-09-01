@@ -18,6 +18,8 @@ flags.DEFINE_list("states_to_process", [],
                   "List of states to process from the config. If not "
                   "provided, then all states from the config will be "
                   "processed.")
+flags.DEFINE_list("global_column_order", [],
+                  "Global order for all columns in the output file.")
 flags.mark_flag_as_required("config")
 
 
@@ -29,7 +31,8 @@ def main(argv):
       config,
       report_filepath=FLAGS.report,
       required_columns=FLAGS.required_columns,
-      states_to_process=FLAGS.states_to_process)
+      states_to_process=FLAGS.states_to_process,
+      global_column_order=FLAGS.global_column_order)
   print(pd.concat(state_report_dfs))
 
 
