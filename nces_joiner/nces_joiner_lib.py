@@ -2,6 +2,9 @@ import pandas as pd
 
 from typing import List, Text
 
+def process_fixed_length_codes(codes: Text, length: int) -> Text:
+  return ",".join([code.strip().zfill(length) for code in codes.split(",")])
+
 def read_lea_lookup_csv(lookup_files: List[Text]) -> pd.DataFrame:
   lookups = dict()
   drops = set()
@@ -13,7 +16,7 @@ def read_lea_lookup_csv(lookup_files: List[Text]) -> pd.DataFrame:
     })
     if "is_match" in df:
       f_lookup = {
-          k: str(v).strip().zfill(7)
+          k: process_fixed_length_codes(str(v), 7)
           for k, v in df[["DistrictName", "leaid"]].dropna().values
       }
       lookups.update(f_lookup)
@@ -24,7 +27,7 @@ def read_lea_lookup_csv(lookup_files: List[Text]) -> pd.DataFrame:
       keep_df = df[df["drop"].str.strip() == "keep"]
       drop_df = df[df["drop"].str.strip() == "drop"]
       f_lookup = {
-          k: str(v).strip().zfill(7)
+          k: process_fixed_length_codes(str(v), 7)
           for k, v in keep_df[["DistrictName", "leaid"]].dropna().values
       }
       lookups.update(f_lookup)
@@ -42,7 +45,7 @@ def read_nces_lookup_csv(lookup_files: List[Text]) -> pd.DataFrame:
         "drop": pd.StringDtype(),
     })
     if "is_match" in df:
-      f_lookup = {k: str(v).strip().zfill(12)
+      f_lookup = {k: process_fixed_length_codes(str(v), 12)
                   for k, v in df[["SchoolName", "ncessch"]].dropna().values}
       lookups.update(f_lookup)
       drop_df = df[df["is_match"].str.strip() == "drop"]
@@ -52,7 +55,7 @@ def read_nces_lookup_csv(lookup_files: List[Text]) -> pd.DataFrame:
       keep_df = df[df["drop"].str.strip() == "keep"]
       drop_df = df[df["drop"].str.strip() == "drop"]
       f_lookup = {
-          k: str(v).strip().zfill(12)
+          k: process_fixed_length_codes(str(v), 12)
           for k, v in keep_df[["SchoolName", "ncessch"]].dropna().values
       }
       lookups.update(f_lookup)
