@@ -13,6 +13,8 @@ def comma_separated_multilookup(map: Dict[Text, Text], key: Text):
   for k in keys:
     if k in map:
       values.append(map[k])
+  if len(set(values)) == 1:
+    return values[0]
   return ",".join(values)
 
 def join_nces_school_data(
