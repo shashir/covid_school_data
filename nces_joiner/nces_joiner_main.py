@@ -27,7 +27,13 @@ def main(argv):
     lookups, drops = nces_joiner_lib.read_lea_lookup_csv(FLAGS.nces_lookup_csv)
   else:
     lookups, drops = nces_joiner_lib.read_nces_lookup_csv(FLAGS.nces_lookup_csv)
-  state_case_df = pd.read_csv(FLAGS.state_case_data_csv, dtype=str)
+  state_case_df = pd.read_csv(
+      FLAGS.state_case_data_csv,
+      dtype={
+          "NCESSchoolID": pd.StringDtype(),
+          "NCESDistrictID": pd.StringDtype(),
+      }
+  )
   output_df = nces_joiner_lib.process_state(state_case_df, lookups, drops, FLAGS.process_districts)
   output_df.to_csv(FLAGS.output_csv, index=False)
 

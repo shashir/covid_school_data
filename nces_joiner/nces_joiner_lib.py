@@ -35,6 +35,17 @@ def read_lea_lookup_csv(lookup_files: List[Text]) -> pd.DataFrame:
       drops.update(drop_set)
   return lookups, drops
 
+def convert_school_ids_to_district_ids(school_ids: Text):
+  if str(school_ids) == "<NA>":
+    return None
+  school_ids = school_ids.split(",")
+  district_ids = []
+  for school_id in school_ids:
+    district_ids.append(school_id[:-5])
+  if len(set(district_ids)) == 1:
+    return district_ids[0]
+  return ",".join(district_ids)
+
 def read_nces_lookup_csv(lookup_files: List[Text]) -> pd.DataFrame:
   lookups = dict()
   drops = set()
@@ -70,6 +81,7 @@ def process_state(state_case_df, lookups, drops, process_districts=False):
   else:
     state_case_df["NCESSchoolID"] = state_case_df["SchoolName"].map(lookups)
     # Infer district id from school id.
-    state_case_df["NCESDistrictID"] = state_case_df["NCESSchoolID"].str[:-5]
+    state_case_df["NCESDistrictID"] = state_case_df["NCESSchoolID"].astype(
+        pd.StringDtype()).map(convert_school_ids_to_district_ids)
     state_case_df = state_case_df[state_case_df["SchoolName"].map(lambda x: x not in drops)]
   return state_case_df
