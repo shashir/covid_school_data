@@ -73,8 +73,7 @@ def converter_dict_getter(converter_dict: Dict[Any, Any]):
 
 def process_state_data(
     state_config: StateConfig,
-    required_columns: List[Text]=[],
-    global_column_order: List[Text]=[]
+    required_columns: List[Text]=[]
 ):
   """Read and process data for a single state based on config.
 
@@ -82,7 +81,6 @@ def process_state_data(
     state_config: configuration for state data source.
     required_columns: List of mandatory output columns. If no data is available,
                       they will be empty in the output.
-    global_column_order: Global order for all columns in the output file.
 
   Returns:
     (df, report_df) where df is the processed DataFrame and report_df is the
@@ -179,17 +177,6 @@ def process_state_data(
   # Reorder columns in order of the config.
   df = df[[mapping.target_column for mapping in state_config.column_mappings]]
 
-  # Reorder columns in the global column order.
-  if global_column_order:
-    ordered_columns = []
-    for column in global_column_order:
-      if column in df.columns:
-        ordered_columns.append(column)
-    for column in df.columns:
-      if column not in ordered_columns:
-        ordered_columns.append(column)
-    df = df[ordered_columns]
-
   # Validate dtypes.
   for mapping in state_config.column_mappings:
     if mapping.dtype:
@@ -247,6 +234,14 @@ def process_state_data(
           null_count=df[column].isna().sum())
       report_rows.append(column_report)
 
+  # Reorder columns in the global column order.
+  if required_columns:
+    for column in required_columns:
+      assert(column in df.columns), column
+    for column in df.columns:
+      assert(column in required_columns), column
+    df = df[required_columns]
+
   report_df = pd.DataFrame.from_records(
       report_rows,
       columns=["state", "column", "dtype", "count",
@@ -263,8 +258,7 @@ def process_all_states(
     config: List[StateConfig],
     report_filepath: Text=None,
     required_columns: List[Text]=[],
-    states_to_process: List[Text]=[],
-    global_column_order: List[Text]=[]
+    states_to_process: List[Text]=[]
 ):
   """Process all states in list of configs.
 
@@ -277,7 +271,6 @@ def process_all_states(
     states_to_process: List of states to process from the config. If not
                        provided, then all states from the config will be
                        processed.
-    global_column_order: Global order for all columns in the output file.
 
   Returns:
     (state_dfs, state_report_dfs): state_dfs is the list of processed state
@@ -292,8 +285,7 @@ def process_all_states(
           state_config.state_abbreviation.lower() not in states_to_process:
         continue
     print(f"Reading {state_config.state} from {state_config.source_filepath}.")
-    df, report_df = process_state_data(
-        state_config, required_columns, global_column_order)
+    df, report_df = process_state_data(state_config, required_columns)
     state_dfs.append(df)
     state_report_dfs.append(report_df)
     pd.set_option("display.max_columns", None, "display.width", 300)
