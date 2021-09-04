@@ -79,7 +79,10 @@ def read_state_level_csv(path: Text) -> pd.DataFrame:
   given state from CSV.
   """
   state_abbrev_from_file_name = path.split("/")[-1][:2]
-  df = pd.read_csv(path)
+  df = pd.read_csv(
+      path,
+      usecols=["StateAbbrev", "StateName", "SchoolName", "DistrictName"]
+  )
   # Validate
   assert (list(set(df["StateAbbrev"]))[0] == state_abbrev_from_file_name), (
     "State abbreviation '%s' doesn't match state name '%s'" % (
