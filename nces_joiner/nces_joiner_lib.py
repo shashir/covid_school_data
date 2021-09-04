@@ -3,7 +3,8 @@ import pandas as pd
 from typing import List, Text
 
 def process_fixed_length_codes(codes: Text, length: int) -> Text:
-  return ",".join([code.strip().zfill(length) for code in codes.split(",")])
+  return ",".join([str(int(float(code.strip()))).zfill(length)
+                   for code in codes.split(",")])
 
 def read_lea_lookup_csv(lookup_files: List[Text]) -> pd.DataFrame:
   lookups = dict()

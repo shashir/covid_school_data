@@ -45,7 +45,7 @@ def main(argv):
       })
   # yes -> Yes and no -> No and "Not applicable" -> No
   nces_school_demographics_df["charter"] = nces_school_demographics_df.apply(
-      lambda value: process_charter(value),
+      lambda row: process_charter(row["charter"]),
       axis=1
   )
   nces_district_demographics_df = pd.read_csv(
@@ -58,10 +58,10 @@ def main(argv):
           "agency_type": pd.StringDtype(),  # DistrictType
           "charter": pd.StringDtype(),  # Charter
       })
-  # yes -> Yes and no -> No
+  # yes -> Yes and no -> No and "Not applicable" -> No
   nces_district_demographics_df["charter"] =\
     nces_district_demographics_df.apply(
-      lambda value: process_charter(value),
+      lambda row: process_charter(row["charter"]),
       axis=1
   )
 
