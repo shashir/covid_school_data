@@ -47,8 +47,8 @@ def read_nces_lookup_csv(lookup_files: List[Text]) -> pd.DataFrame:
 
 def process_state(state_case_df, lookups):
   state_case_df["NCESSchoolID"] = state_case_df.apply(
-      lambda row: str(lookups.get(
-          (normalize(row["SchoolName"]), normalize(row["DistrictName"])))),
+      lambda row: lookups.get(
+          (normalize(row["SchoolName"]), normalize(row["DistrictName"]))),
       axis=1).astype(pd.StringDtype())
   # Infer district id from school id.
   state_case_df["NCESDistrictID"] = state_case_df["NCESSchoolID"].astype(
