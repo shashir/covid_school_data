@@ -50,7 +50,7 @@ def trigger_name_results(
     query, filtered_nces_df, search_index, process_districts,
     threshold=0.3, num_results=1):
   results = search_index.get(query)
-  nces_column_to_match = "district_name" if process_districts else "sch_name"
+  nces_column_to_match = "district_name" if process_districts else "school_name"
   weighted_jaccard_scorer = \
     data_frame_text_search_lib.WeightedTokenJaccardScorer(
         filtered_nces_df[nces_column_to_match])
@@ -84,7 +84,7 @@ def read_state_level_csv(path: Text) -> pd.DataFrame:
   assert (list(set(df["StateAbbrev"]))[0] == state_abbrev_from_file_name), (
     "State abbreviation '%s' doesn't match state name '%s'" % (
     list(set(df["StateAbbrev"]))[0], state_abbrev_from_file_name))
-  assert (list(set(df["State"]))[0] == STATE_ABBREV_MAPPING[
+  assert (list(set(df["StateName"]))[0] == STATE_ABBREV_MAPPING[
     state_abbrev_from_file_name])
   # Must contain SchoolName or DistrictName column.
   assert "SchoolName" in df.columns or "DistrictName" in df.columns
@@ -99,12 +99,11 @@ def best_effort_merge_nces_data(
 ) -> pd.DataFrame:
   state_abbrev = list(set(state_df["StateAbbrev"]))[0]
   # Get NCES data for state.
-  filtered_nces_df = nces_df[
-    nces_df["state"] == state_abbrev]
+  filtered_nces_df = nces_df[nces_df["state_location"] == state_abbrev]
   filtered_nces_df.reset_index(drop=True, inplace=True)
   search_index = data_frame_text_search_lib.DataFrameTextSearchInvertedIndex(
     filtered_nces_df,
-    "district_name" if process_districts else "sch_name")
+    "district_name" if process_districts else "school_name")
   output = list()
   progress = ProgressBar(len(state_df.index), note=state_abbrev)
   for index, row in state_df.iterrows():

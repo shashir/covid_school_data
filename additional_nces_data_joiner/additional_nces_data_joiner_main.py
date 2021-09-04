@@ -14,6 +14,12 @@ flags.DEFINE_bool("process_districts", False,
                   "Whether to only process districts")
 flags.DEFINE_string("output_csv", None, "Output CSV.")
 
+def capitalize_charter(value):
+  if pd.isna(value):
+    return value
+  return value[0].upper() + value[1:]
+
+
 def main(argv):
   assert len(argv) == 1, "Unexpected arguments provided: " + " ".join(argv[1:])
   state_case_df = pd.read_csv(
@@ -35,6 +41,11 @@ def main(argv):
           "ncessch_num": pd.StringDtype(),  # NCESSchoolID
           "seasch": pd.StringDtype(),  # StateAssignedDistrictID
       })
+  # yes -> Yes and no -> No
+  nces_school_demographics_df["charter"] = nces_school_demographics_df.apply(
+      lambda value: capitalize_charter(value),
+      axis=1
+  )
   nces_district_demographics_df = pd.read_csv(
       FLAGS.nces_district_demographics_csv,
       usecols=["lea_name", "state_leaid", "leaid", "agency_type", "charter"],
@@ -45,6 +56,12 @@ def main(argv):
           "agency_type": pd.StringDtype(),  # DistrictType
           "charter": pd.StringDtype(),  # Charter
       })
+  # yes -> Yes and no -> No
+  nces_district_demographics_df["charter"] =\
+    nces_district_demographics_df.apply(
+      lambda value: capitalize_charter(value),
+      axis=1
+  )
 
   if FLAGS.process_districts:
     output_df = additional_nces_data_joiner_lib.join_nces_district_data(
