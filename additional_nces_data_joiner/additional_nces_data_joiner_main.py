@@ -14,9 +14,11 @@ flags.DEFINE_bool("process_districts", False,
                   "Whether to only process districts")
 flags.DEFINE_string("output_csv", None, "Output CSV.")
 
-def capitalize_charter(value):
+def process_charter(value):
   if pd.isna(value):
     return value
+  if value == "Not applicable":
+    return "No"
   return value[0].upper() + value[1:]
 
 
@@ -41,9 +43,9 @@ def main(argv):
           "ncessch_num": pd.StringDtype(),  # NCESSchoolID
           "seasch": pd.StringDtype(),  # StateAssignedDistrictID
       })
-  # yes -> Yes and no -> No
+  # yes -> Yes and no -> No and "Not applicable" -> No
   nces_school_demographics_df["charter"] = nces_school_demographics_df.apply(
-      lambda value: capitalize_charter(value),
+      lambda value: process_charter(value),
       axis=1
   )
   nces_district_demographics_df = pd.read_csv(
@@ -59,7 +61,7 @@ def main(argv):
   # yes -> Yes and no -> No
   nces_district_demographics_df["charter"] =\
     nces_district_demographics_df.apply(
-      lambda value: capitalize_charter(value),
+      lambda value: process_charter(value),
       axis=1
   )
 
