@@ -235,12 +235,15 @@ def process_state_data(
       report_rows.append(column_report)
 
   # Reorder columns in the global column order.
+  unexpected_columns = []
   if required_columns:
     for column in required_columns:
       assert(column in df.columns), column
     for column in df.columns:
-      assert(column in required_columns), column
-    df = df[required_columns]
+      if column not in required_columns:
+        print("Following column was unexpected:", column)
+        unexpected_columns.append(column)
+    df = df[required_columns + unexpected_columns]
 
   report_df = pd.DataFrame.from_records(
       report_rows,
