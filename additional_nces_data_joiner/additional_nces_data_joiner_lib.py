@@ -6,7 +6,7 @@ def format_id(id: Text, length: int) -> Text:
   return str(int(float(id))).strip().zfill(length)
 
 def comma_separated_multilookup(map: Dict[Text, Text], key: Text):
-  if str(key) == "<NA>":
+  if pd.isna(key):
     return None
   keys: List[Text] = key.split(",")
   values: List[Text] = []

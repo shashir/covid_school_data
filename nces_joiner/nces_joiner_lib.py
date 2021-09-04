@@ -36,7 +36,7 @@ def read_lea_lookup_csv(lookup_files: List[Text]) -> pd.DataFrame:
   return lookups, drops
 
 def convert_school_ids_to_district_ids(school_ids: Text):
-  if str(school_ids) == "<NA>":
+  if pd.isna(school_ids):
     return None
   school_ids = school_ids.split(",")
   district_ids = []
