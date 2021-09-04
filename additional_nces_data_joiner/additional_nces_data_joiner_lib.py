@@ -45,8 +45,10 @@ def join_nces_school_data(
       for k, v in nces_district_demographics_df[
         ["leaid", "lea_name"]].dropna().values
   }
-  state_case_df["DistrictName"] = state_case_df["NCESDistrictID"].map(
-      lambda key: comma_separated_multilookup(lea_name_lookup, key))
+  # Do not override DistrictName if it already exists.
+  state_case_df["DistrictName"] = state_case_df["DistrictName"].combine_first(
+      state_case_df["NCESDistrictID"].map(
+      lambda key: comma_separated_multilookup(lea_name_lookup, key)))
 
   charter_lookup = {
       format_id(k, 12): v
