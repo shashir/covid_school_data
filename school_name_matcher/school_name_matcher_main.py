@@ -20,9 +20,9 @@ def main(argv):
         "Provide either NCES School data or NCES District data, but not both.")
     nces_df = pd.read_csv(
         FLAGS.nces_districts,
-        usecols=["state", "lea_name", "state_leaid", "leaid"],
+        usecols=["state_location", "lea_name", "state_leaid", "leaid"],
         dtype={
-            "state": pd.StringDtype(),
+            "state_location": pd.StringDtype(),
             "lea_name": pd.StringDtype(),
             "state_leaid": pd.StringDtype(),
             "leaid": pd.StringDtype()
@@ -32,10 +32,10 @@ def main(argv):
         "Provide either NCES School data or NCES District data, but not both.")
     nces_df = pd.read_csv(
         FLAGS.nces_schools,
-        usecols=["state", "lea_name", "state_leaid", "leaid", "school_name",
-                 "ncessch_num", "seasch"],
+        usecols=["state_location", "lea_name", "state_leaid", "leaid",
+                 "school_name", "ncessch_num", "seasch"],
         dtype={
-            "state": pd.StringDtype(),
+            "state_location": pd.StringDtype(),
             "lea_name": pd.StringDtype(),
             "state_leaid": pd.StringDtype(),
             "leaid": pd.StringDtype(),
