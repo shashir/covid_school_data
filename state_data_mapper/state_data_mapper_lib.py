@@ -31,7 +31,7 @@ class ColumnMapping(NamedTuple):
   # List of values for rows that need to be filtered out.
   filter_values: List = None
   # Drop rows from the data frame if this column value is NA.
-  dropna: bool = True
+  dropna: bool = False
 
 
 class StateConfig(NamedTuple):
