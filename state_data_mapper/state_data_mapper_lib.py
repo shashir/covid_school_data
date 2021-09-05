@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 from recordclass import RecordClass
-from typing import Any, Dict, List, NamedTuple, Optional, Text
+from typing import Any, Dict, List, NamedTuple, Optional, Set, Text
 
 
 class ColumnMapping(NamedTuple):
@@ -29,7 +29,10 @@ class ColumnMapping(NamedTuple):
   # Calculate this column from other columns.
   calculation: Any = None
   # List of values for rows that need to be filtered out.
-  filter_values: List = None
+  filter_values: List[Any] = None
+  # Filter values file path. Should contain values to filter, one per line.
+  # This file is read as a headerless CSV and will respect quotes as a CSV.
+  filter_values_file: Text = None
   # Drop rows from the data frame if this column value is NA.
   dropna: bool = False
 
@@ -73,6 +76,12 @@ def converter_dict_getter(converter_dict: Dict[Any, Any]):
   def get(x: Any):
     return converter_dict.get(x, x)
   return get
+
+
+def read_filter_values_file(filepath: Text) -> Set[Any]:
+  """Read filter values file as a headerless CSV."""
+  df = pd.read_csv(filepath, header=None, usecols=[0])
+  return set(df[0])
 
 
 def process_state_data(
@@ -192,8 +201,13 @@ def process_state_data(
 
   # Remove rows that need to be filtered out.
   for mapping in state_config.column_mappings:
+    filter_values = set()
     if mapping.filter_values:
-      df = df[~df[mapping.target_column].isin(mapping.filter_values)]
+      filter_values.update(mapping.filter_values)
+    if mapping.filter_values_file:
+      filter_values.update(read_filter_values_file(mapping.filter_values_file))
+    if filter_values:
+      df = df[~df[mapping.target_column].isin(set(filter_values))]
     if mapping.dropna:
       df.dropna(subset=[mapping.target_column])
 
@@ -239,7 +253,7 @@ def process_state_data(
       column_report = ColumnReadReport(
           state_config.state,
           column,
-          dtype=object,
+          dtype="object",
           count=df[column].count(),
           null_count=df[column].isna().sum())
       report_rows.append(column_report)
