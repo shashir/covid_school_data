@@ -50,6 +50,8 @@ class StateConfig(NamedTuple):
   # If more than one, source sheet name(s) containing data.
   # If not specified, then read from "Data for {state}".
   source_sheet_names_list: List[Text] = []
+  # If True, then output rows are deduped.
+  dedupe_rows: bool = True
 
 
 class ColumnReadReport(RecordClass):
@@ -191,6 +193,7 @@ def process_state_data(
     if mapping.filter_values:
       df = df[~df[mapping.target_column].isin(mapping.filter_values)]
 
+
   # Dates should be mm/dd/YY.
   for mapping in state_config.column_mappings:
     if str(mapping.dtype).startswith("datetime64"):
@@ -199,6 +202,10 @@ def process_state_data(
 
   # Drop temporary columns.
   df.drop(temporary_columns, axis=1, inplace=True)
+
+  # Dedupe rows.
+  if state_config.dedupe_rows:
+    df.drop_duplicates(inplace=True)
 
   # Create report.
   report_rows = list()
