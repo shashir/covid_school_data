@@ -30,6 +30,7 @@ def convert_school_ids_to_district_ids(school_ids: Text):
 
 def read_nces_lookup_csv(lookup_files: List[Text]) -> pd.DataFrame:
   lookups = dict()
+  drops = set()
   for f in lookup_files:
     df = pd.read_csv(f, dtype={
         "school_name": pd.StringDtype(),
@@ -42,9 +43,14 @@ def read_nces_lookup_csv(lookup_files: List[Text]) -> pd.DataFrame:
           ["school_name", "lea_name", "ncessch"]].dropna().values
     }
     lookups.update(f_lookup)
-  return lookups
+    if "drop" in df:
+      drop_df = df[df["drop"].str.strip() == "drop"]
+      drop_set = set([(x[0], x[1]) for x in drop_df[
+        ["school_name", "lea_name"]].values])
+      drops.update(drop_set)
+  return lookups, drops
 
-def process_state(state_case_df, lookups):
+def process_state(state_case_df, lookups, drops):
   state_case_df["NCESSchoolID"] = state_case_df.apply(
       lambda row: lookups.get(
           (normalize(row["SchoolName"]), normalize(row["DistrictName"]))),
@@ -53,4 +59,8 @@ def process_state(state_case_df, lookups):
   # Infer district id from school id.
   state_case_df["NCESDistrictID"] = state_case_df["NCESSchoolID"].astype(
       pd.StringDtype()).map(convert_school_ids_to_district_ids)
+  print(drops)
+  state_case_df = state_case_df[state_case_df.apply(
+      lambda row: (row["SchoolName"], row["DistrictName"]) not in drops,
+      axis=1)]
   return state_case_df
