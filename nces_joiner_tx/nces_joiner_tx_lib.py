@@ -48,8 +48,8 @@ def process_state(state_case_df, lookups):
   state_case_df["NCESSchoolID"] = state_case_df.apply(
       lambda row: lookups.get(
           (normalize(row["SchoolName"]), normalize(row["DistrictName"]))),
-      axis=1).astype(pd.StringDtype()).combine_first(
-          state_case_df["NCESSchoolID"])
+      axis=1).combine_first(state_case_df["NCESSchoolID"]).astype(
+      pd.StringDtype())
   # Infer district id from school id.
   state_case_df["NCESDistrictID"] = state_case_df["NCESSchoolID"].astype(
       pd.StringDtype()).map(convert_school_ids_to_district_ids)
