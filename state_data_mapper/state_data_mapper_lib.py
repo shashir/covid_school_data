@@ -30,6 +30,8 @@ class ColumnMapping(NamedTuple):
   calculation: Any = None
   # List of values for rows that need to be filtered out.
   filter_values: List = None
+  # Drop rows from the data frame if this column value is NA.
+  dropna: bool = True
 
 
 class StateConfig(NamedTuple):
@@ -192,7 +194,8 @@ def process_state_data(
   for mapping in state_config.column_mappings:
     if mapping.filter_values:
       df = df[~df[mapping.target_column].isin(mapping.filter_values)]
-
+    if mapping.dropna:
+      df.dropna(subset=[mapping.target_column])
 
   # Dates should be mm/dd/YY.
   for mapping in state_config.column_mappings:
