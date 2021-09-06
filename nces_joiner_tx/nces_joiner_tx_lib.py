@@ -11,7 +11,7 @@ def normalize(s):
   if not isinstance(s, str):
     return ""
   tokens = list()
-  for token in re.split('[^a-zA-Z]', s.lower()):
+  for token in re.split('[^a-zA-Z0-9]', s.lower()):
     if token:
       tokens.append(token.strip())
   return " ".join(tokens)
@@ -57,8 +57,8 @@ def process_state(state_case_df, lookups, drops):
   state_case_df["NCESSchoolID"] = state_case_df.apply(
       lambda row: lookups.get(
           (normalize(row["SchoolName"]), normalize(row["DistrictName"]))),
-      axis=1).combine_first(state_case_df["NCESSchoolID"]).astype(
-      pd.StringDtype())
+      axis=1).astype(pd.StringDtype()).combine_first(
+      state_case_df["NCESSchoolID"]).astype(pd.StringDtype())
   # Infer district id from school id.
   state_case_df["NCESDistrictID"] = state_case_df["NCESSchoolID"].astype(
       pd.StringDtype()).map(convert_school_ids_to_district_ids)
