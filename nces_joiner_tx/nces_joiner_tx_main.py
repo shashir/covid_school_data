@@ -14,9 +14,14 @@ flags.DEFINE_string("output_csv", None, "Output CSV.")
 
 def main(argv):
   assert len(argv) == 1, "Unexpected arguments provided: " + " ".join(argv[1:])
-  lookups = nces_joiner_tx_lib.read_nces_lookup_csv(FLAGS.nces_lookup_csv)
-  state_case_df = pd.read_csv(FLAGS.state_case_data_csv)
-  output_df = nces_joiner_tx_lib.process_state(state_case_df, lookups)
+  lookups, drops = nces_joiner_tx_lib.read_nces_lookup_csv(
+      FLAGS.nces_lookup_csv)
+  state_case_df = pd.read_csv(
+      FLAGS.state_case_data_csv,
+      dtype={
+          "NCESSchoolID": pd.StringDtype()
+      })
+  output_df = nces_joiner_tx_lib.process_state(state_case_df, lookups, drops)
   output_df.to_csv(FLAGS.output_csv, index=False)
 
 
