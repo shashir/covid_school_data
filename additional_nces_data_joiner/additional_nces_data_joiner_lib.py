@@ -21,13 +21,13 @@ def join_nces_school_data(
     state_case_df,
     nces_school_demographics_df,
     nces_district_demographics_df):
-  state_leaid_lookup = {
-      format_id(k, 12): v
-      for k, v in nces_school_demographics_df[
-        ["ncessch_num", "state_leaid"]].dropna().values
-  }
-  state_case_df["StateAssignedDistrictID"] = state_case_df["NCESSchoolID"].map(
-      lambda key: comma_separated_multilookup(state_leaid_lookup, key))
+  # state_leaid_lookup = {
+  #     format_id(k, 12): v
+  #     for k, v in nces_school_demographics_df[
+  #       ["ncessch_num", "state_leaid"]].dropna().values
+  # }
+  # state_case_df["StateAssignedDistrictID"] = state_case_df["NCESSchoolID"].map(
+  #     lambda key: comma_separated_multilookup(state_leaid_lookup, key))
 
   # Unfortunately, we can only look up district type using
   # nces_district_demographics_df
@@ -66,23 +66,23 @@ def join_nces_school_data(
   state_case_df["SchoolType"] = state_case_df["NCESSchoolID"].map(
       lambda key: comma_separated_multilookup(school_type_lookup, key))
 
-  seasch_type_lookup = {
-      format_id(k, 12): v
-      for k, v in nces_school_demographics_df[
-        ["ncessch_num", "seasch"]].dropna().values
-  }
-  state_case_df["StateAssignedSchoolID"] = state_case_df["NCESSchoolID"].map(
-      lambda key: comma_separated_multilookup(seasch_type_lookup, key))
+  # seasch_type_lookup = {
+  #     format_id(k, 12): v
+  #     for k, v in nces_school_demographics_df[
+  #       ["ncessch_num", "seasch"]].dropna().values
+  # }
+  # state_case_df["StateAssignedSchoolID"] = state_case_df["NCESSchoolID"].map(
+  #     lambda key: comma_separated_multilookup(seasch_type_lookup, key))
   return state_case_df
 
 def join_nces_district_data(state_case_df, nces_df):
-  state_leaid_lookup = {
-      format_id(k, 7): v
-      for k, v in nces_df[["leaid", "state_leaid"]].dropna().values
-  }
-  state_case_df["StateAssignedDistrictID"] = state_case_df[
-    "NCESDistrictID"
-  ].map(lambda key: comma_separated_multilookup(state_leaid_lookup, key))
+  # state_leaid_lookup = {
+  #     format_id(k, 7): v
+  #     for k, v in nces_df[["leaid", "state_leaid"]].dropna().values
+  # }
+  # state_case_df["StateAssignedDistrictID"] = state_case_df[
+  #   "NCESDistrictID"
+  # ].map(lambda key: comma_separated_multilookup(state_leaid_lookup, key))
 
   agency_type_lookup = {
       format_id(k, 7): v
