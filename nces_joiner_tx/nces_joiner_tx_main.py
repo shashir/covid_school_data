@@ -1,3 +1,4 @@
+import csv
 import pandas as pd
 
 from absl import app
@@ -22,7 +23,7 @@ def main(argv):
           "NCESSchoolID": pd.StringDtype()
       })
   output_df = nces_joiner_tx_lib.process_state(state_case_df, lookups, drops)
-  output_df.to_csv(FLAGS.output_csv, index=False)
+  output_df.to_csv(FLAGS.output_csv, index=False, quoting=csv.QUOTE_NONNUMERIC)
 
 
 

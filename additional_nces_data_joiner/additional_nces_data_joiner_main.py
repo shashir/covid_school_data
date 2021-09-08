@@ -1,3 +1,4 @@
+import csv
 import pandas as pd
 
 from absl import app
@@ -72,7 +73,7 @@ def main(argv):
     output_df = additional_nces_data_joiner_lib.join_nces_school_data(
         state_case_df, nces_school_demographics_df,
         nces_district_demographics_df)
-  output_df.to_csv(FLAGS.output_csv, index=False)
+  output_df.to_csv(FLAGS.output_csv, index=False, quoting=csv.QUOTE_NONNUMERIC)
 
 
 if __name__ == '__main__':

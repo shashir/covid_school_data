@@ -5,6 +5,7 @@
 #   --output_csv="/home/shashir/Downloads/DE_joined.csv" \
 #   --process_districts=true
 
+import csv
 import pandas as pd
 
 from absl import app
@@ -35,7 +36,7 @@ def main(argv):
       }
   )
   output_df = nces_joiner_lib.process_state(state_case_df, lookups, drops, FLAGS.process_districts)
-  output_df.to_csv(FLAGS.output_csv, index=False)
+  output_df.to_csv(FLAGS.output_csv, index=False, quoting=csv.QUOTE_NONNUMERIC)
 
 
 
