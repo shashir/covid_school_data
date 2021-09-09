@@ -139,7 +139,8 @@ def filter_matching_rows(
     left_df: pd.DataFrame,
     right_df: pd.DataFrame,
     on: List[Text],
-    on_fuzzy_match_columns: List[Text]):
+    on_fuzzy_match_columns: List[Text],
+    filter_out=True):
   """Filter matching rows from left data frame.
 
   Args:
@@ -147,6 +148,8 @@ def filter_matching_rows(
     right_df: right data frame.
     on: list of columns to match on.
     on_fuzzy_match_columns: additional string columns to fuzzy match on.
+    filter_out: If True, matching rows are filtered out. If False,
+                non-matching rows are filtered out.
 
   Returns:
     Left data frame without matching rows from right data frame.
@@ -154,8 +157,11 @@ def filter_matching_rows(
   right_df = right_df[on + on_fuzzy_match_columns].copy(deep=True)
   right_df["_drop"] = True
   merged_df = left_join(left_df, right_df, on, on_fuzzy_match_columns)
-  merged_df = merged_df[merged_df["_drop"].isna() |
-                        (merged_df["_drop"] == False)]
+  if filter_out:
+    merged_df = merged_df[merged_df["_drop"].isna() |
+                          (merged_df["_drop"] == False)]
+  else:
+    merged_df = merged_df[merged_df["_drop"] == True]
   merged_df.drop("_drop", axis=1, inplace=True)
   return merged_df
 
