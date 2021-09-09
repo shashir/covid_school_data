@@ -31,9 +31,6 @@ class ColumnMapping(NamedTuple):
   calculation: Any = None
   # List of values for rows that need to be filtered out.
   filter_values: List[Any] = None
-  # Filter values file path. Should contain values to filter, one per line.
-  # This file is read as a headerless CSV and will respect quotes as a CSV.
-  filter_values_file: Text = None
   # Drop rows from the data frame if this column value is NA.
   dropna: bool = False
 
@@ -58,7 +55,13 @@ class StateConfig(NamedTuple):
   source_sheet_names_list: List[Text] = []
   # If True, then output rows are deduped.
   dedupe_rows: bool = True
-
+  # Filter values file path. XLSX file whose rows with matching values will be
+  # filtered out of the case data file.
+  filter_values_file: Text = None
+  # Filter value file columns to match on.
+  filter_values_file_match_on: List[Text] = []
+  # Filter value file columns to match on with fuzzy text matching.
+  filter_values_file_fuzzy_match_on: List[Text] = []
 
 class ColumnReadReport(RecordClass):
   """Report summarizing the processed output column."""
@@ -77,12 +80,6 @@ def converter_dict_getter(converter_dict: Dict[Any, Any]):
   def get(x: Any):
     return converter_dict.get(x, x)
   return get
-
-
-def read_filter_values_file(filepath: Text) -> Set[Any]:
-  """Read filter values file as a headerless CSV."""
-  df = pd.read_csv(filepath, header=None, usecols=[0])
-  return set(df[0])
 
 
 def normalize(s: Text) -> Text:
@@ -278,17 +275,26 @@ def process_state_data(
           f"column '{mapping.target_column}' which has type "
           f"{df[mapping.target_column].dtype}.")
 
-  # Remove rows that need to be filtered out.
+  # Remove rows that need to be filtered out from filter values in the config.
   for mapping in state_config.column_mappings:
-    filter_values = set()
     if mapping.filter_values:
-      filter_values.update(mapping.filter_values)
-    if mapping.filter_values_file:
-      filter_values.update(read_filter_values_file(mapping.filter_values_file))
-    if filter_values:
-      df = df[~df[mapping.target_column].isin(set(filter_values))]
+      df = df[~df[mapping.target_column].isin(set(mapping.filter_values))]
     if mapping.dropna:
       df.dropna(subset=[mapping.target_column])
+
+  # Remove rows that need to be filtered out based on the filter XLSX file.
+  if state_config.filter_values_file:
+    filter_values_df = pd.read_excel(state_config.filter_values_file)
+    filter_columns = state_config.filter_values_file_match_on +\
+                     state_config.filter_values_file_fuzzy_match_on
+    assert filter_columns
+    assert set(filter_columns).issubset(df.columns)
+    assert set(filter_columns).issubset(filter_values_df.columns)
+    df = filter_matching_rows(
+        df,
+        filter_values_df,
+        state_config.filter_values_file_match_on,
+        state_config.filter_values_file_fuzzy_match_on)
 
   # Dates should be mm/dd/YY.
   for mapping in state_config.column_mappings:
