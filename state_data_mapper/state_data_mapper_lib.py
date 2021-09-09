@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import re
 
 from recordclass import RecordClass
 from typing import Any, Dict, List, NamedTuple, Optional, Set, Text
@@ -82,6 +83,84 @@ def read_filter_values_file(filepath: Text) -> Set[Any]:
   """Read filter values file as a headerless CSV."""
   df = pd.read_csv(filepath, header=None, usecols=[0])
   return set(df[0])
+
+
+def normalize(s: Text) -> Text:
+  """Normalize a string for easier matching."""
+  if not isinstance(s, str):
+    return s
+  tokens = list()
+  for token in re.split('[^a-zA-Z0-9]', s.lower()):
+    if token:
+      tokens.append(token.strip())
+  return " ".join(tokens)
+
+
+def left_join(
+    left_df: pd.DataFrame,
+    right_df: pd.DataFrame,
+    on: List[Text],
+    on_fuzzy_match_columns: List[Text]):
+  """Left join data frames on given columns. Handles string fuzzy match.
+
+  Args:
+    left_df: left data frame
+    right_df: right data frame.
+    on: list of columns to match on.
+    on_fuzzy_match_columns: additional string columns to fuzzy match on.
+
+  Returns:
+    Left joined data frame.
+  """
+  assert set(on).issubset(left_df.columns)
+  assert set(on).issubset(right_df.columns)
+  assert not set(on_fuzzy_match_columns).issubset(on)
+  left_df = left_df.copy(deep=True)
+  right_df = right_df.copy(deep=True)
+  normalized_columns = []
+  # Create temporary string columns with normalized versions of the strings for
+  # fuzzy matching.
+  for column in on_fuzzy_match_columns:
+    assert column in left_df.columns
+    assert column in right_df.columns
+    column_normalized = "_normalized_" + column
+    normalized_columns.append(column_normalized)
+    left_df[column_normalized] = left_df[column].transform(normalize)
+    right_df[column_normalized] = right_df[column].transform(normalize)
+    # Drop the original column from the right data frame (we don't need it
+    # anymore now that the normalized version of it available.
+    right_df = right_df.drop(column, axis=1)
+
+  merged_df = left_df.merge(right_df, on=on + normalized_columns, how="left")
+  # Drop the normalized columns from the merged dataframe.
+  for column in normalized_columns:
+    merged_df.drop(column, axis=1, inplace=True)
+  return merged_df
+
+
+def filter_matching_rows(
+    left_df: pd.DataFrame,
+    right_df: pd.DataFrame,
+    on: List[Text],
+    on_fuzzy_match_columns: List[Text]):
+  """Filter matching rows from left data frame.
+
+  Args:
+    left_df: left data frame
+    right_df: right data frame.
+    on: list of columns to match on.
+    on_fuzzy_match_columns: additional string columns to fuzzy match on.
+
+  Returns:
+    Left data frame without matching rows from right data frame.
+  """
+  right_df = right_df[on + on_fuzzy_match_columns].copy(deep=True)
+  right_df["_drop"] = True
+  merged_df = left_join(left_df, right_df, on, on_fuzzy_match_columns)
+  merged_df = merged_df[merged_df["_drop"].isna() |
+                        (merged_df["_drop"] == False)]
+  merged_df.drop("_drop", axis=1, inplace=True)
+  return merged_df
 
 
 def process_state_data(
