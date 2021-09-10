@@ -62,6 +62,9 @@ class StateConfig(NamedTuple):
   filter_values_file_match_on: List[Text] = []
   # Filter value file columns to match on with fuzzy text matching.
   filter_values_file_fuzzy_match_on: List[Text] = []
+  nces_id_lookup_file: Text = None
+  nces_id_lookup_file_match_on: List[Text] = []
+  nces_id_lookup_file_fuzzy_match_on: List[Text] = []
 
 class ColumnReadReport(RecordClass):
   """Report summarizing the processed output column."""
@@ -314,6 +317,25 @@ def process_state_data(
   # Dedupe rows.
   if state_config.dedupe_rows:
     df.drop_duplicates(inplace=True)
+
+  # Join NCES IDs
+  if state_config.nces_id_lookup_file:
+    nces_id_lookup_df = pd.read_excel(
+        state_config.nces_id_lookup_file,
+        dtype={
+            "NCESSchoolID": pd.StringDtype(),
+            "NCESDistrictID": pd.StringDtype(),
+        })
+    filter_columns = state_config.nces_id_lookup_file_match_on + \
+                     state_config.nces_id_lookup_file_fuzzy_match_on
+    assert filter_columns
+    assert set(filter_columns).issubset(df.columns)
+    assert set(filter_columns).issubset(nces_id_lookup_df.columns)
+    df = left_join(
+        df,
+        nces_id_lookup_df,
+        state_config.nces_id_lookup_file_match_on,
+        state_config.nces_id_lookup_file_fuzzy_match_on)
 
   # Create report.
   report_rows = list()
