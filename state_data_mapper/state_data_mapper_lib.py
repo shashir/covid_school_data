@@ -441,7 +441,9 @@ def process_state_data(
 
   # Write file.
   if state_config.target_filepath:
-    df.to_csv(state_config.target_filepath, index=False)
+    df.to_excel(state_config.target_filepath, index=False)
+    df.to_csv(state_config.target_filepath.replace(".xlsx", ".csv"),
+              index=False)
 
   return df, report_df
 
