@@ -91,7 +91,7 @@ def coerce_int(value):
   coerced_numeric_value = pd.to_numeric(value, errors="coerce")
   if (pd.notna(coerced_numeric_value) and
       int(coerced_numeric_value) == coerced_numeric_value):
-    return int(coerced_numeric_value)
+    return str(int(coerced_numeric_value))
   else:
     return value
 
