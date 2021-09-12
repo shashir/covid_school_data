@@ -80,9 +80,20 @@ class ColumnReadReport(RecordClass):
 
 
 def converter_dict_getter(converter_dict: Dict[Any, Any]):
+  """Returns a function that looks up a key in a dict or returns the key if
+  the value is not found."""
   def get(x: Any):
     return converter_dict.get(x, x)
   return get
+
+
+def coerce_int(value):
+  coerced_numeric_value = pd.to_numeric(value, errors="coerce")
+  if (pd.notna(coerced_numeric_value) and
+      int(coerced_numeric_value) == coerced_numeric_value):
+    return int(coerced_numeric_value)
+  else:
+    return value
 
 
 def normalize(s: Text) -> Text:
@@ -94,6 +105,11 @@ def normalize(s: Text) -> Text:
     if token:
       tokens.append(token.strip())
   return " ".join(tokens)
+
+
+def strip_and_clean_string(input: Text) -> Text:
+  """Remove newlines and trailing spaces."""
+  return " ".join(input.split())
 
 
 def left_join(
@@ -170,6 +186,10 @@ def filter_matching_rows(
 
 
 def process_fixed_length_codes(codes: Text, length: int) -> Text:
+  """Ensures NCES codes are fixed length strings of numbers.
+
+  If there is more than one code, then they should be comma-separated.
+  """
   return ",".join([str(int(float(code.strip()))).zfill(length)
                    for code in codes.split(",")])
 
@@ -322,6 +342,21 @@ def process_state_data(
   # Dedupe rows.
   if state_config.dedupe_rows:
     df.drop_duplicates(inplace=True)
+
+  # Strip and clean up SchoolName, DistrictName, and City if present.
+  for column in ["SchoolName", "DistrictName", "City"]:
+    if column in df:
+      df[column] = df[column].map(
+          lambda value: strip_and_clean_string(value)
+          if pd.notna(value) else value
+      )
+
+  # For integers in object type columns, cast as value as integer to avoid '.0'
+  # suffix.
+  for column in df:
+    if not column.startswith("NCES") and df[column].dtype == object:
+      df[column] = df[column].map(coerce_int)
+
 
   # Join NCES IDs
   if state_config.nces_id_lookup_file:
