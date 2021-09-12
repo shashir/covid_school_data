@@ -367,17 +367,17 @@ def process_state_data(
             "NCESDistrictID": pd.StringDtype(),
         })
     # Ensure that the NCES codes are strings.
-    if "NCESDistrictID" in nces_id_lookup_df:
-      nces_id_lookup_df["NCESDistrictID"] =\
-        nces_id_lookup_df["NCESDistrictID"].map(
-          lambda value: process_fixed_length_codes(value, 7)
-          if pd.notna((value)) else value
-        )
-    if "NCESSchoolID" in nces_id_lookup_df:
-      nces_id_lookup_df["NCESSchoolID"] = nces_id_lookup_df["NCESSchoolID"].map(
-          lambda value: process_fixed_length_codes(value, 12)
-          if pd.notna((value)) else value
-      )
+    # if "NCESDistrictID" in nces_id_lookup_df:
+    #   nces_id_lookup_df["NCESDistrictID"] =\
+    #     nces_id_lookup_df["NCESDistrictID"].map(
+    #       lambda value: process_fixed_length_codes(value, 7)
+    #       if pd.notna((value)) else value
+    #     )
+    # if "NCESSchoolID" in nces_id_lookup_df:
+    #   nces_id_lookup_df["NCESSchoolID"] = nces_id_lookup_df["NCESSchoolID"].map(
+    #       lambda value: process_fixed_length_codes(value, 12)
+    #       if pd.notna((value)) else value
+    #   )
     filter_columns = state_config.nces_id_lookup_file_match_on + \
                      state_config.nces_id_lookup_file_fuzzy_match_on
     assert filter_columns
