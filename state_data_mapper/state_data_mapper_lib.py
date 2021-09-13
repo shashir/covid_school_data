@@ -5,6 +5,8 @@ import re
 from recordclass import RecordClass
 from typing import Any, Dict, List, NamedTuple, Optional, Set, Text
 
+from state_data_mapper import nces_metadata_joiner_lib
+
 
 class ColumnMapping(NamedTuple):
   """Defines how to process columns in state data source file."""
@@ -196,7 +198,9 @@ def process_fixed_length_codes(codes: Text, length: int) -> Text:
 
 def process_state_data(
     state_config: StateConfig,
-    required_columns: List[Text]=[]
+    required_columns: List[Text]=[],
+    nces_school_metadata: Text=None,
+    nces_district_metadata: Text=None
 ):
   """Read and process data for a single state based on config.
 
@@ -204,6 +208,10 @@ def process_state_data(
     state_config: configuration for state data source.
     required_columns: List of mandatory output columns. If no data is available,
                       they will be empty in the output.
+    nces_school_metadata: XLSX filepath containing NCESSchoolID, NCESDistrictID,
+                          Charter, SchoolType columns.
+    nces_district_metadata: XLSX filepath containing, NCESDistrictID, Charter,
+                            DistrictType columns.
 
   Returns:
     (df, report_df) where df is the processed DataFrame and report_df is the
@@ -389,6 +397,30 @@ def process_state_data(
         state_config.nces_id_lookup_file_match_on,
         state_config.nces_id_lookup_file_fuzzy_match_on)
 
+  # Join additional NCES metadata.
+  # Either both nces_school_metadata and nces_district_metadata are available
+  # or both are unavailable
+  assert ((nces_school_metadata and nces_district_metadata) or (
+      not nces_school_metadata and not nces_district_metadata))
+  if nces_school_metadata and nces_district_metadata:
+    nces_school_metadata_df = pd.read_excel(
+        nces_school_metadata,
+        usecols=["NCESSchoolID", "NCESDistrictID", "SchoolType", "Charter"],
+        dtype=pd.StringDtype()
+    )
+    nces_district_metadata_df = pd.read_excel(
+        nces_district_metadata,
+        usecols=["NCESDistrictID", "DistrictType", "Charter"],
+        dtype=pd.StringDtype()
+    )
+    if "NCESSchoolID" in df:
+      assert "NCESDistrictID" in df
+      df = nces_metadata_joiner_lib.join_nces_metadata_for_schools(
+          df, nces_school_metadata_df, nces_district_metadata_df)
+    elif "NCESDistrictID" in df:
+      df = nces_metadata_joiner_lib.join_nces_metadata_for_districts(
+          df, nces_district_metadata_df)
+
   # Create report.
   report_rows = list()
   for column in df:
@@ -452,7 +484,9 @@ def process_all_states(
     config: List[StateConfig],
     report_filepath: Text=None,
     required_columns: List[Text]=[],
-    states_to_process: List[Text]=[]
+    states_to_process: List[Text]=[],
+    nces_school_metadata: Text=None,
+    nces_district_metadata: Text=None
 ):
   """Process all states in list of configs.
 
@@ -465,6 +499,10 @@ def process_all_states(
     states_to_process: List of states to process from the config. If not
                        provided, then all states from the config will be
                        processed.
+    nces_school_metadata: XLSX filepath containing NCESSchoolID, NCESDistrictID,
+                          Charter, SchoolType columns.
+    nces_district_metadata: XLSX filepath containing, NCESDistrictID, Charter,
+                            DistrictType columns.
 
   Returns:
     (state_dfs, state_report_dfs): state_dfs is the list of processed state
@@ -479,7 +517,9 @@ def process_all_states(
           state_config.state_abbreviation.lower() not in states_to_process:
         continue
     print(f"Reading {state_config.state} from {state_config.source_filepath}.")
-    df, report_df = process_state_data(state_config, required_columns)
+    df, report_df = process_state_data(
+        state_config, required_columns, nces_school_metadata,
+        nces_district_metadata)
     state_dfs.append(df)
     state_report_dfs.append(report_df)
     pd.set_option("display.max_columns", None, "display.width", 300)

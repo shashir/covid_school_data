@@ -18,6 +18,12 @@ flags.DEFINE_list("states_to_process", [],
                   "List of states to process from the config. If not "
                   "provided, then all states from the config will be "
                   "processed.")
+flags.DEFINE_string("nces_school_metadata", None,
+                    "XLSX filepath containing NCESSchoolID, NCESDistrictID, "
+                    "Charter, SchoolType columns.")
+flags.DEFINE_string("nces_district_metadata", None,
+                    "XLSX filepath containing, NCESDistrictID, Charter, "
+                    "DistrictType columns.")
 flags.mark_flag_as_required("config")
 
 
@@ -29,7 +35,9 @@ def main(argv):
       config,
       report_filepath=FLAGS.report,
       required_columns=FLAGS.required_columns,
-      states_to_process=FLAGS.states_to_process)
+      states_to_process=FLAGS.states_to_process,
+      nces_school_metadata=FLAGS.nces_school_metadata,
+      nces_district_metadata=FLAGS.nces_district_metadata)
   print(pd.concat(state_report_dfs))
 
 
