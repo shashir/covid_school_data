@@ -344,9 +344,6 @@ def process_state_data(
       df[mapping.target_column] = df[mapping.target_column].dt.strftime(
           "%m/%d/%y")
 
-  # Drop temporary columns.
-  df.drop(temporary_columns, axis=1, inplace=True)
-
   # Dedupe rows.
   if state_config.dedupe_rows:
     df.drop_duplicates(inplace=True)
@@ -420,6 +417,9 @@ def process_state_data(
     elif "NCESDistrictID" in df:
       df = nces_metadata_joiner_lib.join_nces_metadata_for_districts(
           df, nces_district_metadata_df)
+
+  # Drop temporary columns.
+  df.drop(temporary_columns, axis=1, inplace=True)
 
   # Create report.
   report_rows = list()
