@@ -24,3 +24,8 @@ __pycache__/
 .cache
 venv/
 
+covid_school_data.egg-info/top_level.txt
+covid_school_data.egg-info/SOURCES.txt
+covid_school_data.egg-info/requires.txt
+covid_school_data.egg-info/PKG-INFO
+covid_school_data.egg-info/dependency_links.txt
