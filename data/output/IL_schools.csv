@@ -1,0 +1,311 @@
+StateName,StateAbbrev,DataLevel,Charter,SchoolName,SchoolType,NCESSchoolID,DistrictName,DistrictType,NCESDistrictID,County,TimePeriodInterval,TimePeriodStart,TimePeriodEnd,NewCasesCombined,NewCasesStudents,NewCasesStaff,NewCasesUnknown,TwoWeekPeriodStaffStudentCasesCombined,TwoWeekPeriodCasesStudents,TwoWeekPeriodCasesStaff,CumulativeCasesCombined,CumulativeCasesStudents,CumulativeCasesStaff,CumulativeCasesUnknown,ActiveCasesStaff,ActiveCasesStudents,ActiveCasesUnknown,ActiveCasesCombined
+Illinois,IL,School,No,Batavia High School,Regular school,170522000202,,Regular local school district,1705220,,Weekly,02/19/21,02/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Batavia High School,Regular school,170522000202,,Regular local school district,1705220,,Weekly,02/26/21,03/05/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Batavia High School,Regular school,170522000202,,Regular local school district,1705220,,Weekly,03/05/21,03/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Batavia High School,Regular school,170522000202,,Regular local school district,1705220,,Weekly,03/12/21,03/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Beecher Junior High School,Regular school,170543004523,,Regular local school district,1705430,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Beecher Junior High School,Regular school,170543004523,,Regular local school district,1705430,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Beecher Junior High School,Regular school,170543004523,,Regular local school district,1705430,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Beecher Junior High School,Regular school,170543004523,,Regular local school district,1705430,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Beecher Junior High School,Regular school,170543004523,,Regular local school district,1705430,,Weekly,05/28/21,06/04/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Bluffs High School,Regular school,170660000348,,Regular local school district,1706600,,Weekly,11/20/20,11/27/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Bluffs High School,Regular school,170660000348,,Regular local school district,1706600,,Weekly,11/27/20,12/04/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Bluffs High School,Regular school,170660000348,,Regular local school district,1706600,,Weekly,12/04/20,12/11/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Bradley East Elementary,Regular school,170693000358,,Regular local school district,1706930,,Weekly,12/04/20,12/11/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Bradley East Elementary,Regular school,170693000358,,Regular local school district,1706930,,Weekly,12/11/20,12/18/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Bradley East Elementary,Regular school,170693000358,,Regular local school district,1706930,,Weekly,12/18/20,12/25/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Brighton North Elementary School,Regular school,173150003316,,Regular local school district,1731500,,Weekly,11/20/20,11/27/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Brighton North Elementary School,Regular school,173150003316,,Regular local school district,1731500,,Weekly,11/27/20,12/04/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Brimfield High School,Regular school,170720000375,,Regular local school district,1707200,,Weekly,03/19/21,03/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Brimfield High School,Regular school,170720000375,,Regular local school district,1707200,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Brimfield High School,Regular school,170720000375,,Regular local school district,1707200,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Brimfield High School,Regular school,170720000375,,Regular local school district,1707200,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Brimfield High School,Regular school,170720000375,,Regular local school district,1707200,,Weekly,04/16/21,04/23/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Burnham School,Regular school,170786000400,,Regular local school district,1707860,,Weekly,11/20/20,11/27/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Burnham School,Regular school,170786000400,,Regular local school district,1707860,,Weekly,11/27/20,12/04/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Burnham School,Regular school,170786000400,,Regular local school district,1707860,,Weekly,12/04/20,12/11/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Caroline Sibley School,Regular school,171242001489,,Regular local school district,1712420,,Weekly,11/20/20,11/27/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Caroline Sibley School,Regular school,171242001489,,Regular local school district,1712420,,Weekly,11/27/20,12/04/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Centennial School,Regular school,173022005541,,Regular local school district,1730220,,Weekly,01/22/21,01/29/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Centennial School,Regular school,173022005541,,Regular local school district,1730220,,Weekly,02/05/21,02/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Centennial School,Regular school,173022005541,,Regular local school district,1730220,,Weekly,02/12/21,02/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Centennial School,Regular school,173022005541,,Regular local school district,1730220,,Weekly,02/19/21,02/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Central High School,Regular school,170822000431,,Regular local school district,1708220,,Weekly,10/30/20,11/06/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Chester East Lincoln School,Regular school,170985000580,,Regular local school district,1709850,,Weekly,10/30/20,11/06/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Chester East Lincoln School,Regular school,170985000580,,Regular local school district,1709850,,Weekly,11/06/20,11/13/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Churchill Junior High School,Regular school,171608001917,,Regular local school district,1716080,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Churchill Junior High School,Regular school,171608001917,,Regular local school district,1716080,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Churchill Junior High School,Regular school,171608001917,,Regular local school district,1716080,,Weekly,05/28/21,06/04/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Churchill Junior High School,Regular school,171608001917,,Regular local school district,1716080,,Weekly,06/04/21,06/11/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Churchill Junior High School,Regular school,171608001917,,Regular local school district,1716080,,Weekly,06/11/21,06/18/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Civic Memorial High School,Regular school,170612000298,,Regular local school district,1706120,,Weekly,11/20/20,11/27/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Civic Memorial High School,Regular school,170612000298,,Regular local school district,1706120,,Weekly,11/27/20,12/04/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Crystal Lake Central High School,Regular school,171137001367,,Regular local school district,1711370,,Weekly,02/26/21,03/05/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Crystal Lake Central High School,Regular school,171137001367,,Regular local school district,1711370,,Weekly,03/05/21,03/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Crystal Lake Central High School,Regular school,171137001367,,Regular local school district,1711370,,Weekly,03/12/21,03/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Crystal Lake Central High School,Regular school,171137001367,,Regular local school district,1711370,,Weekly,03/19/21,03/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Deerfield High School,Regular school,171908002193,,Regular local school district,1719080,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Deerfield High School,Regular school,171908002193,,Regular local school district,1719080,,Weekly,04/16/21,04/23/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Deerfield High School,Regular school,171908002193,,Regular local school district,1719080,,Weekly,04/23/21,04/30/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Deerfield High School,Regular school,171908002193,,Regular local school district,1719080,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Deerfield High School,Regular school,171908002193,,Regular local school district,1719080,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Deerfield High School,Regular school,171908002193,,Regular local school district,1719080,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Denman School,Regular school,173300005055,,Regular local school district,1733000,,Weekly,01/22/21,01/29/21,,,,,,,,,,,,,,,16+
+Illinois,IL,School,No,Denman School,Regular school,173300005055,,Regular local school district,1733000,,Weekly,02/05/21,02/12/21,,,,,,,,,,,,,,,16+
+Illinois,IL,School,No,Denman School,Regular school,173300005055,,Regular local school district,1733000,,Weekly,02/12/21,02/19/21,,,,,,,,,,,,,,,16+
+Illinois,IL,School,No,Denman School,Regular school,173300005055,,Regular local school district,1733000,,Weekly,02/19/21,02/26/21,,,,,,,,,,,,,,,16+
+Illinois,IL,School,No,Dwight D Eisenhower High School,Regular school,170654000342,,Regular local school district,1706540,,Weekly,11/20/20,11/27/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Dwight D Eisenhower High School,Regular school,170654000342,,Regular local school district,1706540,,Weekly,11/27/20,12/04/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Dwight Township High School,Regular school,171287001538,,Regular local school district,1712870,,Weekly,02/26/21,03/05/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Dwight Township High School,Regular school,171287001538,,Regular local school district,1712870,,Weekly,03/05/21,03/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Dwight Township High School,Regular school,171287001538,,Regular local school district,1712870,,Weekly,03/12/21,03/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Dwight Township High School,Regular school,171287001538,,Regular local school district,1712870,,Weekly,03/19/21,03/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Forreston High School,Regular school,171549001868,,Regular local school district,1715490,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Forreston High School,Regular school,171549001868,,Regular local school district,1715490,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Glenbard East High School,Regular school,171683001988,,Regular local school district,1716830,,Weekly,06/11/21,06/18/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Glenbard East High School,Regular school,171683001988,,Regular local school district,1716830,,Weekly,06/18/21,06/25/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Glenbard North High School,Regular school,171683001989,,Regular local school district,1716830,,Weekly,04/16/21,04/23/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Glenbard North High School,Regular school,171683001989,,Regular local school district,1716830,,Weekly,04/23/21,04/30/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Glenbard North High School,Regular school,171683001989,,Regular local school district,1716830,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Glenbard North High School,Regular school,171683001989,,Regular local school district,1716830,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Glenbard North High School,Regular school,171683001989,,Regular local school district,1716830,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Glenbard North High School,Regular school,171683001989,,Regular local school district,1716830,,Weekly,05/28/21,06/04/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Glenbard North High School,Regular school,171683001989,,Regular local school district,1716830,,Weekly,06/04/21,06/11/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Grand Ridge Grade School,Regular school,171722002023,,Regular local school district,1717220,,Weekly,04/23/21,04/30/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Grand Ridge Grade School,Regular school,171722002023,,Regular local school district,1717220,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Grand Ridge Grade School,Regular school,171722002023,,Regular local school district,1717220,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Grand Ridge Grade School,Regular school,171722002023,,Regular local school district,1717220,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Grand Ridge Grade School,Regular school,171722002023,,Regular local school district,1717220,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hadley Junior High School,Regular school,171680001987,,Regular local school district,1716800,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hadley Junior High School,Regular school,171680001987,,Regular local school district,1716800,,Weekly,05/28/21,06/04/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hadley Junior High School,Regular school,171680001987,,Regular local school district,1716800,,Weekly,06/04/21,06/11/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hadley Junior High School,Regular school,171680001987,,Regular local school district,1716800,,Weekly,06/11/21,06/18/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hadley Junior High School,Regular school,171680001987,,Regular local school district,1716800,,Weekly,06/18/21,06/25/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hamilton School,Regular school,170993000822,,Regular local school district,1709930,,Weekly,01/15/21,01/22/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Hamilton School,Regular school,170993000822,,Regular local school district,1709930,,Weekly,01/22/21,01/29/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Hamilton School,Regular school,170993000822,,Regular local school district,1709930,,Weekly,02/05/21,02/12/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Hartsburg Emden High School,Regular school,171839002123,,Regular local school district,1718390,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hartsburg Emden High School,Regular school,171839002123,,Regular local school district,1718390,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hartsburg Emden High School,Regular school,171839002123,,Regular local school district,1718390,,Weekly,04/16/21,04/23/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hartsburg Emden High School,Regular school,171839002123,,Regular local school district,1718390,,Weekly,04/23/21,04/30/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hartsburg Emden High School,Regular school,171839002123,,Regular local school district,1718390,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hinsdale Middle School,Regular school,171929002215,,Regular local school district,1719290,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hinsdale Middle School,Regular school,171929002215,,Regular local school district,1719290,,Weekly,05/28/21,06/04/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hinsdale Middle School,Regular school,171929002215,,Regular local school district,1719290,,Weekly,06/04/21,06/11/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hinsdale Middle School,Regular school,171929002215,,Regular local school district,1719290,,Weekly,06/11/21,06/18/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Hinsdale Middle School,Regular school,171929002215,,Regular local school district,1719290,,Weekly,06/18/21,06/25/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Homewood-Flossmoor High School,Regular school,171956002235,,Regular local school district,1719560,,Weekly,04/16/21,04/23/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Homewood-Flossmoor High School,Regular school,171956002235,,Regular local school district,1719560,,Weekly,04/23/21,04/30/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Homewood-Flossmoor High School,Regular school,171956002235,,Regular local school district,1719560,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Homewood-Flossmoor High School,Regular school,171956002235,,Regular local school district,1719560,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Homewood-Flossmoor High School,Regular school,171956002235,,Regular local school district,1719560,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Huntley High School,Regular school,171983002247,,Regular local school district,1719830,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Huntley High School,Regular school,171983002247,,Regular local school district,1719830,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Huntley High School,Regular school,171983002247,,Regular local school district,1719830,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Huntley High School,Regular school,171983002247,,Regular local school district,1719830,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Huntley High School,Regular school,171983002247,,Regular local school district,1719830,,Weekly,05/28/21,06/04/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Jacksonville Middle School,Regular school,172028002285,,Regular local school district,1720280,,Weekly,11/20/20,11/27/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,,Jane Adams School,,,,,,,Weekly,11/20/20,11/27/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Jersey Community High School,Regular school,172043002309,,Regular local school district,1720430,,Weekly,12/11/20,12/18/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Jersey Community High School,Regular school,172043002309,,Regular local school district,1720430,,Weekly,12/18/20,12/25/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Jersey Community High School,Regular school,172043002309,,Regular local school district,1720430,,Weekly,12/25/20,01/01/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Jersey Community High School,Regular school,172043002309,,Regular local school district,1720430,,Weekly,01/01/21,01/08/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Jersey Community High School,Regular school,172043002309,,Regular local school district,1720430,,Weekly,01/08/21,01/15/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Joseph Arthur Middle School,Regular school,170917006007,,Regular local school district,1709170,,Weekly,01/22/21,01/29/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Joseph Arthur Middle School,Regular school,170917006007,,Regular local school district,1709170,,Weekly,02/05/21,02/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Joseph Arthur Middle School,Regular school,170917006007,,Regular local school district,1709170,,Weekly,02/12/21,02/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Joseph Arthur Middle School,Regular school,170917006007,,Regular local school district,1709170,,Weekly,02/19/21,02/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,LaSalle Peru Township High School,Regular school,172211002481,,Regular local school district,1722110,,Weekly,03/05/21,03/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,LaSalle Peru Township High School,Regular school,172211002481,,Regular local school district,1722110,,Weekly,03/12/21,03/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,LaSalle Peru Township High School,Regular school,172211002481,,Regular local school district,1722110,,Weekly,03/19/21,03/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,LaSalle Peru Township High School,Regular school,172211002481,,Regular local school district,1722110,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,LaSalle Peru Township High School,Regular school,172211002481,,Regular local school district,1722110,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Leman Middle School,Regular school,174155004164,,Regular local school district,1741550,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Leman Middle School,Regular school,174155004164,,Regular local school district,1741550,,Weekly,05/28/21,06/04/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Leman Middle School,Regular school,174155004164,,Regular local school district,1741550,,Weekly,06/04/21,06/11/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Leman Middle School,Regular school,174155004164,,Regular local school district,1741550,,Weekly,06/11/21,06/18/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Leman Middle School,Regular school,174155004164,,Regular local school district,1741550,,Weekly,06/18/21,06/25/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Liberty School,Regular school,171020000277,,Regular local school district,1710200,,Weekly,02/05/21,02/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Liberty School,Regular school,171020000277,,Regular local school district,1710200,,Weekly,02/12/21,02/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Liberty School,Regular school,171020000277,,Regular local school district,1710200,,Weekly,02/19/21,02/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Liberty School,Regular school,171020000277,,Regular local school district,1710200,,Weekly,02/26/21,03/05/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Lincoln Elementary,Regular school,173174005732,,Regular local school district,1731740,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10 (Statt & Students)
+Illinois,IL,School,No,Lincoln Elementary School,Regular school,173423003506,,Regular local school district,1734230,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Lincoln Elementary School,Regular school,173423003506,,Regular local school district,1734230,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Lincoln Elementary School,Regular school,173423003506,,Regular local school district,1734230,,Weekly,05/28/21,06/04/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Lincoln Elementary School,Regular school,173423003506,,Regular local school district,1734230,,Weekly,06/04/21,06/11/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Lundahl Middle School,Regular school,171135001360,,Regular local school district,1711350,,Weekly,10/30/20,11/06/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Lundahl Middle School,Regular school,171135001360,,Regular local school district,1711350,,Weekly,11/06/20,11/13/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Maroa Forsyth School,Regular school,172475002683,,Regular local school district,1724750,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Maroa Forsyth School,Regular school,172475002683,,Regular local school district,1724750,,Weekly,04/16/21,04/23/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Maroa Forsyth School,Regular school,172475002683,,Regular local school district,1724750,,Weekly,04/23/21,04/30/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Maroa Forsyth School,Regular school,172475002683,,Regular local school district,1724750,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Maroa Forsyth School,Regular school,172475002683,,Regular local school district,1724750,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Mary Morgan Elementary School,Regular school,170801004559,,Regular local school district,1708010,,Weekly,10/30/20,11/06/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Mary Morgan Elementary School,Regular school,170801004559,,Regular local school district,1708010,,Weekly,11/06/20,11/13/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Mary Morgan Elementary School,Regular school,170801004559,,Regular local school district,1708010,,Weekly,12/18/20,12/25/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Mary Morgan Elementary School,Regular school,170801004559,,Regular local school district,1708010,,Weekly,12/25/20,01/01/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Mary Morgan Elementary School,Regular school,170801004559,,Regular local school district,1708010,,Weekly,01/01/21,01/08/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,McKinley Elementary School,Regular school,170576000250,,Regular local school district,1705760,,Weekly,02/12/21,02/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,McKinley Elementary School,Regular school,170576000250,,Regular local school district,1705760,,Weekly,02/19/21,02/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,McKinley Elementary School,Regular school,170576000250,,Regular local school district,1705760,,Weekly,02/26/21,03/05/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,McKinley Elementary School,Regular school,170576000250,,Regular local school district,1705760,,Weekly,03/05/21,03/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,McKinley Elementary School,Regular school,170576000250,,Regular local school district,1705760,,Weekly,03/12/21,03/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Memorial School,Regular school,173870003934,,Regular local school district,1738700,,Weekly,12/11/20,12/18/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Memorial School,Regular school,173870003934,,Regular local school district,1738700,,Weekly,12/18/20,12/25/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Memorial School,Regular school,173870003934,,Regular local school district,1738700,,Weekly,12/25/20,01/01/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Memorial School,Regular school,173870003934,,Regular local school district,1738700,,Weekly,01/01/21,01/08/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Memorial School,Regular school,173870003934,,Regular local school district,1738700,,Weekly,01/08/21,01/15/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Mokena Elementary School,Regular school,172637002801,,Regular local school district,1726370,,Weekly,02/05/21,02/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Mokena Elementary School,Regular school,172637002801,,Regular local school district,1726370,,Weekly,02/12/21,02/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Mokena Elementary School,Regular school,172637002801,,Regular local school district,1726370,,Weekly,02/19/21,02/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Mokena Elementary School,Regular school,172637002801,,Regular local school district,1726370,,Weekly,02/26/21,03/05/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oak Park River Forest High School,Regular school,172928003070,,Regular local school district,1729280,,Weekly,03/05/21,03/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oak Park River Forest High School,Regular school,172928003070,,Regular local school district,1729280,,Weekly,03/12/21,03/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oak Park River Forest High School,Regular school,172928003070,,Regular local school district,1729280,,Weekly,03/19/21,03/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Odell Grade School,Regular school,172952003077,,Regular local school district,1729520,,Weekly,10/30/20,11/06/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Odell Grade School,Regular school,172952003077,,Regular local school district,1729520,,Weekly,11/06/20,11/13/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oregon Elementary School,Regular school,173016003116,,Regular local school district,1730160,,Weekly,12/11/20,12/18/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oregon Elementary School,Regular school,173016003116,,Regular local school district,1730160,,Weekly,12/18/20,12/25/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oregon Elementary School,Regular school,173016003116,,Regular local school district,1730160,,Weekly,12/25/20,01/01/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oregon Elementary School,Regular school,173016003116,,Regular local school district,1730160,,Weekly,01/01/21,01/08/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oregon Elementary School,Regular school,173016003116,,Regular local school district,1730160,,Weekly,01/08/21,01/15/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oswego East High School,Regular school,173027005337,,Regular local school district,1730270,,Weekly,04/23/21,04/30/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Oswego East High School,Regular school,173027005337,,Regular local school district,1730270,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oswego East High School,Regular school,173027005337,,Regular local school district,1730270,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oswego East High School,Regular school,173027005337,,Regular local school district,1730270,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Oswego East High School,Regular school,173027005337,,Regular local school district,1730270,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oswego East High School,Regular school,173027005337,,Regular local school district,1730270,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Oswego East High School,Regular school,173027005337,,Regular local school district,1730270,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oswego East High School,Regular school,173027005337,,Regular local school district,1730270,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Oswego High School,Regular school,173027003132,,Regular local school district,1730270,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oswego High School,Regular school,173027003132,,Regular local school district,1730270,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oswego High School,Regular school,173027003132,,Regular local school district,1730270,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oswego High School,Regular school,173027003132,,Regular local school district,1730270,,Weekly,05/28/21,06/04/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Oswego High School,Regular school,173027003132,,Regular local school district,1730270,,Weekly,06/04/21,06/11/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Ottowa High School,Regular school,173033003141,,Regular local school district,1730330,,Weekly,01/22/21,01/29/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Ottowa High School,Regular school,173033003141,,Regular local school district,1730330,,Weekly,02/05/21,02/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Ottowa High School,Regular school,173033003141,,Regular local school district,1730330,,Weekly,02/12/21,02/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Ottowa High School,Regular school,173033003141,,Regular local school district,1730330,,Weekly,02/19/21,02/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Ottowa High School,Regular school,173033003141,,Regular local school district,1730330,,Weekly,04/23/21,04/30/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Ottowa High School,Regular school,173033003141,,Regular local school district,1730330,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Ottowa High School,Regular school,173033003141,,Regular local school district,1730330,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Ottowa High School,Regular school,173033003141,,Regular local school district,1730330,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Ottowa High School,Regular school,173033003141,,Regular local school district,1730330,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Paxton Buckley Loda High School,Regular school,170765005478,,Regular local school district,1707650,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Paxton Buckley Loda High School,Regular school,170765005478,,Regular local school district,1707650,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Paxton Buckley Loda High School,Regular school,170765005478,,Regular local school district,1707650,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Paxton Buckley Loda High School,Regular school,170765005478,,Regular local school district,1707650,,Weekly,05/28/21,06/04/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Paxton Buckley Loda High School,Regular school,170765005478,,Regular local school district,1707650,,Weekly,06/04/21,06/11/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Peotone Junior High School,Regular school,173129003303,,Regular local school district,1731290,,Weekly,03/19/21,03/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Peotone Junior High School,Regular school,173129003303,,Regular local school district,1731290,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Peotone Junior High School,Regular school,173129003303,,Regular local school district,1731290,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Peotone Junior High School,Regular school,173129003303,,Regular local school district,1731290,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Peotone Junior High School,Regular school,173129003303,,Regular local school district,1731290,,Weekly,04/16/21,04/23/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Pittsfield High School,Regular school,173171003332,,Regular local school district,1731710,,Weekly,03/19/21,03/26/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Pittsfield High School,Regular school,173171003332,,Regular local school district,1731710,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Pittsfield High School,Regular school,173171003332,,Regular local school district,1731710,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Pittsfield High School,Regular school,173171003332,,Regular local school district,1731710,,Weekly,04/16/21,04/23/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Plainfield North High School,Regular school,173174005747,,Regular local school district,1731740,,Weekly,11/20/20,11/27/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Plainfield North High School,Regular school,173174005747,,Regular local school district,1731740,,Weekly,11/27/20,12/04/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Plainfield North High School,Regular school,173174005747,,Regular local school district,1731740,,Weekly,04/23/21,04/30/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Plainfield South High School,Regular school,173174004524,,Regular local school district,1731740,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Plainfield South High School,Regular school,173174004524,,Regular local school district,1731740,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Plainfield South High School,Regular school,173174004524,,Regular local school district,1731740,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Plainfield South High School,Regular school,173174004524,,Regular local school district,1731740,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Prairie Ridge High School,Regular school,171137002154,,Regular local school district,1711370,,Weekly,10/30/20,11/06/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Prairie Ridge High School,Regular school,171137002154,,Regular local school district,1711370,,Weekly,11/06/20,11/13/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Prairie Ridge High School,Regular school,171137002154,,Regular local school district,1711370,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Prairie Ridge High School,Regular school,171137002154,,Regular local school district,1711370,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Prairie Ridge High School,Regular school,171137002154,,Regular local school district,1711370,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Prairie Ridge High School,Regular school,171137002154,,Regular local school district,1711370,,Weekly,04/16/21,04/23/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Prairie Ridge High School,Regular school,171137002154,,Regular local school district,1711370,,Weekly,04/23/21,04/30/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Princeton High School,Regular school,173270003392,,Regular local school district,1732700,,Weekly,03/12/21,03/19/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Princeton High School,Regular school,173270003392,,Regular local school district,1732700,,Weekly,03/19/21,03/26/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Princeton High School,Regular school,173270003392,,Regular local school district,1732700,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Princeton High School,Regular school,173270003392,,Regular local school district,1732700,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Princeton High School,Regular school,173270003392,,Regular local school district,1732700,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Rantoul Township High School,Regular school,173324003445,,Regular local school district,1733240,,Weekly,03/12/21,03/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Rantoul Township High School,Regular school,173324003445,,Regular local school district,1733240,,Weekly,03/19/21,03/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Rantoul Township High School,Regular school,173324003445,,Regular local school district,1733240,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Rantoul Township High School,Regular school,173324003445,,Regular local school district,1733240,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Rantoul Township High School,Regular school,173324003445,,Regular local school district,1733240,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Reavis High School,Regular school,173327003446,,Regular local school district,1733270,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Reavis High School,Regular school,173327003446,,Regular local school district,1733270,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Reavis High School,Regular school,173327003446,,Regular local school district,1733270,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Reavis High School,Regular school,173327003446,,Regular local school district,1733270,,Weekly,04/16/21,04/23/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Riverton High School,Regular school,173410003498,,Regular local school district,1734100,,Weekly,04/23/21,04/30/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Riverton High School,Regular school,173410003498,,Regular local school district,1734100,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Riverton High School,Regular school,173410003498,,Regular local school district,1734100,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Riverton High School,Regular school,173410003498,,Regular local school district,1734100,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Riverton High School,Regular school,173410003498,,Regular local school district,1734100,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,ROWVA Elementary School,Regular school,172994003104,,Regular local school district,1729940,,Weekly,03/12/21,03/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,ROWVA Elementary School,Regular school,172994003104,,Regular local school district,1729940,,Weekly,03/19/21,03/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,ROWVA Elementary School,Regular school,172994003104,,Regular local school district,1729940,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,ROWVA Elementary School,Regular school,172994003104,,Regular local school district,1729940,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,ROWVA Elementary School,Regular school,172994003104,,Regular local school district,1729940,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Rushville Industry Middle School,Regular school,170033205812,,Regular local school district,1700332,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Rushville Industry Middle School,Regular school,170033205812,,Regular local school district,1700332,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Rushville Industry Middle School,Regular school,170033205812,,Regular local school district,1700332,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Rushville Industry Middle School,Regular school,170033205812,,Regular local school district,1700332,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Rushville Industry Middle School,Regular school,170033205812,,Regular local school district,1700332,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Rushville Industry Middle School,Regular school,170033205812,,Regular local school district,1700332,,Weekly,05/21/21,05/28/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Rushville Industry Middle School,Regular school,170033205812,,Regular local school district,1700332,,Weekly,05/28/21,06/04/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Rushville Industry Middle School,Regular school,170033205812,,Regular local school district,1700332,,Weekly,05/28/21,06/04/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Rushville Industry Middle School,Regular school,170033205812,,Regular local school district,1700332,,Weekly,06/04/21,06/11/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Rushville Industry Middle School,Regular school,170033205812,,Regular local school district,1700332,,Weekly,06/04/21,06/11/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,South Middle School,Regular school,170414000105,,Regular local school district,1704140,,Weekly,02/05/21,02/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,South Middle School,Regular school,170414000105,,Regular local school district,1704140,,Weekly,02/12/21,02/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,South Middle School,Regular school,170414000105,,Regular local school district,1704140,,Weekly,02/19/21,02/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,South Middle School,Regular school,170414000105,,Regular local school district,1704140,,Weekly,02/26/21,03/05/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Southwestern High School,Regular school,173150003320,,Regular local school district,1731500,,Weekly,11/20/20,11/27/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Southwestern High School,Regular school,173150003320,,Regular local school district,1731500,,Weekly,11/27/20,12/04/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Thomas Jefferson Primary School,Regular school,173123003286,,Regular local school district,1731230,,Weekly,03/12/21,03/19/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Thomas Jefferson Primary School,Regular school,173123003286,,Regular local school district,1731230,,Weekly,03/19/21,03/26/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Thomas Jefferson Primary School,Regular school,173123003286,,Regular local school district,1731230,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Thomas Jefferson Primary School,Regular school,173123003286,,Regular local school district,1731230,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Thomas Jefferson Primary School,Regular school,173123003286,,Regular local school district,1731230,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Thomas Middle School,Regular school,170414000106,,Regular local school district,1704140,,Weekly,11/27/20,12/04/20,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Thomas Middle School,Regular school,170414000106,,Regular local school district,1704140,,Weekly,12/11/20,12/18/20,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Thomas Middle School,Regular school,170414000106,,Regular local school district,1704140,,Weekly,12/18/20,12/25/20,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Unity High School,Regular school,172559002771,,Regular local school district,1725590,,Weekly,03/12/21,03/19/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Unity High School,Regular school,172559002771,,Regular local school district,1725590,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Unity High School,Regular school,172559002771,,Regular local school district,1725590,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Unity High School,Regular school,172559002771,,Regular local school district,1725590,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Urbana High School,Regular school,173996004015,,Regular local school district,1739960,,Weekly,02/19/21,02/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Urbana High School,Regular school,173996004015,,Regular local school district,1739960,,Weekly,02/26/21,03/05/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Urbana High School,Regular school,173996004015,,Regular local school district,1739960,,Weekly,03/05/21,03/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Urbana High School,Regular school,173996004015,,Regular local school district,1739960,,Weekly,03/12/21,03/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Valley View Elementary,Regular school,172529002759,,Regular local school district,1725290,,Weekly,04/16/21,04/23/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Valley View Elementary,Regular school,172529002759,,Regular local school district,1725290,,Weekly,04/23/21,04/30/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Valley View Elementary,Regular school,172529002759,,Regular local school district,1725290,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Velley View Elementary,Regular school,172529002759,,Regular local school district,1725290,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Velley View Elementary,Regular school,172529002759,,Regular local school district,1725290,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Verda Dierzen Early Learning Center,Regular school,174333004186,,Regular local school district,1743330,,Weekly,10/30/20,11/06/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Verda Dierzen Early Learning Center,Regular school,174333004186,,Regular local school district,1743330,,Weekly,11/06/20,11/13/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Waterloo High School Community Unit School Dist 5,Regular school,174107004113,,Regular local school district,1741070,,Weekly,10/30/20,11/06/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,West Prairie High School,Regular school,170031405701,,Regular local school district,1700314,,Weekly,04/16/21,04/23/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,West Prairie High School,Regular school,170031405701,,Regular local school district,1700314,,Weekly,04/23/21,04/30/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,West Prairie High School,Regular school,170031405701,,Regular local school district,1700314,,Weekly,04/30/21,05/07/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,West Prairie High School,Regular school,170031405701,,Regular local school district,1700314,,Weekly,05/07/21,05/14/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,West Prairie High School,Regular school,170031405701,,Regular local school district,1700314,,Weekly,05/14/21,05/21/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,West Prairie South Elementary,Regular school,170031405704,,Regular local school district,1700314,,Weekly,01/22/21,01/29/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,West Prairie South Elementary,Regular school,170031405704,,Regular local school district,1700314,,Weekly,02/05/21,02/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,West Prairie South Elementary,Regular school,170031405704,,Regular local school district,1700314,,Weekly,02/12/21,02/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,West Prairie South Elementary,Regular school,170031405704,,Regular local school district,1700314,,Weekly,02/19/21,02/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Western CUS High School,Regular school,170138705910,,Regular local school district,1701387,,Weekly,03/12/21,03/19/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Western CUS High School,Regular school,170138705910,,Regular local school district,1701387,,Weekly,03/19/21,03/26/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Western CUS High School,Regular school,170138705910,,Regular local school district,1701387,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Western CUS High School,Regular school,170138705910,,Regular local school district,1701387,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Western CUS High School,Regular school,170138705910,,Regular local school district,1701387,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Winchester Grade School,Regular school,174266004287,,Regular local school district,1742660,,Weekly,01/15/21,01/22/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Winchester Grade School,Regular school,174266004287,,Regular local school district,1742660,,Weekly,01/22/21,01/29/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Winchester Grade School,Regular school,174266004287,,Regular local school district,1742660,,Weekly,02/05/21,02/12/21,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Winchester High School,Regular school,174266004288,,Regular local school district,1742660,,Weekly,11/20/20,11/27/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Winchester High School,Regular school,174266004288,,Regular local school district,1742660,,Weekly,11/27/20,12/04/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Winchester High School,Regular school,174266004288,,Regular local school district,1742660,,Weekly,12/04/20,12/11/20,,,,,,,,,,,,,,,5-10
+Illinois,IL,School,No,Windsor Elementary School,Regular school,170414000101,,Regular local school district,1704140,,Weekly,03/19/21,03/26/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Windsor Elementary School,Regular school,170414000101,,Regular local school district,1704140,,Weekly,03/26/21,04/02/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Windsor Elementary School,Regular school,170414000101,,Regular local school district,1704140,,Weekly,04/02/21,04/09/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Windsor Elementary School,Regular school,170414000101,,Regular local school district,1704140,,Weekly,04/09/21,04/16/21,,,,,,,,,,,,,,,11-16
+Illinois,IL,School,No,Windsor Elementary School,Regular school,170414000101,,Regular local school district,1704140,,Weekly,04/16/21,04/23/21,,,,,,,,,,,,,,,11-16

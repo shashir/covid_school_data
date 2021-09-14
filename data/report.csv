@@ -1,0 +1,945 @@
+state,column,dtype,count,null_count,min,max,mean,mode
+Washington DC,StateName,string,16,0,Washington DC,Washington DC,,Washington DC
+Washington DC,StateAbbrev,string,16,0,DC,DC,,DC
+Washington DC,DataLevel,string,16,0,District,District,,District
+Washington DC,DistrictName,object,16,0,District of Columbia Public Schools,District of Columbia Public Schools,,District of Columbia Public Schools
+Washington DC,NCESDistrictID,string,16,0,1100030,1100030,,1100030
+Washington DC,NewCasesStaff,Int64,16,0,3,28,14.0625,15
+Washington DC,NewCasesStudents,Int64,16,0,0,29,11.0625,6
+Washington DC,TimePeriodInterval,string,16,0,Biweekly,Biweekly,,Biweekly
+Washington DC,TimePeriodStart,object,16,0,01/04/21,12/21/20,,01/04/21
+Washington DC,TimePeriodEnd,object,16,0,01/01/21,12/18/20,,01/01/21
+Washington DC,DistrictType,object,16,0,Regular local school district,Regular local school district,,Regular local school district
+Washington DC,Charter,object,16,0,No,No,,No
+Washington DC,SchoolName,object,0,16,,,,
+Washington DC,SchoolType,object,0,16,,,,
+Washington DC,NCESSchoolID,object,0,16,,,,
+Washington DC,County,object,0,16,,,,
+Washington DC,NewCasesCombined,object,0,16,,,,
+Washington DC,NewCasesUnknown,object,0,16,,,,
+Washington DC,TwoWeekPeriodStaffStudentCasesCombined,object,0,16,,,,
+Washington DC,TwoWeekPeriodCasesStudents,object,0,16,,,,
+Washington DC,TwoWeekPeriodCasesStaff,object,0,16,,,,
+Washington DC,CumulativeCasesCombined,object,0,16,,,,
+Washington DC,CumulativeCasesStudents,object,0,16,,,,
+Washington DC,CumulativeCasesStaff,object,0,16,,,,
+Washington DC,CumulativeCasesUnknown,object,0,16,,,,
+Washington DC,ActiveCasesStaff,object,0,16,,,,
+Washington DC,ActiveCasesStudents,object,0,16,,,,
+Washington DC,ActiveCasesUnknown,object,0,16,,,,
+Washington DC,ActiveCasesCombined,object,0,16,,,,
+Texas,StateName,string,90439,0,Texas,Texas,,Texas
+Texas,StateAbbrev,string,90439,0,TX,TX,,TX
+Texas,DataLevel,string,90439,0,School,School,,School
+Texas,SchoolName,object,90439,0,21ST CENTURY EARLY LEARNING FOUNDATIONS ACADEMY,ZWINK EL,,AUSTIN EL
+Texas,DistrictName,object,90439,0,A W BROWN LEADERSHIP ACADEMY,ZEPHYR ISD,,HOUSTON ISD
+Texas,City,object,87883,2556,ABBOTT,ZEPHYR,,HOUSTON
+Texas,NewCasesStudentsWeek1,Int64,4780,85659,0,51,2.1592050209205023,0
+Texas,NewCasesStudentsWeek2,Int64,5741,84698,0,55,2.429019334610695,0
+Texas,NewCasesStudents,object,9491,80948,0,9,,0
+Texas,NewCasesStaffWeek1,Int64,17210,73229,0,12,0.6263800116211505,0
+Texas,NewCasesStaffWeek2,Int64,18750,71689,0,13,0.7330133333333333,0
+Texas,NewCasesStaff,object,27753,62686,0,9,,0
+Texas,CumulativeCasesStudents,Int64,50097,40342,0,331,20.144898896141484,0
+Texas,CumulativeCasesStaff,Int64,78942,11497,0,71,6.777697550100074,0
+Texas,TimePeriodInterval,string,90439,0,Biweekly,Biweekly,,Biweekly
+Texas,_year,object,90439,0,2020,2021,,2021
+Texas,_wave,string,90439,0,01/04 - 01/17,11/30 - 12/13,,02/15 - 02/28
+Texas,TimePeriodStart,object,90439,0,01/04/21,11/30/20,,02/15/21
+Texas,TimePeriodEnd,object,90439,0,01/17/21,12/13/20,,02/28/21
+Texas,NCESSchoolID,string,90439,0,480000101145,489913005628,,480001907303
+Texas,NCESDistrictID,string,90439,0,4800001,4899130,,4823640
+Texas,DistrictType,object,90439,0,Charter agency,State-operated agency,,Regular local school district
+Texas,Charter,object,90439,0,,Yes,,No
+Texas,SchoolType,object,90439,0,,Special education school,,Regular school
+Texas,County,object,0,90439,,,,
+Texas,NewCasesCombined,object,0,90439,,,,
+Texas,NewCasesUnknown,object,0,90439,,,,
+Texas,TwoWeekPeriodStaffStudentCasesCombined,object,0,90439,,,,
+Texas,TwoWeekPeriodCasesStudents,object,0,90439,,,,
+Texas,TwoWeekPeriodCasesStaff,object,0,90439,,,,
+Texas,CumulativeCasesCombined,object,0,90439,,,,
+Texas,CumulativeCasesUnknown,object,0,90439,,,,
+Texas,ActiveCasesStaff,object,0,90439,,,,
+Texas,ActiveCasesStudents,object,0,90439,,,,
+Texas,ActiveCasesUnknown,object,0,90439,,,,
+Texas,ActiveCasesCombined,object,0,90439,,,,
+Iowa,StateName,string,56305,0,Iowa,Iowa,,Iowa
+Iowa,StateAbbrev,string,56305,0,IA,IA,,IA
+Iowa,DataLevel,string,56305,0,School,School,,School
+Iowa,SchoolName,object,56305,0,10th to 12th,Wright Elementary School,,Lincoln Elementary School
+Iowa,DistrictName,object,56305,0,AHSTW Community School District,Woodward-Granger Community School District,,Cedar Rapids Community School District
+Iowa,ActiveCasesStudents,Int64,26982,29323,0,33,0.2570602623971537,0
+Iowa,ActiveCasesStaff,Int64,56299,6,0,26,0.17000301959182224,0
+Iowa,ActiveCasesUnknown,Int64,25074,31231,0,6,0.024966100342984764,0
+Iowa,ActiveCasesCombined,Int64,45994,10311,0,71,0.6079271209288168,0
+Iowa,CumulativeCasesStudents,Int64,56299,6,0,358,9.413328833549441,0
+Iowa,CumulativeCasesStaff,Int64,56303,2,0,249,3.4982860593574054,0
+Iowa,CumulativeCasesUnknown,Int64,25074,31231,0,88,2.133524766690596,0
+Iowa,CumulativeCasesCombined,Int64,45994,10311,0,537,16.848632430316997,0
+Iowa,TimePeriodInterval,string,56305,0,Daily,Daily,,Daily
+Iowa,TimePeriodEnd,object,56305,0,01/03/21,12/29/20,,04/15/21
+Iowa,TimePeriodStart,object,56305,0,01/03/21,12/29/20,,04/15/21
+Iowa,NCESSchoolID,string,56156,149,190000900385,"199901702063,199901702062",,190708000319
+Iowa,NCESDistrictID,string,56156,149,1900009,1999017,,1906540
+Iowa,DistrictType,object,56156,149,Regular local school district,Regular local school district,,Regular local school district
+Iowa,Charter,object,56156,149,,No,,No
+Iowa,SchoolType,object,56156,149,,Regular school,,Regular school
+Iowa,County,object,0,56305,,,,
+Iowa,NewCasesCombined,object,0,56305,,,,
+Iowa,NewCasesStudents,object,0,56305,,,,
+Iowa,NewCasesStaff,object,0,56305,,,,
+Iowa,NewCasesUnknown,object,0,56305,,,,
+Iowa,TwoWeekPeriodStaffStudentCasesCombined,object,0,56305,,,,
+Iowa,TwoWeekPeriodCasesStudents,object,0,56305,,,,
+Iowa,TwoWeekPeriodCasesStaff,object,0,56305,,,,
+Iowa,StateName,string,43706,0,Iowa,Iowa,,Iowa
+Iowa,StateAbbrev,string,43706,0,IA,IA,,IA
+Iowa,DataLevel,string,43706,0,District,District,,District
+Iowa,SchoolName,object,43706,0,District as a Whole,District as a Whole,,District as a Whole
+Iowa,DistrictName,object,43706,0,AGWSR Community School District,Woodward-Granger Community School District,,Solon Community School District
+Iowa,ActiveCasesStudents,Int64,22237,21469,0,145,0.790439357827045,0
+Iowa,ActiveCasesStaff,Int64,43692,14,0,48,0.7374118831822759,0
+Iowa,ActiveCasesUnknown,Int64,20829,22877,0,89,0.22070190599644726,0
+Iowa,ActiveCasesCombined,Int64,36492,7214,0,165,2.2914337389016772,0
+Iowa,CumulativeCasesStudents,Int64,43698,8,0,1636,28.950318092361208,0
+Iowa,CumulativeCasesStaff,Int64,43698,8,0,526,13.440958396265275,0
+Iowa,CumulativeCasesUnknown,Int64,20829,22877,0,740,14.532382735609007,0
+Iowa,CumulativeCasesCombined,Int64,36492,7214,0,1898,60.532527677299136,0
+Iowa,TimePeriodInterval,string,43706,0,Daily,Daily,,Daily
+Iowa,TimePeriodEnd,object,43706,0,01/03/21,12/29/20,,06/16/21
+Iowa,TimePeriodStart,object,43706,0,01/03/21,12/29/20,,06/16/21
+Iowa,NCESDistrictID,string,43706,0,1900006,1999019,,1926580
+Iowa,DistrictType,object,43706,0,Regional education service agency,Regular local school district,,Regular local school district
+Iowa,Charter,object,43706,0,No,No,,No
+Iowa,SchoolType,object,0,43706,,,,
+Iowa,NCESSchoolID,object,0,43706,,,,
+Iowa,County,object,0,43706,,,,
+Iowa,NewCasesCombined,object,0,43706,,,,
+Iowa,NewCasesStudents,object,0,43706,,,,
+Iowa,NewCasesStaff,object,0,43706,,,,
+Iowa,NewCasesUnknown,object,0,43706,,,,
+Iowa,TwoWeekPeriodStaffStudentCasesCombined,object,0,43706,,,,
+Iowa,TwoWeekPeriodCasesStudents,object,0,43706,,,,
+Iowa,TwoWeekPeriodCasesStaff,object,0,43706,,,,
+Montana,StateName,string,13562,0,Montana,Montana,,Montana
+Montana,StateAbbrev,string,13562,0,MT,MT,,MT
+Montana,DataLevel,string,13562,0,School,School,,School
+Montana,SchoolName,object,13562,0,Absarokee School,Yellowstone Academy,,Whittier School
+Montana,County,string,13562,0,Beaverhead,Yellowstone,,Yellowstone
+Montana,ActiveCasesStaff,Int64,13295,267,0,30,3.0646107559232796,1
+Montana,ActiveCasesStudents,Int64,13293,269,0,138,8.252990295644324,1
+Montana,ActiveCasesCombined,Int64,13556,6,0,159,11.237311891413396,1
+Montana,TimePeriodInterval,string,13562,0,Weekly,Weekly,,Weekly
+Montana,TimePeriodEnd,object,13562,0,01/13/21,12/16/20,,05/27/21
+Montana,TimePeriodStart,object,13562,0,01/06/21,12/09/20,,05/20/21
+Montana,NCESSchoolID,string,12551,1011,201065000606,590017800129,,300390000091
+Montana,NCESDistrictID,string,12551,1011,2010650,5900178,,3003870
+Montana,DistrictType,object,12551,1011,Regular local school district,State-operated agency,,Regular local school district
+Montana,Charter,object,12551,1011,,Not applicable,,Not applicable
+Montana,SchoolType,object,12551,1011,,Regular school,,Regular school
+Montana,DistrictName,object,0,13562,,,,
+Montana,NewCasesCombined,object,0,13562,,,,
+Montana,NewCasesStudents,object,0,13562,,,,
+Montana,NewCasesStaff,object,0,13562,,,,
+Montana,NewCasesUnknown,object,0,13562,,,,
+Montana,TwoWeekPeriodStaffStudentCasesCombined,object,0,13562,,,,
+Montana,TwoWeekPeriodCasesStudents,object,0,13562,,,,
+Montana,TwoWeekPeriodCasesStaff,object,0,13562,,,,
+Montana,CumulativeCasesCombined,object,0,13562,,,,
+Montana,CumulativeCasesStudents,object,0,13562,,,,
+Montana,CumulativeCasesStaff,object,0,13562,,,,
+Montana,CumulativeCasesUnknown,object,0,13562,,,,
+Montana,ActiveCasesUnknown,object,0,13562,,,,
+New York,StateName,string,74862,0,New York,New York,,New York
+New York,StateAbbrev,string,74862,0,NY,NY,,NY
+New York,DataLevel,string,74862,0,School,School,,School
+New York,SchoolName,object,74862,0,30TH AVENUE SCHOOL,ZICCOLELLA ELEMENTARY AND MIDDLE SCHOOL,,JOHN F KENNEDY SCHOOL
+New York,DistrictName,object,70080,4782,ADDISON CSD,YORKTOWN CSD,,NEW YORK CITY
+New York,City,object,74862,0,2nd Fl,Youngstown,,Brooklyn
+New York,Address,string,74862,0,1 7th St,Walgrove Ave,,970 Rt 146
+New York,NewCasesStudents,Int64,74862,0,0,749,1.0209719216692046,0
+New York,NewCasesStaff,Int64,74862,0,0,22,0.37271245758862975,0
+New York,TimePeriodInterval,string,74862,0,Biweekly,Biweekly,,Biweekly
+New York,TimePeriodStart,object,74862,0,01/04/21,11/30/20,,03/01/21
+New York,TimePeriodEnd,object,74862,0,01/17/21,12/13/20,,03/14/21
+New York,NCESSchoolID,string,74862,0,360000104498,363201004855,,360013503373
+New York,NCESDistrictID,string,74862,0,3600001,3632010,,3600077
+New York,DistrictType,object,74862,0,,State-operated agency,,Regular local school district
+New York,Charter,object,74862,0,,Yes,,No
+New York,SchoolType,object,74862,0,,Vocational school,,Regular school
+New York,County,object,0,74862,,,,
+New York,NewCasesCombined,object,0,74862,,,,
+New York,NewCasesUnknown,object,0,74862,,,,
+New York,TwoWeekPeriodStaffStudentCasesCombined,object,0,74862,,,,
+New York,TwoWeekPeriodCasesStudents,object,0,74862,,,,
+New York,TwoWeekPeriodCasesStaff,object,0,74862,,,,
+New York,CumulativeCasesCombined,object,0,74862,,,,
+New York,CumulativeCasesStudents,object,0,74862,,,,
+New York,CumulativeCasesStaff,object,0,74862,,,,
+New York,CumulativeCasesUnknown,object,0,74862,,,,
+New York,ActiveCasesStaff,object,0,74862,,,,
+New York,ActiveCasesStudents,object,0,74862,,,,
+New York,ActiveCasesUnknown,object,0,74862,,,,
+New York,ActiveCasesCombined,object,0,74862,,,,
+Indiana,StateName,string,63863,0,Indiana,Indiana,,Indiana
+Indiana,StateAbbrev,string,63863,0,IN,IN,,IN
+Indiana,DataLevel,string,63863,0,School,School,,School
+Indiana,SchoolName,object,63863,0,21ST CENTURY CHARTER SCHOOL OF GARY,ZIONSVILLE WEST MIDDLE SCHOOL,,LINCOLN ELEMENTARY SCHOOL
+Indiana,CumulativeCasesStudents,object,63863,0,0,99,,1-4
+Indiana,_CumulativeCasesStaff,string,63863,0,0.0,<5,,<5
+Indiana,_CumulativeCasesTeachers,string,63863,0,0.0,<5,,<5
+Indiana,CumulativeCasesStaff,object,63863,0,0,9-12,,1-8
+Indiana,TimePeriodInterval,string,63863,0,Weekly,Weekly,,Weekly
+Indiana,TimePeriodEnd,object,63863,0,01/04/21,12/28/20,,05/03/21
+Indiana,TimePeriodStart,object,63863,0,01/04/21,12/28/20,,04/26/21
+Indiana,NCESSchoolID,string,63863,0,180000602453,181323002697,,180363000559
+Indiana,NCESDistrictID,string,63863,0,1800006,1813230,,1803630
+Indiana,DistrictType,object,63863,0,,State-operated agency,,Regular local school district
+Indiana,Charter,object,63863,0,,Yes,,No
+Indiana,SchoolType,object,63863,0,,Vocational school,,Regular school
+Indiana,DistrictName,object,0,63863,,,,
+Indiana,County,object,0,63863,,,,
+Indiana,NewCasesCombined,object,0,63863,,,,
+Indiana,NewCasesStudents,object,0,63863,,,,
+Indiana,NewCasesStaff,object,0,63863,,,,
+Indiana,NewCasesUnknown,object,0,63863,,,,
+Indiana,TwoWeekPeriodStaffStudentCasesCombined,object,0,63863,,,,
+Indiana,TwoWeekPeriodCasesStudents,object,0,63863,,,,
+Indiana,TwoWeekPeriodCasesStaff,object,0,63863,,,,
+Indiana,CumulativeCasesCombined,object,0,63863,,,,
+Indiana,CumulativeCasesUnknown,object,0,63863,,,,
+Indiana,ActiveCasesStaff,object,0,63863,,,,
+Indiana,ActiveCasesStudents,object,0,63863,,,,
+Indiana,ActiveCasesUnknown,object,0,63863,,,,
+Indiana,ActiveCasesCombined,object,0,63863,,,,
+Florida,StateName,string,47754,0,Florida,Florida,,Florida
+Florida,StateAbbrev,string,47754,0,FL,FL,,FL
+Florida,DataLevel,string,47754,0,School,School,,School
+Florida,SchoolName,object,47754,0,A. CRAWFORD MOSLEY HIGH SCHOOL,ZORA NEALE HURSTON ELEMENTARY SCHOOL,,WESTSIDE ELEMENTARY SCHOOL
+Florida,DistrictName,object,47754,0,ALACHUA,WASHINGTON,,MIAMI-DADE
+Florida,ActiveCasesCombined,Int64,41861,5893,0,56,1.6333341296194548,0
+Florida,ActiveCasesStudents,Int64,47754,0,0,48,1.16168279097039,0
+Florida,_ActiveCasesStaff,Int64,47754,0,0,6,0.06370147003392386,0
+Florida,_ActiveCasesTeachers,Int64,47754,0,0,6,0.09944716672948863,0
+Florida,ActiveCasesStaff,Int64,47754,0,0,10,0.16314863676341249,0
+Florida,ActiveCasesUnknown,Int64,41861,5893,0,16,0.26487661546546903,0
+Florida,TimePeriodInterval,string,47754,0,Biweekly,Biweekly,,Biweekly
+Florida,TimePeriodStart,object,47754,0,01/04/20,11/30/20,,01/04/20
+Florida,TimePeriodEnd,object,47754,0,01/18/20,12/14/20,,01/18/20
+Florida,NCESSchoolID,string,47754,0,120003000002,120201008668,,120018004320
+Florida,NCESDistrictID,string,47754,0,1200030,1202010,,1200390
+Florida,DistrictType,object,47754,0,Regular local school district,Regular local school district,,Regular local school district
+Florida,Charter,object,47754,0,No,Yes,,No
+Florida,SchoolType,object,47754,0,Other/alternative school,Vocational school,,Regular school
+Florida,County,object,0,47754,,,,
+Florida,NewCasesCombined,object,0,47754,,,,
+Florida,NewCasesStudents,object,0,47754,,,,
+Florida,NewCasesStaff,object,0,47754,,,,
+Florida,NewCasesUnknown,object,0,47754,,,,
+Florida,TwoWeekPeriodStaffStudentCasesCombined,object,0,47754,,,,
+Florida,TwoWeekPeriodCasesStudents,object,0,47754,,,,
+Florida,TwoWeekPeriodCasesStaff,object,0,47754,,,,
+Florida,CumulativeCasesCombined,object,0,47754,,,,
+Florida,CumulativeCasesStudents,object,0,47754,,,,
+Florida,CumulativeCasesStaff,object,0,47754,,,,
+Florida,CumulativeCasesUnknown,object,0,47754,,,,
+Illinois,StateName,string,310,0,Illinois,Illinois,,Illinois
+Illinois,StateAbbrev,string,310,0,IL,IL,,IL
+Illinois,DataLevel,string,310,0,School,School,,School
+Illinois,SchoolName,object,310,0,Batavia High School,Windsor Elementary School,,Rushville Industry Middle School
+Illinois,ActiveCasesCombined,object,310,0,11-16,5-10 (Statt & Students),,5-10
+Illinois,TimePeriodInterval,string,310,0,Weekly,Weekly,,Weekly
+Illinois,TimePeriodEnd,object,310,0,01/01/21,12/25/20,,05/14/21
+Illinois,TimePeriodStart,object,310,0,01/01/21,12/25/20,,05/07/21
+Illinois,NCESSchoolID,string,309,1,170031405701,174333004186,,170033205812
+Illinois,NCESDistrictID,string,309,1,1700314,1743330,,1730270
+Illinois,DistrictType,object,309,1,Regular local school district,Regular local school district,,Regular local school district
+Illinois,Charter,object,309,1,No,No,,No
+Illinois,SchoolType,object,309,1,Regular school,Regular school,,Regular school
+Illinois,DistrictName,object,0,310,,,,
+Illinois,County,object,0,310,,,,
+Illinois,NewCasesCombined,object,0,310,,,,
+Illinois,NewCasesStudents,object,0,310,,,,
+Illinois,NewCasesStaff,object,0,310,,,,
+Illinois,NewCasesUnknown,object,0,310,,,,
+Illinois,TwoWeekPeriodStaffStudentCasesCombined,object,0,310,,,,
+Illinois,TwoWeekPeriodCasesStudents,object,0,310,,,,
+Illinois,TwoWeekPeriodCasesStaff,object,0,310,,,,
+Illinois,CumulativeCasesCombined,object,0,310,,,,
+Illinois,CumulativeCasesStudents,object,0,310,,,,
+Illinois,CumulativeCasesStaff,object,0,310,,,,
+Illinois,CumulativeCasesUnknown,object,0,310,,,,
+Illinois,ActiveCasesStaff,object,0,310,,,,
+Illinois,ActiveCasesStudents,object,0,310,,,,
+Illinois,ActiveCasesUnknown,object,0,310,,,,
+Idaho,StateName,string,26353,0,Idaho,Idaho,,Idaho
+Idaho,StateAbbrev,string,26353,0,ID,ID,,ID
+Idaho,DataLevel,string,26353,0,School,School,,School
+Idaho,SchoolName,object,26353,0,A B McDonald Elementary,iSuceed Virtual High,,Westside Elementary
+Idaho,TimePeriodInterval,string,26353,0,Weekly,Weekly,,Weekly
+Idaho,TimePeriodStart,object,26353,0,01/04/21,12/28/20,,01/11/21
+Idaho,TimePeriodEnd,object,26353,0,01/03/21,12/27/20,,01/15/21
+Idaho,NewCasesCombined,object,2579,23774,1,9,,1
+Idaho,CumulativeCasesCombined,object,15797,10556,0,99+,,1
+Idaho,NCESSchoolID,string,26353,0,160000100084,160351100685,,160000200617
+Idaho,NCESDistrictID,string,26353,0,1600001,1603511,,1602100
+Idaho,DistrictType,object,26353,0,,State-operated agency,,Regular local school district
+Idaho,Charter,object,26353,0,,Yes,,No
+Idaho,SchoolType,object,26353,0,,Vocational school,,Regular school
+Idaho,DistrictName,object,0,26353,,,,
+Idaho,County,object,0,26353,,,,
+Idaho,NewCasesStudents,object,0,26353,,,,
+Idaho,NewCasesStaff,object,0,26353,,,,
+Idaho,NewCasesUnknown,object,0,26353,,,,
+Idaho,TwoWeekPeriodStaffStudentCasesCombined,object,0,26353,,,,
+Idaho,TwoWeekPeriodCasesStudents,object,0,26353,,,,
+Idaho,TwoWeekPeriodCasesStaff,object,0,26353,,,,
+Idaho,CumulativeCasesStudents,object,0,26353,,,,
+Idaho,CumulativeCasesStaff,object,0,26353,,,,
+Idaho,CumulativeCasesUnknown,object,0,26353,,,,
+Idaho,ActiveCasesStaff,object,0,26353,,,,
+Idaho,ActiveCasesStudents,object,0,26353,,,,
+Idaho,ActiveCasesUnknown,object,0,26353,,,,
+Idaho,ActiveCasesCombined,object,0,26353,,,,
+Rhode Island,StateName,string,11274,0,Rhode Island,Rhode Island,,Rhode Island
+Rhode Island,StateAbbrev,string,11274,0,RI,RI,,RI
+Rhode Island,DataLevel,string,11274,0,School,School,,School
+Rhode Island,DistrictName,object,11274,0,Achievement First Rhode Island,Woonsocket,,Providence
+Rhode Island,SchoolName,object,11274,0,360 High School,Wyman School,,360 High School
+Rhode Island,NewCasesStudents,object,10307,967,0,5-9,,0
+Rhode Island,NewCasesStaff,object,10307,967,0,5-9,,0
+Rhode Island,NewCasesCombined,object,538,10736,0,5-9,,0
+Rhode Island,CumulativeCasesStudents,object,10307,967,0,95 to 99,,5-9
+Rhode Island,CumulativeCasesStaff,object,10307,967,0,5-9,,1-4
+Rhode Island,CumulativeCasesCombined,object,538,10736,1-4,5-9,,1-4
+Rhode Island,TimePeriodInterval,string,11274,0,Weekly,Weekly,,Weekly
+Rhode Island,TimePeriodEnd,object,11274,0,01/02/21,12/26/20,,05/08/21
+Rhode Island,TimePeriodStart,object,11274,0,01/02/21,12/26/20,,05/01/21
+Rhode Island,NCESSchoolID,string,11274,0,120156001660,440120000531,,440001500473
+Rhode Island,NCESDistrictID,string,11274,0,1201560,4401200,,4400900
+Rhode Island,DistrictType,object,11274,0,Charter agency,State-operated agency,,Regular local school district
+Rhode Island,Charter,object,11274,0,,Yes,,No
+Rhode Island,SchoolType,object,11274,0,,Vocational school,,Regular school
+Rhode Island,County,object,0,11274,,,,
+Rhode Island,NewCasesUnknown,object,0,11274,,,,
+Rhode Island,TwoWeekPeriodStaffStudentCasesCombined,object,0,11274,,,,
+Rhode Island,TwoWeekPeriodCasesStudents,object,0,11274,,,,
+Rhode Island,TwoWeekPeriodCasesStaff,object,0,11274,,,,
+Rhode Island,CumulativeCasesUnknown,object,0,11274,,,,
+Rhode Island,ActiveCasesStaff,object,0,11274,,,,
+Rhode Island,ActiveCasesStudents,object,0,11274,,,,
+Rhode Island,ActiveCasesUnknown,object,0,11274,,,,
+Rhode Island,ActiveCasesCombined,object,0,11274,,,,
+Nevada,StateName,string,10098,0,Nevada,Nevada,,Nevada
+Nevada,StateAbbrev,string,10098,0,NV,NV,,NV
+Nevada,DataLevel,string,10098,0,School,School,,School
+Nevada,SchoolName,object,10098,0,Academy For Career Education (ACE),Zephyr Cove Elementary School,,Howard Hollingsworth Elementary
+Nevada,DistrictName,object,10098,0,CARSON CITY SCHOOL DISTRICT,WHITE PINE COUNTY SCHOOL DISTRICT,,CLARK COUNTY SCHOOL DISTRICT
+Nevada,NCESSchoolID1,string,10098,0,320000100608.0,320051000267.0,,320000100921.0
+Nevada,NCESSchoolID2,string,136,9962,320006000698.0,320012000692.0,,320006000698.0
+Nevada,NCESSchoolID3,string,136,9962,320006000609.0,320012000622.0,,320006000609.0
+Nevada,NCESSchoolID,object,10098,0,320000100608,320051000267,,320000100921
+Nevada,NCESDistrictID,object,10098,0,3200001,3200510,,3200060
+Nevada,CumulativeCasesCombined,Int64,10098,0,0,99,5.586155674390969,1
+Nevada,CumulativeCasesStudents,Int64,10097,1,0,75,3.0914132910765573,0
+Nevada,CumulativeCasesStaff,Int64,10098,0,0,24,2.495048524460289,1
+Nevada,TimePeriodInterval,string,10098,0,Weekly,Weekly,,Weekly
+Nevada,TimePeriodStart,object,10098,0,01/07/21,12/31/20,,05/27/21
+Nevada,TimePeriodEnd,object,10098,0,01/06/21,12/30/20,,06/02/21
+Nevada,DistrictType,object,10098,0,Charter agency,Regular local school district,,Regular local school district
+Nevada,Charter,object,10098,0,,Yes,,No
+Nevada,SchoolType,object,10098,0,,Special education school,,Regular school
+Nevada,County,object,0,10098,,,,
+Nevada,NewCasesCombined,object,0,10098,,,,
+Nevada,NewCasesStudents,object,0,10098,,,,
+Nevada,NewCasesStaff,object,0,10098,,,,
+Nevada,NewCasesUnknown,object,0,10098,,,,
+Nevada,TwoWeekPeriodStaffStudentCasesCombined,object,0,10098,,,,
+Nevada,TwoWeekPeriodCasesStudents,object,0,10098,,,,
+Nevada,TwoWeekPeriodCasesStaff,object,0,10098,,,,
+Nevada,CumulativeCasesUnknown,object,0,10098,,,,
+Nevada,ActiveCasesStaff,object,0,10098,,,,
+Nevada,ActiveCasesStudents,object,0,10098,,,,
+Nevada,ActiveCasesUnknown,object,0,10098,,,,
+Nevada,ActiveCasesCombined,object,0,10098,,,,
+Virginia,StateName,string,250,0,Virginia,Virginia,,Virginia
+Virginia,StateAbbrev,string,250,0,VA,VA,,VA
+Virginia,DataLevel,string,250,0,School,School,,School
+Virginia,SchoolName,object,250,0,Altavista Elementary School,Yorktown High School,,Patrick Henry High School
+Virginia,DistrictName,object,250,0,Accomack,York,,Fairfax
+Virginia,NewCasesCombined,Int64,76,174,5,49,9.328947368421053,5
+Virginia,TimePeriodInterval,string,250,0,Monthly,Monthly,,Monthly
+Virginia,TimePeriodStart,object,250,0,01/06/21,12/31/20,,02/09/21
+Virginia,TimePeriodEnd,object,250,0,01/01/21,12/31/20,,03/11/21
+Virginia,NCESSchoolID,string,250,0,510003201932,510415001823,,510183000776
+Virginia,NCESDistrictID,string,250,0,5100032,5104150,,5101260
+Virginia,DistrictType,object,250,0,Regular local school district,Specialized public school district,,Regular local school district
+Virginia,Charter,object,250,0,No,No,,No
+Virginia,SchoolType,object,250,0,Regular school,Vocational school,,Regular school
+Virginia,County,object,0,250,,,,
+Virginia,NewCasesStudents,object,0,250,,,,
+Virginia,NewCasesStaff,object,0,250,,,,
+Virginia,NewCasesUnknown,object,0,250,,,,
+Virginia,TwoWeekPeriodStaffStudentCasesCombined,object,0,250,,,,
+Virginia,TwoWeekPeriodCasesStudents,object,0,250,,,,
+Virginia,TwoWeekPeriodCasesStaff,object,0,250,,,,
+Virginia,CumulativeCasesCombined,object,0,250,,,,
+Virginia,CumulativeCasesStudents,object,0,250,,,,
+Virginia,CumulativeCasesStaff,object,0,250,,,,
+Virginia,CumulativeCasesUnknown,object,0,250,,,,
+Virginia,ActiveCasesStaff,object,0,250,,,,
+Virginia,ActiveCasesStudents,object,0,250,,,,
+Virginia,ActiveCasesUnknown,object,0,250,,,,
+Virginia,ActiveCasesCombined,object,0,250,,,,
+Ohio,StateName,string,5041,0,Ohio,Ohio,,Ohio
+Ohio,StateAbbrev,string,5041,0,OH,OH,,OH
+Ohio,DataLevel,string,5041,0,District,District,,District
+Ohio,DistrictName,object,5041,0,A+ Arts Academy,Zenith Academy West,,Western Reserve Local
+Ohio,NCESDistrictID,object,5041,0,3900029,3910020,,3900305
+Ohio,NewCasesStudents,Int64,5041,0,0,37,1.0763737353699663,0
+Ohio,CumulativeCasesStudents,Int64,5037,4,0,596,27.255310700813975,0
+Ohio,NewCasesStaff,Int64,5041,0,0,21,0.49791707994445544,0
+Ohio,CumulativeCasesStaff,Int64,5029,12,0,195,14.87572081924836,0
+Ohio,TimePeriodInterval,string,5041,0,Weekly,Weekly,,Weekly
+Ohio,TimePeriodStart,object,5041,0,01/04/21,12/28/20,,06/14/21
+Ohio,TimePeriodEnd,object,5041,0,01/03/21,12/20/20,,06/20/21
+Ohio,DistrictType,object,5041,0,,Regular local school district,,Charter agency
+Ohio,Charter,object,5041,0,,Yes,,No
+Ohio,SchoolName,object,0,5041,,,,
+Ohio,SchoolType,object,0,5041,,,,
+Ohio,NCESSchoolID,object,0,5041,,,,
+Ohio,County,object,0,5041,,,,
+Ohio,NewCasesCombined,object,0,5041,,,,
+Ohio,NewCasesUnknown,object,0,5041,,,,
+Ohio,TwoWeekPeriodStaffStudentCasesCombined,object,0,5041,,,,
+Ohio,TwoWeekPeriodCasesStudents,object,0,5041,,,,
+Ohio,TwoWeekPeriodCasesStaff,object,0,5041,,,,
+Ohio,CumulativeCasesCombined,object,0,5041,,,,
+Ohio,CumulativeCasesUnknown,object,0,5041,,,,
+Ohio,ActiveCasesStaff,object,0,5041,,,,
+Ohio,ActiveCasesStudents,object,0,5041,,,,
+Ohio,ActiveCasesUnknown,object,0,5041,,,,
+Ohio,ActiveCasesCombined,object,0,5041,,,,
+West Virginia,StateName,string,885,0,West Virginia,West Virginia,,West Virginia
+West Virginia,StateAbbrev,string,885,0,WV,WV,,WV
+West Virginia,DataLevel,string,885,0,School,School,,School
+West Virginia,SchoolName,object,885,0,Andrew Jackson Middle School,Zela Elementary School,,Huntington High School
+West Virginia,ActiveCasesCombined,Int64,885,0,0,28,5.535593220338983,2
+West Virginia,TimePeriodInterval,string,885,0,Biweekly,Biweekly,,Biweekly
+West Virginia,TimePeriodEnd,object,884,1,01/01/21,12/30/20,,04/19/21
+West Virginia,TimePeriodStart,object,884,1,01/04/21,12/31/20,,04/05/21
+West Virginia,NCESSchoolID,string,885,0,540003000002,540165001215,,540018000860
+West Virginia,NCESDistrictID,string,885,0,5400030,5401650,,5400600
+West Virginia,DistrictType,object,885,0,Regular local school district,State-operated agency,,Regular local school district
+West Virginia,Charter,object,885,0,Not applicable,Not applicable,,Not applicable
+West Virginia,SchoolType,object,885,0,Other/alternative school,Vocational school,,Regular school
+West Virginia,DistrictName,object,0,885,,,,
+West Virginia,County,object,0,885,,,,
+West Virginia,NewCasesCombined,object,0,885,,,,
+West Virginia,NewCasesStudents,object,0,885,,,,
+West Virginia,NewCasesStaff,object,0,885,,,,
+West Virginia,NewCasesUnknown,object,0,885,,,,
+West Virginia,TwoWeekPeriodStaffStudentCasesCombined,object,0,885,,,,
+West Virginia,TwoWeekPeriodCasesStudents,object,0,885,,,,
+West Virginia,TwoWeekPeriodCasesStaff,object,0,885,,,,
+West Virginia,CumulativeCasesCombined,object,0,885,,,,
+West Virginia,CumulativeCasesStudents,object,0,885,,,,
+West Virginia,CumulativeCasesStaff,object,0,885,,,,
+West Virginia,CumulativeCasesUnknown,object,0,885,,,,
+West Virginia,ActiveCasesStaff,object,0,885,,,,
+West Virginia,ActiveCasesStudents,object,0,885,,,,
+West Virginia,ActiveCasesUnknown,object,0,885,,,,
+Vermont,StateName,string,11324,0,Vermont,Vermont,,Vermont
+Vermont,StateAbbrev,string,11324,0,VT,VT,,VT
+Vermont,DataLevel,string,11324,0,School,School,,School
+Vermont,SchoolName,object,11324,0,ACADEMY SCHOOL,WOODSTOCK MIDDLE SR UHS #4,,ACADEMY SCHOOL
+Vermont,NewCasesCombined,Int64,11016,308,0,11,0.10557371096586783,0
+Vermont,CumulativeCasesCombined,Int64,11324,0,0,36,2.0457435535146593,0
+Vermont,TimePeriodInterval,string,11324,0,Weekly,Weekly,,Weekly
+Vermont,TimePeriodEnd,object,11324,0,01/03/21,12/27/20,,10/16/20
+Vermont,TimePeriodStart,object,11324,0,01/03/21,12/27/20,,10/09/20
+Vermont,NCESSchoolID,string,11323,1,500000500251,500960000220,,500039900205
+Vermont,NCESDistrictID,string,11323,1,5000005,5009600,,5000395
+Vermont,DistrictType,object,11323,1,,State-operated agency,,Local school district that is a component of a supervisory union
+Vermont,Charter,object,11323,1,,Not applicable,,Not applicable
+Vermont,SchoolType,object,11323,1,,Vocational school,,Regular school
+Vermont,DistrictName,object,0,11324,,,,
+Vermont,County,object,0,11324,,,,
+Vermont,NewCasesStudents,object,0,11324,,,,
+Vermont,NewCasesStaff,object,0,11324,,,,
+Vermont,NewCasesUnknown,object,0,11324,,,,
+Vermont,TwoWeekPeriodStaffStudentCasesCombined,object,0,11324,,,,
+Vermont,TwoWeekPeriodCasesStudents,object,0,11324,,,,
+Vermont,TwoWeekPeriodCasesStaff,object,0,11324,,,,
+Vermont,CumulativeCasesStudents,object,0,11324,,,,
+Vermont,CumulativeCasesStaff,object,0,11324,,,,
+Vermont,CumulativeCasesUnknown,object,0,11324,,,,
+Vermont,ActiveCasesStaff,object,0,11324,,,,
+Vermont,ActiveCasesStudents,object,0,11324,,,,
+Vermont,ActiveCasesUnknown,object,0,11324,,,,
+Vermont,ActiveCasesCombined,object,0,11324,,,,
+Utah,StateName,string,1584,0,Utah,Utah,,Utah
+Utah,StateAbbrev,string,1584,0,UT,UT,,UT
+Utah,DataLevel,string,1584,0,District,District,,District
+Utah,DistrictName,object,1584,0,Alpine District,Weber District,,Alpine District
+Utah,ActiveCasesCombined,object,1584,0,0,95,,0
+Utah,CumulativeCasesCombined,Int64,1584,0,6,6550,755.5625,30
+Utah,TimePeriodInterval,string,1584,0,Daily,Daily,,Daily
+Utah,TimePeriodEnd,object,1584,0,05/05/21,06/29/21,,05/05/21
+Utah,TimePeriodStart,object,1584,0,05/05/21,06/29/21,,05/05/21
+Utah,NCESDistrictID,string,1584,0,4900029,4901200,,4900210
+Utah,DistrictType,object,1584,0,Charter agency,Regular local school district,,Regular local school district
+Utah,Charter,object,1584,0,No,Yes,,No
+Utah,SchoolName,object,0,1584,,,,
+Utah,SchoolType,object,0,1584,,,,
+Utah,NCESSchoolID,object,0,1584,,,,
+Utah,County,object,0,1584,,,,
+Utah,NewCasesCombined,object,0,1584,,,,
+Utah,NewCasesStudents,object,0,1584,,,,
+Utah,NewCasesStaff,object,0,1584,,,,
+Utah,NewCasesUnknown,object,0,1584,,,,
+Utah,TwoWeekPeriodStaffStudentCasesCombined,object,0,1584,,,,
+Utah,TwoWeekPeriodCasesStudents,object,0,1584,,,,
+Utah,TwoWeekPeriodCasesStaff,object,0,1584,,,,
+Utah,CumulativeCasesStudents,object,0,1584,,,,
+Utah,CumulativeCasesStaff,object,0,1584,,,,
+Utah,CumulativeCasesUnknown,object,0,1584,,,,
+Utah,ActiveCasesStaff,object,0,1584,,,,
+Utah,ActiveCasesStudents,object,0,1584,,,,
+Utah,ActiveCasesUnknown,object,0,1584,,,,
+Oregon,StateName,string,4219,0,Oregon,Oregon,,Oregon
+Oregon,StateAbbrev,string,4219,0,OR,OR,,OR
+Oregon,DataLevel,string,4219,0,School,School,,School
+Oregon,SchoolName,object,4219,0,A C Houghton Elementary School,Yoshikai Elementary School,,Mcloughlin Middle School
+Oregon,ActiveCasesStudents,Int64,4215,4,0,78,3.26073546856465,1
+Oregon,ActiveCasesStaff,Int64,4215,4,0,9,1.0842230130486359,0
+Oregon,TimePeriodInterval,string,4219,0,Weekly,Weekly,,Weekly
+Oregon,TimePeriodEnd,object,4219,0,01/06/21,12/30/20,,05/19/21
+Oregon,TimePeriodStart,object,4219,0,01/06/21,12/30/20,,05/12/21
+Oregon,NCESSchoolID,string,4219,0,410000301061,418018000230,,410804000443
+Oregon,NCESDistrictID,string,4219,0,4100003,4180180,,4110820
+Oregon,DistrictType,object,4219,0,Charter agency,State-operated agency,,Regular local school district
+Oregon,Charter,object,4219,0,,Yes,,No
+Oregon,SchoolType,object,4219,0,,Regular school,,Regular school
+Oregon,DistrictName,object,0,4219,,,,
+Oregon,County,object,0,4219,,,,
+Oregon,NewCasesCombined,object,0,4219,,,,
+Oregon,NewCasesStudents,object,0,4219,,,,
+Oregon,NewCasesStaff,object,0,4219,,,,
+Oregon,NewCasesUnknown,object,0,4219,,,,
+Oregon,TwoWeekPeriodStaffStudentCasesCombined,object,0,4219,,,,
+Oregon,TwoWeekPeriodCasesStudents,object,0,4219,,,,
+Oregon,TwoWeekPeriodCasesStaff,object,0,4219,,,,
+Oregon,CumulativeCasesCombined,object,0,4219,,,,
+Oregon,CumulativeCasesStudents,object,0,4219,,,,
+Oregon,CumulativeCasesStaff,object,0,4219,,,,
+Oregon,CumulativeCasesUnknown,object,0,4219,,,,
+Oregon,ActiveCasesUnknown,object,0,4219,,,,
+Oregon,ActiveCasesCombined,object,0,4219,,,,
+North Carolina,StateName,string,1861,0,North Carolina,North Carolina,,North Carolina
+North Carolina,StateAbbrev,string,1861,0,NC,NC,,NC
+North Carolina,DataLevel,string,1861,0,School,School,,School
+North Carolina,SchoolName,object,1861,0,AC Reynolds Middle School,Zebulon Elementary School,,St. Paul's High School – 2nd
+North Carolina,ActiveCasesStaff,Int64,1861,0,0,17,2.61364857603439,1
+North Carolina,ActiveCasesStudents,Int64,1861,0,0,46,5.192907039226222,3
+North Carolina,ActiveCasesCombined,Int64,1861,0,5,51,7.806555615260613,5
+North Carolina,TimePeriodInterval,string,1861,0,Weekly,Weekly,,Weekly
+North Carolina,TimePeriodEnd,object,1861,0,01/05/21,12/22/20,,03/05/21
+North Carolina,TimePeriodStart,object,1861,0,01/01/21,12/29/20,,02/26/21
+North Carolina,NCESSchoolID,string,1855,6,370001201493,370507002029,,370393002244
+North Carolina,NCESDistrictID,string,1855,6,3700012,3705070,,3703930
+North Carolina,DistrictType,object,1855,6,Charter agency,Regular local school district,,Regular local school district
+North Carolina,Charter,object,1855,6,No,Yes,,No
+North Carolina,SchoolType,object,1855,6,Other/alternative school,Special education school,,Regular school
+North Carolina,DistrictName,object,0,1861,,,,
+North Carolina,County,object,0,1861,,,,
+North Carolina,NewCasesCombined,object,0,1861,,,,
+North Carolina,NewCasesStudents,object,0,1861,,,,
+North Carolina,NewCasesStaff,object,0,1861,,,,
+North Carolina,NewCasesUnknown,object,0,1861,,,,
+North Carolina,TwoWeekPeriodStaffStudentCasesCombined,object,0,1861,,,,
+North Carolina,TwoWeekPeriodCasesStudents,object,0,1861,,,,
+North Carolina,TwoWeekPeriodCasesStaff,object,0,1861,,,,
+North Carolina,CumulativeCasesCombined,object,0,1861,,,,
+North Carolina,CumulativeCasesStudents,object,0,1861,,,,
+North Carolina,CumulativeCasesStaff,object,0,1861,,,,
+North Carolina,CumulativeCasesUnknown,object,0,1861,,,,
+North Carolina,ActiveCasesUnknown,object,0,1861,,,,
+New Hampshire,StateName,string,75123,0,New Hampshire,New Hampshire,,New Hampshire
+New Hampshire,StateAbbrev,string,75123,0,NH,NH,,NH
+New Hampshire,DataLevel,string,75123,0,School,School,,School
+New Hampshire,SchoolName,object,75123,0,A. CROSBY KENNETT MIDDLE SCHOOL (CONWAY),WOODSVILLE HIGH SCHOOL (HAVERHILL),,A. CROSBY KENNETT MIDDLE SCHOOL (CONWAY)
+New Hampshire,ActiveCasesCombined,Int64,75123,0,0,10,0.1822078457995554,0
+New Hampshire,TimePeriodInterval,string,75123,0,Daily,Daily,,Daily
+New Hampshire,TimePeriodEnd,object,75123,0,01/03/21,12/29/20,,01/03/21
+New Hampshire,TimePeriodStart,object,75123,0,01/03/21,12/29/20,,01/03/21
+New Hampshire,NCESSchoolID,string,75123,0,330000300500,500002400180,,330522000337
+New Hampshire,NCESDistrictID,string,75123,0,3300003,5000024,,3304590
+New Hampshire,DistrictType,object,75123,0,Charter agency,Regular local school district,,Local school district that is a component of a supervisory union
+New Hampshire,Charter,object,75123,0,No,Yes,,No
+New Hampshire,SchoolType,object,75123,0,Regular school,Regular school,,Regular school
+New Hampshire,DistrictName,object,0,75123,,,,
+New Hampshire,County,object,0,75123,,,,
+New Hampshire,NewCasesCombined,object,0,75123,,,,
+New Hampshire,NewCasesStudents,object,0,75123,,,,
+New Hampshire,NewCasesStaff,object,0,75123,,,,
+New Hampshire,NewCasesUnknown,object,0,75123,,,,
+New Hampshire,TwoWeekPeriodStaffStudentCasesCombined,object,0,75123,,,,
+New Hampshire,TwoWeekPeriodCasesStudents,object,0,75123,,,,
+New Hampshire,TwoWeekPeriodCasesStaff,object,0,75123,,,,
+New Hampshire,CumulativeCasesCombined,object,0,75123,,,,
+New Hampshire,CumulativeCasesStudents,object,0,75123,,,,
+New Hampshire,CumulativeCasesStaff,object,0,75123,,,,
+New Hampshire,CumulativeCasesUnknown,object,0,75123,,,,
+New Hampshire,ActiveCasesStaff,object,0,75123,,,,
+New Hampshire,ActiveCasesStudents,object,0,75123,,,,
+New Hampshire,ActiveCasesUnknown,object,0,75123,,,,
+Massachusetts,StateName,string,13930,0,Massachusetts,Massachusetts,,Massachusetts
+Massachusetts,StateAbbrev,string,13930,0,MA,MA,,MA
+Massachusetts,DataLevel,string,13930,0,District,District,,District
+Massachusetts,DistrictName,object,13930,0,Abby Kelley Foster Charter Public (District),Wrentham,,Abby Kelley Foster Charter Public (District)
+Massachusetts,NewCasesStudents,Int64,13930,0,0,43,0.9898779612347451,0
+Massachusetts,NewCasesStaff,Int64,13930,0,0,24,0.4048815506101938,0
+Massachusetts,TimePeriodInterval,string,13930,0,Weekly,Weekly,,Weekly
+Massachusetts,TimePeriodEnd,object,13930,0,01/06/21,12/23/20,,01/06/21
+Massachusetts,TimePeriodStart,object,13930,0,01/06/21,12/30/20,,01/06/21
+Massachusetts,NCESDistrictID,string,13930,0,2500001,2513321,,2500001
+Massachusetts,DistrictType,object,13930,0,Charter agency,Regular local school district,,Regular local school district
+Massachusetts,Charter,object,13930,0,No,Yes,,No
+Massachusetts,SchoolName,object,0,13930,,,,
+Massachusetts,SchoolType,object,0,13930,,,,
+Massachusetts,NCESSchoolID,object,0,13930,,,,
+Massachusetts,County,object,0,13930,,,,
+Massachusetts,NewCasesCombined,object,0,13930,,,,
+Massachusetts,NewCasesUnknown,object,0,13930,,,,
+Massachusetts,TwoWeekPeriodStaffStudentCasesCombined,object,0,13930,,,,
+Massachusetts,TwoWeekPeriodCasesStudents,object,0,13930,,,,
+Massachusetts,TwoWeekPeriodCasesStaff,object,0,13930,,,,
+Massachusetts,CumulativeCasesCombined,object,0,13930,,,,
+Massachusetts,CumulativeCasesStudents,object,0,13930,,,,
+Massachusetts,CumulativeCasesStaff,object,0,13930,,,,
+Massachusetts,CumulativeCasesUnknown,object,0,13930,,,,
+Massachusetts,ActiveCasesStaff,object,0,13930,,,,
+Massachusetts,ActiveCasesStudents,object,0,13930,,,,
+Massachusetts,ActiveCasesUnknown,object,0,13930,,,,
+Massachusetts,ActiveCasesCombined,object,0,13930,,,,
+Louisiana,StateName,string,2047,0,Louisiana,Louisiana,,Louisiana
+Louisiana,StateAbbrev,string,2047,0,LA,LA,,LA
+Louisiana,DataLevel,string,2047,0,District,District,,District
+Louisiana,DistrictName,object,2047,0,Acadia,Winn,,Acadia
+Louisiana,CumulativeCasesStaff,object,2047,0,0,99,,1-4
+Louisiana,CumulativeCasesStudents,object,2047,0,0,998,,1-4
+Louisiana,NewCasesStaff,object,2047,0,0,94,,0
+Louisiana,NewCasesStudents,object,2047,0,0,98,,0
+Louisiana,TimePeriodInterval,string,2047,0,Weekly,Weekly,,Weekly
+Louisiana,TimePeriodEnd,object,2047,0,01/03/21,12/27/20,,01/03/21
+Louisiana,TimePeriodStart,object,2047,0,01/03/21,12/27/20,,01/03/21
+Louisiana,NCESDistrictID,string,2047,0,2200030,2202010,,2200030
+Louisiana,DistrictType,object,2047,0,Regular local school district,Regular local school district,,Regular local school district
+Louisiana,Charter,object,2047,0,No,No,,No
+Louisiana,SchoolName,object,0,2047,,,,
+Louisiana,SchoolType,object,0,2047,,,,
+Louisiana,NCESSchoolID,object,0,2047,,,,
+Louisiana,County,object,0,2047,,,,
+Louisiana,NewCasesCombined,object,0,2047,,,,
+Louisiana,NewCasesUnknown,object,0,2047,,,,
+Louisiana,TwoWeekPeriodStaffStudentCasesCombined,object,0,2047,,,,
+Louisiana,TwoWeekPeriodCasesStudents,object,0,2047,,,,
+Louisiana,TwoWeekPeriodCasesStaff,object,0,2047,,,,
+Louisiana,CumulativeCasesCombined,object,0,2047,,,,
+Louisiana,CumulativeCasesUnknown,object,0,2047,,,,
+Louisiana,ActiveCasesStaff,object,0,2047,,,,
+Louisiana,ActiveCasesStudents,object,0,2047,,,,
+Louisiana,ActiveCasesUnknown,object,0,2047,,,,
+Louisiana,ActiveCasesCombined,object,0,2047,,,,
+Maryland,StateName,string,380,0,Maryland,Maryland,,Maryland
+Maryland,StateAbbrev,string,380,0,MD,MD,,MD
+Maryland,DataLevel,string,380,0,School,School,,School
+Maryland,SchoolName,object,380,0,Applications and Research Laboratory,Youth Benefit Elementary School,,Stephen Decatur High School
+Maryland,ActiveCasesCombined,Int64,380,0,2,33,4.33421052631579,2
+Maryland,TimePeriodInterval,string,380,0,Weekly,Weekly,,Weekly
+Maryland,TimePeriodEnd,object,379,1,01/06/21,12/30/20,,05/05/21
+Maryland,TimePeriodStart,object,379,1,01/06/21,12/30/20,,04/28/21
+Maryland,NCESSchoolID,string,380,0,240002701669,240072001335,,240072001335
+Maryland,NCESDistrictID,string,380,0,2400027,2400720,,2400660
+Maryland,DistrictType,object,380,0,Regular local school district,State-operated agency,,Regular local school district
+Maryland,Charter,object,380,0,No,Yes,,No
+Maryland,SchoolType,object,380,0,Other/alternative school,Vocational school,,Regular school
+Maryland,DistrictName,object,0,380,,,,
+Maryland,County,object,0,380,,,,
+Maryland,NewCasesCombined,object,0,380,,,,
+Maryland,NewCasesStudents,object,0,380,,,,
+Maryland,NewCasesStaff,object,0,380,,,,
+Maryland,NewCasesUnknown,object,0,380,,,,
+Maryland,TwoWeekPeriodStaffStudentCasesCombined,object,0,380,,,,
+Maryland,TwoWeekPeriodCasesStudents,object,0,380,,,,
+Maryland,TwoWeekPeriodCasesStaff,object,0,380,,,,
+Maryland,CumulativeCasesCombined,object,0,380,,,,
+Maryland,CumulativeCasesStudents,object,0,380,,,,
+Maryland,CumulativeCasesStaff,object,0,380,,,,
+Maryland,CumulativeCasesUnknown,object,0,380,,,,
+Maryland,ActiveCasesStaff,object,0,380,,,,
+Maryland,ActiveCasesStudents,object,0,380,,,,
+Maryland,ActiveCasesUnknown,object,0,380,,,,
+Colorado,StateName,string,777,0,Colorado,Colorado,,Colorado
+Colorado,StateAbbrev,string,777,0,CO,CO,,CO
+Colorado,DataLevel,string,777,0,School,School,,School
+Colorado,SchoolName,object,777,0,5280 High School,eDCSD: Colorado Cyber School,,Fountain- Fort Carson High School
+Colorado,NewCasesStaff,Int64,495,282,1,12,2.4464646464646465,1
+Colorado,NewCasesStudents,Int64,692,85,1,139,7.804913294797688,2
+Colorado,NewCasesCombined,Int64,777,0,2,150,8.50965250965251,2
+Colorado,TimePeriodStart,object,777,0,01/05/21,12/29/20,,11/17/20
+Colorado,TimePeriodEnd,object,777,0,01/02/21,12/31/20,,12/08/20
+Colorado,NCESSchoolID,string,777,0,080000400709,080738001268,,080192001592
+Colorado,NCESDistrictID,string,777,0,0800004,0807380,,0804800
+Colorado,DistrictType,object,777,0,Charter agency,State-operated agency,,Regular local school district
+Colorado,Charter,object,777,0,,Yes,,No
+Colorado,SchoolType,object,777,0,,Vocational school,,Regular school
+Colorado,DistrictName,object,0,777,,,,
+Colorado,County,object,0,777,,,,
+Colorado,TimePeriodInterval,object,0,777,,,,
+Colorado,NewCasesUnknown,object,0,777,,,,
+Colorado,TwoWeekPeriodStaffStudentCasesCombined,object,0,777,,,,
+Colorado,TwoWeekPeriodCasesStudents,object,0,777,,,,
+Colorado,TwoWeekPeriodCasesStaff,object,0,777,,,,
+Colorado,CumulativeCasesCombined,object,0,777,,,,
+Colorado,CumulativeCasesStudents,object,0,777,,,,
+Colorado,CumulativeCasesStaff,object,0,777,,,,
+Colorado,CumulativeCasesUnknown,object,0,777,,,,
+Colorado,ActiveCasesStaff,object,0,777,,,,
+Colorado,ActiveCasesStudents,object,0,777,,,,
+Colorado,ActiveCasesUnknown,object,0,777,,,,
+Colorado,ActiveCasesCombined,object,0,777,,,,
+Maine,StateName,string,9388,0,Maine,Maine,,Maine
+Maine,StateAbbrev,string,9388,0,ME,ME,,ME
+Maine,DataLevel,string,9388,0,School,School,,School
+Maine,SchoolName,object,9388,0,ALPHA Brewer High School,Zippel Elementary School,,Robert V. Connors Elementary School
+Maine,ActiveCasesCombined,object,9386,2,1-4,9,,1-4
+Maine,TimePeriodInterval,string,9388,0,Weekly,Weekly,,Weekly
+Maine,TimePeriodEnd,object,9388,0,01/07/21,12/31/20,,05/06/21
+Maine,TimePeriodStart,object,9388,0,01/07/21,12/31/20,,04/29/21
+Maine,NCESSchoolID,string,9388,0,000002311010,370282001154,,230732023179
+Maine,NCESDistrictID,string,9388,0,0000023,3702820,,2309930
+Maine,DistrictType,object,9388,0,,State-operated agency,,Regular local school district
+Maine,Charter,object,9388,0,,Yes,,No
+Maine,SchoolType,object,9388,0,,Vocational school,,Regular school
+Maine,DistrictName,object,0,9388,,,,
+Maine,County,object,0,9388,,,,
+Maine,NewCasesCombined,object,0,9388,,,,
+Maine,NewCasesStudents,object,0,9388,,,,
+Maine,NewCasesStaff,object,0,9388,,,,
+Maine,NewCasesUnknown,object,0,9388,,,,
+Maine,TwoWeekPeriodStaffStudentCasesCombined,object,0,9388,,,,
+Maine,TwoWeekPeriodCasesStudents,object,0,9388,,,,
+Maine,TwoWeekPeriodCasesStaff,object,0,9388,,,,
+Maine,CumulativeCasesCombined,object,0,9388,,,,
+Maine,CumulativeCasesStudents,object,0,9388,,,,
+Maine,CumulativeCasesStaff,object,0,9388,,,,
+Maine,CumulativeCasesUnknown,object,0,9388,,,,
+Maine,ActiveCasesStaff,object,0,9388,,,,
+Maine,ActiveCasesStudents,object,0,9388,,,,
+Maine,ActiveCasesUnknown,object,0,9388,,,,
+Kentucky,StateName,string,30969,0,Kentucky,Kentucky,,Kentucky
+Kentucky,StateAbbrev,string,30969,0,KY,KY,,KY
+Kentucky,DataLevel,string,30969,0,School,School,,School
+Kentucky,SchoolName,object,30969,0,A B Chandler Elementary School,duPont Manual High,,Bryan Station Middle School
+Kentucky,DistrictName,object,30969,0,Adair County,Woodford County,,Jefferson County
+Kentucky,NewCasesStudents,Int64,30969,0,0,12,0.12932287125835512,0
+Kentucky,TwoWeekPeriodCasesStudents,Int64,30969,0,0,17,0.7848816558493977,0
+Kentucky,CumulativeCasesStudents,Int64,30969,0,0,59,3.946591753043366,1
+Kentucky,NewCasesStaff,Int64,30969,0,0,6,0.05889760728470406,0
+Kentucky,TwoWeekPeriodCasesStaff,Int64,30969,0,0,10,0.3651716232361394,0
+Kentucky,CumulativeCasesStaff,Int64,30969,0,0,21,1.7715457392876748,1
+Kentucky,TimePeriodInterval,string,30969,0,Daily,Daily,,Daily
+Kentucky,TimePeriodEnd,object,30969,0,10/26/20,12/15/20,,12/15/20
+Kentucky,TimePeriodStart,object,30969,0,10/26/20,12/15/20,,12/15/20
+Kentucky,NCESSchoolID,string,30969,0,210003000001,210600001468,,210186000358
+Kentucky,NCESDistrictID,string,30969,0,2100030,2106000,,2102990
+Kentucky,DistrictType,object,30969,0,Regular local school district,State-operated agency,,Regular local school district
+Kentucky,Charter,object,30969,0,,No,,No
+Kentucky,SchoolType,object,30969,0,,Vocational school,,Regular school
+Kentucky,County,object,0,30969,,,,
+Kentucky,NewCasesCombined,object,0,30969,,,,
+Kentucky,NewCasesUnknown,object,0,30969,,,,
+Kentucky,TwoWeekPeriodStaffStudentCasesCombined,object,0,30969,,,,
+Kentucky,CumulativeCasesCombined,object,0,30969,,,,
+Kentucky,CumulativeCasesUnknown,object,0,30969,,,,
+Kentucky,ActiveCasesStaff,object,0,30969,,,,
+Kentucky,ActiveCasesStudents,object,0,30969,,,,
+Kentucky,ActiveCasesUnknown,object,0,30969,,,,
+Kentucky,ActiveCasesCombined,object,0,30969,,,,
+Kentucky,StateName,string,5924,0,Kentucky,Kentucky,,Kentucky
+Kentucky,StateAbbrev,string,5924,0,KY,KY,,KY
+Kentucky,DataLevel,string,5924,0,District,District,,District
+Kentucky,DistrictName,object,5924,0,Adair County,Woodford County,,Carroll County
+Kentucky,NewCasesStudents,Int64,5924,0,0,77,0.712862930452397,0
+Kentucky,TwoWeekPeriodCasesStudents,Int64,5924,0,0,124,4.343517893315328,0
+Kentucky,CumulativeCasesStudents,Int64,5924,0,0,714,21.930958811613774,1
+Kentucky,NewCasesStaff,Int64,5924,0,0,18,0.3241053342336259,0
+Kentucky,TwoWeekPeriodCasesStaff,Int64,5924,0,0,60,2.0172180958811614,0
+Kentucky,CumulativeCasesStaff,Int64,5924,0,0,309,9.841323430114787,1
+Kentucky,TimePeriodInterval,string,5924,0,Daily,Daily,,Daily
+Kentucky,TimePeriodEnd,object,5924,0,10/26/20,12/15/20,,12/10/20
+Kentucky,TimePeriodStart,object,5924,0,10/26/20,12/15/20,,12/10/20
+Kentucky,NCESDistrictID,string,5924,0,2100030,2106000,,2105730
+Kentucky,DistrictType,object,5924,0,,State-operated agency,,Regular local school district
+Kentucky,Charter,object,5924,0,,No,,No
+Kentucky,SchoolName,object,0,5924,,,,
+Kentucky,SchoolType,object,0,5924,,,,
+Kentucky,NCESSchoolID,object,0,5924,,,,
+Kentucky,County,object,0,5924,,,,
+Kentucky,NewCasesCombined,object,0,5924,,,,
+Kentucky,NewCasesUnknown,object,0,5924,,,,
+Kentucky,TwoWeekPeriodStaffStudentCasesCombined,object,0,5924,,,,
+Kentucky,CumulativeCasesCombined,object,0,5924,,,,
+Kentucky,CumulativeCasesUnknown,object,0,5924,,,,
+Kentucky,ActiveCasesStaff,object,0,5924,,,,
+Kentucky,ActiveCasesStudents,object,0,5924,,,,
+Kentucky,ActiveCasesUnknown,object,0,5924,,,,
+Kentucky,ActiveCasesCombined,object,0,5924,,,,
+Kansas,StateName,string,66,0,Kansas,Kansas,,Kansas
+Kansas,StateAbbrev,string,66,0,KS,KS,,KS
+Kansas,DataLevel,string,66,0,School,School,,School
+Kansas,SchoolName,object,66,0,Campus High School,Weskan School,,USD 443
+Kansas,NewCasesCombined,Int64,66,0,5,29,8.681818181818182,5
+Kansas,TimePeriodInterval,string,66,0,Biweekly,Biweekly,,Biweekly
+Kansas,TimePeriodStart,object,66,0,01/06/21,12/30/20,,11/04/20
+Kansas,TimePeriodEnd,object,66,0,01/06/21,12/23/20,,11/18/20
+Kansas,NCESSchoolID,string,57,9,200000200907,201290000171,,200914001956
+Kansas,NCESDistrictID,string,57,9,2000002,2012900,,2005460
+Kansas,DistrictType,object,57,9,Regular local school district,Regular local school district,,Regular local school district
+Kansas,Charter,object,57,9,No,No,,No
+Kansas,SchoolType,object,57,9,Regular school,Regular school,,Regular school
+Kansas,DistrictName,object,0,66,,,,
+Kansas,County,object,0,66,,,,
+Kansas,NewCasesStudents,object,0,66,,,,
+Kansas,NewCasesStaff,object,0,66,,,,
+Kansas,NewCasesUnknown,object,0,66,,,,
+Kansas,TwoWeekPeriodStaffStudentCasesCombined,object,0,66,,,,
+Kansas,TwoWeekPeriodCasesStudents,object,0,66,,,,
+Kansas,TwoWeekPeriodCasesStaff,object,0,66,,,,
+Kansas,CumulativeCasesCombined,object,0,66,,,,
+Kansas,CumulativeCasesStudents,object,0,66,,,,
+Kansas,CumulativeCasesStaff,object,0,66,,,,
+Kansas,CumulativeCasesUnknown,object,0,66,,,,
+Kansas,ActiveCasesStaff,object,0,66,,,,
+Kansas,ActiveCasesStudents,object,0,66,,,,
+Kansas,ActiveCasesUnknown,object,0,66,,,,
+Kansas,ActiveCasesCombined,object,0,66,,,,
+Arkansas,StateName,string,4427,0,Arkansas,Arkansas,,Arkansas
+Arkansas,StateAbbrev,string,4427,0,AR,AR,,AR
+Arkansas,DataLevel,string,4427,0,District,District,,District
+Arkansas,DistrictName,object,4427,0,ACADEMICS PLUS PUBLIC CHARTER SCHOOLS,YELLVILLE,,BENTONVILLE SCHOOL DIST
+Arkansas,ActiveCasesCombined,Int64,4427,0,5,193,15.846171222046532,5
+Arkansas,CumulativeCasesStaff,Int64,4279,148,5,411,53.1360130871699,14
+Arkansas,CumulativeCasesStudents,Int64,4279,148,5,1678,145.79784996494507,32
+Arkansas,CumulativeCasesCombined,Int64,4427,0,8,2280,203.12943302462165,46
+Arkansas,TimePeriodEnd,object,4427,0,01/04/21,12/31/20,,01/14/21
+Arkansas,TimePeriodStart,object,4427,0,06/15/20,06/15/20,,06/15/20
+Arkansas,NCESDistrictID,string,4427,0,0500001,0514490,,0504590
+Arkansas,DistrictType,object,4427,0,Charter agency,Regular local school district,,Regular local school district
+Arkansas,Charter,object,4427,0,No,Yes,,No
+Arkansas,SchoolName,object,0,4427,,,,
+Arkansas,SchoolType,object,0,4427,,,,
+Arkansas,NCESSchoolID,object,0,4427,,,,
+Arkansas,County,object,0,4427,,,,
+Arkansas,TimePeriodInterval,object,0,4427,,,,
+Arkansas,NewCasesCombined,object,0,4427,,,,
+Arkansas,NewCasesStudents,object,0,4427,,,,
+Arkansas,NewCasesStaff,object,0,4427,,,,
+Arkansas,NewCasesUnknown,object,0,4427,,,,
+Arkansas,TwoWeekPeriodStaffStudentCasesCombined,object,0,4427,,,,
+Arkansas,TwoWeekPeriodCasesStudents,object,0,4427,,,,
+Arkansas,TwoWeekPeriodCasesStaff,object,0,4427,,,,
+Arkansas,CumulativeCasesUnknown,object,0,4427,,,,
+Arkansas,ActiveCasesStaff,object,0,4427,,,,
+Arkansas,ActiveCasesStudents,object,0,4427,,,,
+Arkansas,ActiveCasesUnknown,object,0,4427,,,,
+Connecticut,StateName,string,40774,0,Connecticut,Connecticut,,Connecticut
+Connecticut,StateAbbrev,string,40774,0,CT,CT,,CT
+Connecticut,DataLevel,string,40774,0,School,School,,School
+Connecticut,SchoolName,object,40774,0,A. Baldwin Middle School,iGOAL 2 - Moylan School,,Center School
+Connecticut,DistrictName,object,40774,0,Achievement First Bridgeport Academy District,Woodstock School District,,Hartford School District
+Connecticut,ActiveCasesCombined,object,40774,0,0,9,,0
+Connecticut,TimePeriodInterval,string,40774,0,Weekly,Weekly,,Weekly
+Connecticut,TimePeriodStart,object,40774,0,01/07/21,12/31/20,,01/07/21
+Connecticut,TimePeriodEnd,object,40774,0,01/06/21,12/30/20,,01/06/21
+Connecticut,NCESSchoolID,string,40441,333,090000201136,090537311223,,090483001115
+Connecticut,NCESDistrictID,string,40441,333,0900002,0905373,,0901920
+Connecticut,DistrictType,object,40441,333,Charter agency,State-operated agency,,Regular local school district
+Connecticut,Charter,object,40441,333,,Yes,,No
+Connecticut,SchoolType,object,40441,333,,Vocational school,,Regular school
+Connecticut,County,object,0,40774,,,,
+Connecticut,NewCasesCombined,object,0,40774,,,,
+Connecticut,NewCasesStudents,object,0,40774,,,,
+Connecticut,NewCasesStaff,object,0,40774,,,,
+Connecticut,NewCasesUnknown,object,0,40774,,,,
+Connecticut,TwoWeekPeriodStaffStudentCasesCombined,object,0,40774,,,,
+Connecticut,TwoWeekPeriodCasesStudents,object,0,40774,,,,
+Connecticut,TwoWeekPeriodCasesStaff,object,0,40774,,,,
+Connecticut,CumulativeCasesCombined,object,0,40774,,,,
+Connecticut,CumulativeCasesStudents,object,0,40774,,,,
+Connecticut,CumulativeCasesStaff,object,0,40774,,,,
+Connecticut,CumulativeCasesUnknown,object,0,40774,,,,
+Connecticut,ActiveCasesStaff,object,0,40774,,,,
+Connecticut,ActiveCasesStudents,object,0,40774,,,,
+Connecticut,ActiveCasesUnknown,object,0,40774,,,,
+Delaware,StateName,string,722,0,Delaware,Delaware,,Delaware
+Delaware,StateAbbrev,string,722,0,DE,DE,,DE
+Delaware,DataLevel,string,722,0,District,District,,District
+Delaware,DistrictName,object,722,0,Appoquinimink School District,Woodbridge School District,,Appoquinimink School District
+Delaware,ActiveCasesStudents,object,548,174,0,21,,1-10
+Delaware,CumulativeCasesStudents,object,342,380,1-10,99,,1-10
+Delaware,ActiveCasesStaff,object,722,0,0,13,,1-10
+Delaware,CumulativeCasesStaff,object,342,380,1-10,97,,1-10
+Delaware,TimePeriodInterval,string,722,0,Weekly,Weekly,,Weekly
+Delaware,TimePeriodEnd,object,722,0,01/01/21,12/25/20,,01/01/21
+Delaware,TimePeriodStart,object,722,0,01/01/21,12/25/20,,01/01/21
+Delaware,NCESDistrictID,string,722,0,1000080,1001850,,1000080
+Delaware,DistrictType,object,722,0,Regular local school district,Regular local school district,,Regular local school district
+Delaware,Charter,object,722,0,No,No,,No
+Delaware,SchoolName,object,0,722,,,,
+Delaware,SchoolType,object,0,722,,,,
+Delaware,NCESSchoolID,object,0,722,,,,
+Delaware,County,object,0,722,,,,
+Delaware,NewCasesCombined,object,0,722,,,,
+Delaware,NewCasesStudents,object,0,722,,,,
+Delaware,NewCasesStaff,object,0,722,,,,
+Delaware,NewCasesUnknown,object,0,722,,,,
+Delaware,TwoWeekPeriodStaffStudentCasesCombined,object,0,722,,,,
+Delaware,TwoWeekPeriodCasesStudents,object,0,722,,,,
+Delaware,TwoWeekPeriodCasesStaff,object,0,722,,,,
+Delaware,CumulativeCasesCombined,object,0,722,,,,
+Delaware,CumulativeCasesUnknown,object,0,722,,,,
+Delaware,ActiveCasesUnknown,object,0,722,,,,
+Delaware,ActiveCasesCombined,object,0,722,,,,
+Hawaii,StateName,string,130,0,Hawaii,Hawaii,,Hawaii
+Hawaii,StateAbbrev,string,130,0,HI,HI,,HI
+Hawaii,DataLevel,string,130,0,Complex,Complex,,Complex
+Hawaii,DistrictName,object,130,0,Nanakuli-Waianae,​​Kapaa-Kauai-Waimea,,​Campbell-Kapolei
+Hawaii,NewCasesStaff,Int64,130,0,0,7,0.7923076923076923,0
+Hawaii,NewCasesStudents,Int64,130,0,0,10,1.0307692307692307,1
+Hawaii,TimePeriodInterval,string,130,0,Weekly,Weekly,,Weekly
+Hawaii,TimePeriodEnd,object,130,0,01/08/21,12/31/20,,01/08/21
+Hawaii,TimePeriodStart,object,130,0,01/01/21,12/24/20,,01/01/21
+Hawaii,Charter,object,0,130,,,,
+Hawaii,SchoolName,object,0,130,,,,
+Hawaii,SchoolType,object,0,130,,,,
+Hawaii,NCESSchoolID,object,0,130,,,,
+Hawaii,DistrictType,object,0,130,,,,
+Hawaii,NCESDistrictID,object,0,130,,,,
+Hawaii,County,object,0,130,,,,
+Hawaii,NewCasesCombined,object,0,130,,,,
+Hawaii,NewCasesUnknown,object,0,130,,,,
+Hawaii,TwoWeekPeriodStaffStudentCasesCombined,object,0,130,,,,
+Hawaii,TwoWeekPeriodCasesStudents,object,0,130,,,,
+Hawaii,TwoWeekPeriodCasesStaff,object,0,130,,,,
+Hawaii,CumulativeCasesCombined,object,0,130,,,,
+Hawaii,CumulativeCasesStudents,object,0,130,,,,
+Hawaii,CumulativeCasesStaff,object,0,130,,,,
+Hawaii,CumulativeCasesUnknown,object,0,130,,,,
+Hawaii,ActiveCasesStaff,object,0,130,,,,
+Hawaii,ActiveCasesStudents,object,0,130,,,,
+Hawaii,ActiveCasesUnknown,object,0,130,,,,
+Hawaii,ActiveCasesCombined,object,0,130,,,,

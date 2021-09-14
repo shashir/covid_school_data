@@ -1,0 +1,1585 @@
+StateName,StateAbbrev,DataLevel,Charter,SchoolName,SchoolType,NCESSchoolID,DistrictName,DistrictType,NCESDistrictID,County,TimePeriodInterval,TimePeriodStart,TimePeriodEnd,NewCasesCombined,NewCasesStudents,NewCasesStaff,NewCasesUnknown,TwoWeekPeriodStaffStudentCasesCombined,TwoWeekPeriodCasesStudents,TwoWeekPeriodCasesStaff,CumulativeCasesCombined,CumulativeCasesStudents,CumulativeCasesStaff,CumulativeCasesUnknown,ActiveCasesStaff,ActiveCasesStudents,ActiveCasesUnknown,ActiveCasesCombined
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/05/21,05/05/21,,,,,,,,4568,,,,,,,68
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/06/21,05/06/21,,,,,,,,4572,,,,,,,66
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/07/21,05/07/21,,,,,,,,4592,,,,,,,82
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/10/21,05/10/21,,,,,,,,4606,,,,,,,76
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/11/21,05/11/21,,,,,,,,4614,,,,,,,78
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/12/21,05/12/21,,,,,,,,4624,,,,,,,72
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/13/21,05/13/21,,,,,,,,4642,,,,,,,85
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/14/21,05/14/21,,,,,,,,4644,,,,,,,83
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/17/21,05/17/21,,,,,,,,4651,,,,,,,83
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/18/21,05/18/21,,,,,,,,4657,,,,,,,85
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/20/21,05/20/21,,,,,,,,4661,,,,,,,60
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/21/21,05/21/21,,,,,,,,4665,,,,,,,55
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/25/21,05/25/21,,,,,,,,4677,,,,,,,37
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/26/21,05/26/21,,,,,,,,4678,,,,,,,28
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,05/31/21,05/31/21,,,,,,,,4682,,,,,,,19
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/01/21,06/01/21,,,,,,,,4682,,,,,,,14
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/02/21,06/02/21,,,,,,,,4690,,,,,,,20
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/03/21,06/03/21,,,,,,,,4694,,,,,,,17
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/04/21,06/04/21,,,,,,,,4701,,,,,,,24
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/07/21,06/07/21,,,,,,,,4704,,,,,,,26
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/08/21,06/08/21,,,,,,,,4708,,,,,,,29
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/09/21,06/09/21,,,,,,,,4710,,,,,,,27
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/10/21,06/10/21,,,,,,,,4712,,,,,,,28
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/11/21,06/11/21,,,,,,,,4712,,,,,,,27
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/14/21,06/14/21,,,,,,,,4712,,,,,,,22
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/15/21,06/15/21,,,,,,,,4714,,,,,,,21
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/16/21,06/16/21,,,,,,,,4717,,,,,,,16
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/20/21,06/20/21,,,,,,,,4720,,,,,,,11
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/21/21,06/21/21,,,,,,,,4720,,,,,,,11
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/22/21,06/22/21,,,,,,,,4722,,,,,,,11
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/24/21,06/24/21,,,,,,,,4726,,,,,,,9
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/28/21,06/28/21,,,,,,,,4726,,,,,,,1-4
+Utah,UT,District,No,,,,Alpine District,Regular local school district,4900030,,Daily,06/29/21,06/29/21,,,,,,,,4726,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/05/21,05/05/21,,,,,,,,32,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/06/21,05/06/21,,,,,,,,32,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/07/21,05/07/21,,,,,,,,32,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/10/21,05/10/21,,,,,,,,32,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/11/21,05/11/21,,,,,,,,32,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/12/21,05/12/21,,,,,,,,32,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/13/21,05/13/21,,,,,,,,32,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/14/21,05/14/21,,,,,,,,32,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/17/21,05/17/21,,,,,,,,32,,,,,,,0
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/18/21,05/18/21,,,,,,,,32,,,,,,,0
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/20/21,05/20/21,,,,,,,,32,,,,,,,0
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/21/21,05/21/21,,,,,,,,32,,,,,,,0
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/25/21,05/25/21,,,,,,,,32,,,,,,,0
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/26/21,05/26/21,,,,,,,,33,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,05/31/21,05/31/21,,,,,,,,33,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/01/21,06/01/21,,,,,,,,33,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/02/21,06/02/21,,,,,,,,33,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/03/21,06/03/21,,,,,,,,33,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/04/21,06/04/21,,,,,,,,33,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/07/21,06/07/21,,,,,,,,33,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/08/21,06/08/21,,,,,,,,33,,,,,,,0
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/09/21,06/09/21,,,,,,,,33,,,,,,,0
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/10/21,06/10/21,,,,,,,,33,,,,,,,0
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/11/21,06/11/21,,,,,,,,34,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/14/21,06/14/21,,,,,,,,34,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/15/21,06/15/21,,,,,,,,34,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/16/21,06/16/21,,,,,,,,34,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/20/21,06/20/21,,,,,,,,34,,,,,,,1-4
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/21/21,06/21/21,,,,,,,,34,,,,,,,0
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/22/21,06/22/21,,,,,,,,34,,,,,,,0
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/24/21,06/24/21,,,,,,,,34,,,,,,,0
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/28/21,06/28/21,,,,,,,,34,,,,,,,0
+Utah,UT,District,No,,,,Beaver District,Regular local school district,4900060,,Daily,06/29/21,06/29/21,,,,,,,,34,,,,,,,0
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/05/21,05/05/21,,,,,,,,624,,,,,,,7
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/06/21,05/06/21,,,,,,,,625,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/07/21,05/07/21,,,,,,,,625,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/10/21,05/10/21,,,,,,,,631,,,,,,,8
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/11/21,05/11/21,,,,,,,,631,,,,,,,8
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/12/21,05/12/21,,,,,,,,632,,,,,,,9
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/13/21,05/13/21,,,,,,,,632,,,,,,,9
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/14/21,05/14/21,,,,,,,,632,,,,,,,9
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/17/21,05/17/21,,,,,,,,635,,,,,,,7
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/18/21,05/18/21,,,,,,,,635,,,,,,,6
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/20/21,05/20/21,,,,,,,,635,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/21/21,05/21/21,,,,,,,,638,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/25/21,05/25/21,,,,,,,,647,,,,,,,10
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/26/21,05/26/21,,,,,,,,647,,,,,,,8
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,05/31/21,05/31/21,,,,,,,,652,,,,,,,6
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/01/21,06/01/21,,,,,,,,652,,,,,,,6
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/02/21,06/02/21,,,,,,,,652,,,,,,,5
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/03/21,06/03/21,,,,,,,,652,,,,,,,5
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/04/21,06/04/21,,,,,,,,652,,,,,,,5
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/07/21,06/07/21,,,,,,,,653,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/08/21,06/08/21,,,,,,,,653,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/09/21,06/09/21,,,,,,,,653,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/10/21,06/10/21,,,,,,,,653,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/11/21,06/11/21,,,,,,,,653,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/14/21,06/14/21,,,,,,,,654,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/15/21,06/15/21,,,,,,,,654,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/16/21,06/16/21,,,,,,,,654,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/20/21,06/20/21,,,,,,,,654,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/21/21,06/21/21,,,,,,,,654,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/22/21,06/22/21,,,,,,,,654,,,,,,,1-4
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/24/21,06/24/21,,,,,,,,655,,,,,,,0
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/28/21,06/28/21,,,,,,,,655,,,,,,,0
+Utah,UT,District,No,,,,Box Elder District,Regular local school district,4900090,,Daily,06/29/21,06/29/21,,,,,,,,655,,,,,,,0
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/05/21,05/05/21,,,,,,,,1366,,,,,,,1-4
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/06/21,05/06/21,,,,,,,,1366,,,,,,,1-4
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/07/21,05/07/21,,,,,,,,1367,,,,,,,5
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/10/21,05/10/21,,,,,,,,1374,,,,,,,10
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/11/21,05/11/21,,,,,,,,1374,,,,,,,10
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/12/21,05/12/21,,,,,,,,1374,,,,,,,9
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/13/21,05/13/21,,,,,,,,1374,,,,,,,6
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/14/21,05/14/21,,,,,,,,1374,,,,,,,1-4
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/17/21,05/17/21,,,,,,,,1375,,,,,,,5
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/18/21,05/18/21,,,,,,,,1375,,,,,,,5
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/20/21,05/20/21,,,,,,,,1375,,,,,,,1-4
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/21/21,05/21/21,,,,,,,,1378,,,,,,,1-4
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/25/21,05/25/21,,,,,,,,1386,,,,,,,5
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/26/21,05/26/21,,,,,,,,1386,,,,,,,5
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,05/31/21,05/31/21,,,,,,,,1389,,,,,,,5
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/01/21,06/01/21,,,,,,,,1389,,,,,,,5
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/02/21,06/02/21,,,,,,,,1392,,,,,,,7
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/03/21,06/03/21,,,,,,,,1392,,,,,,,7
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/04/21,06/04/21,,,,,,,,1392,,,,,,,7
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/07/21,06/07/21,,,,,,,,1392,,,,,,,6
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/08/21,06/08/21,,,,,,,,1392,,,,,,,6
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/09/21,06/09/21,,,,,,,,1392,,,,,,,6
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/10/21,06/10/21,,,,,,,,1392,,,,,,,6
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/11/21,06/11/21,,,,,,,,1392,,,,,,,1-4
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/14/21,06/14/21,,,,,,,,1392,,,,,,,0
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/15/21,06/15/21,,,,,,,,1392,,,,,,,0
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/16/21,06/16/21,,,,,,,,1392,,,,,,,0
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/20/21,06/20/21,,,,,,,,1392,,,,,,,0
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/21/21,06/21/21,,,,,,,,1392,,,,,,,0
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/22/21,06/22/21,,,,,,,,1392,,,,,,,0
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/24/21,06/24/21,,,,,,,,1392,,,,,,,0
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/28/21,06/28/21,,,,,,,,1392,,,,,,,0
+Utah,UT,District,No,,,,Cache District,Regular local school district,4900120,,Daily,06/29/21,06/29/21,,,,,,,,1392,,,,,,,0
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/05/21,05/05/21,,,,,,,,2886,,,,,,,16
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/06/21,05/06/21,,,,,,,,2919,,,,,,,45
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/07/21,05/07/21,,,,,,,,2923,,,,,,,46
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/10/21,05/10/21,,,,,,,,2925,,,,,,,43
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/11/21,05/11/21,,,,,,,,2928,,,,,,,40
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/12/21,05/12/21,,,,,,,,2929,,,,,,,36
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/13/21,05/13/21,,,,,,,,2931,,,,,,,34
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/14/21,05/14/21,,,,,,,,2932,,,,,,,29
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/17/21,05/17/21,,,,,,,,2944,,,,,,,32
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/18/21,05/18/21,,,,,,,,2948,,,,,,,32
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/20/21,05/20/21,,,,,,,,2951,,,,,,,23
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/21/21,05/21/21,,,,,,,,2951,,,,,,,18
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/25/21,05/25/21,,,,,,,,2958,,,,,,,15
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/26/21,05/26/21,,,,,,,,2960,,,,,,,15
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,05/31/21,05/31/21,,,,,,,,2960,,,,,,,5
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/01/21,06/01/21,,,,,,,,2960,,,,,,,1-4
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/02/21,06/02/21,,,,,,,,2960,,,,,,,1-4
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/03/21,06/03/21,,,,,,,,2959,,,,,,,1-4
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/04/21,06/04/21,,,,,,,,2960,,,,,,,1-4
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/07/21,06/07/21,,,,,,,,2965,,,,,,,6
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/08/21,06/08/21,,,,,,,,2965,,,,,,,6
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/09/21,06/09/21,,,,,,,,2965,,,,,,,6
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/10/21,06/10/21,,,,,,,,2964,,,,,,,5
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/11/21,06/11/21,,,,,,,,2966,,,,,,,7
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/14/21,06/14/21,,,,,,,,2966,,,,,,,6
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/15/21,06/15/21,,,,,,,,2966,,,,,,,1-4
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/16/21,06/16/21,,,,,,,,2966,,,,,,,1-4
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/20/21,06/20/21,,,,,,,,2968,,,,,,,1-4
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/21/21,06/21/21,,,,,,,,2968,,,,,,,1-4
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/22/21,06/22/21,,,,,,,,2969,,,,,,,1-4
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/24/21,06/24/21,,,,,,,,2970,,,,,,,1-4
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/28/21,06/28/21,,,,,,,,2971,,,,,,,1-4
+Utah,UT,District,No,,,,Canyons District,Regular local school district,4900142,,Daily,06/29/21,06/29/21,,,,,,,,2970,,,,,,,5
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/05/21,05/05/21,,,,,,,,72,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/06/21,05/06/21,,,,,,,,72,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/07/21,05/07/21,,,,,,,,72,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/10/21,05/10/21,,,,,,,,73,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/11/21,05/11/21,,,,,,,,73,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/12/21,05/12/21,,,,,,,,73,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/13/21,05/13/21,,,,,,,,73,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/14/21,05/14/21,,,,,,,,73,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/17/21,05/17/21,,,,,,,,73,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/18/21,05/18/21,,,,,,,,73,,,,,,,0
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/20/21,05/20/21,,,,,,,,75,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/21/21,05/21/21,,,,,,,,75,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/25/21,05/25/21,,,,,,,,77,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/26/21,05/26/21,,,,,,,,77,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,05/31/21,05/31/21,,,,,,,,79,,,,,,,6
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/01/21,06/01/21,,,,,,,,79,,,,,,,5
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/02/21,06/02/21,,,,,,,,79,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/03/21,06/03/21,,,,,,,,79,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/04/21,06/04/21,,,,,,,,79,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/07/21,06/07/21,,,,,,,,79,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/08/21,06/08/21,,,,,,,,79,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/09/21,06/09/21,,,,,,,,79,,,,,,,1-4
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/10/21,06/10/21,,,,,,,,79,,,,,,,0
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/11/21,06/11/21,,,,,,,,79,,,,,,,0
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/14/21,06/14/21,,,,,,,,79,,,,,,,0
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/15/21,06/15/21,,,,,,,,79,,,,,,,0
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/16/21,06/16/21,,,,,,,,79,,,,,,,0
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/20/21,06/20/21,,,,,,,,79,,,,,,,0
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/21/21,06/21/21,,,,,,,,79,,,,,,,0
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/22/21,06/22/21,,,,,,,,79,,,,,,,0
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/24/21,06/24/21,,,,,,,,79,,,,,,,0
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/28/21,06/28/21,,,,,,,,79,,,,,,,0
+Utah,UT,District,No,,,,Carbon District,Regular local school district,4900150,,Daily,06/29/21,06/29/21,,,,,,,,79,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/05/21,05/05/21,,,,,,,,6,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/06/21,05/06/21,,,,,,,,6,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/07/21,05/07/21,,,,,,,,6,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/10/21,05/10/21,,,,,,,,6,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/11/21,05/11/21,,,,,,,,6,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/12/21,05/12/21,,,,,,,,6,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/13/21,05/13/21,,,,,,,,6,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/14/21,05/14/21,,,,,,,,6,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/17/21,05/17/21,,,,,,,,6,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/18/21,05/18/21,,,,,,,,7,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/20/21,05/20/21,,,,,,,,9,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/21/21,05/21/21,,,,,,,,9,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/25/21,05/25/21,,,,,,,,9,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/26/21,05/26/21,,,,,,,,9,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,05/31/21,05/31/21,,,,,,,,9,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/01/21,06/01/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/02/21,06/02/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/03/21,06/03/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/04/21,06/04/21,,,,,,,,10,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/07/21,06/07/21,,,,,,,,10,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/08/21,06/08/21,,,,,,,,10,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/09/21,06/09/21,,,,,,,,10,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/10/21,06/10/21,,,,,,,,10,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/11/21,06/11/21,,,,,,,,10,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/14/21,06/14/21,,,,,,,,10,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/15/21,06/15/21,,,,,,,,10,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/16/21,06/16/21,,,,,,,,10,,,,,,,1-4
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/20/21,06/20/21,,,,,,,,10,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/21/21,06/21/21,,,,,,,,10,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/22/21,06/22/21,,,,,,,,10,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/24/21,06/24/21,,,,,,,,14,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/28/21,06/28/21,,,,,,,,14,,,,,,,0
+Utah,UT,District,No,,,,Daggett District,Regular local school district,4900180,,Daily,06/29/21,06/29/21,,,,,,,,14,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/05/21,05/05/21,,,,,,,,483,,,,,,,13
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/06/21,05/06/21,,,,,,,,484,,,,,,,11
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/07/21,05/07/21,,,,,,,,485,,,,,,,11
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/10/21,05/10/21,,,,,,,,488,,,,,,,14
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/11/21,05/11/21,,,,,,,,488,,,,,,,12
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/12/21,05/12/21,,,,,,,,489,,,,,,,12
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/13/21,05/13/21,,,,,,,,489,,,,,,,10
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/14/21,05/14/21,,,,,,,,490,,,,,,,9
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/17/21,05/17/21,,,,,,,,490,,,,,,,6
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/18/21,05/18/21,,,,,,,,492,,,,,,,6
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/20/21,05/20/21,,,,,,,,495,,,,,,,8
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/21/21,05/21/21,,,,,,,,495,,,,,,,8
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/25/21,05/25/21,,,,,,,,500,,,,,,,10
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/26/21,05/26/21,,,,,,,,500,,,,,,,10
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,05/31/21,05/31/21,,,,,,,,504,,,,,,,8
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/01/21,06/01/21,,,,,,,,504,,,,,,,5
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/02/21,06/02/21,,,,,,,,507,,,,,,,8
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/03/21,06/03/21,,,,,,,,508,,,,,,,8
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/04/21,06/04/21,,,,,,,,508,,,,,,,8
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/07/21,06/07/21,,,,,,,,510,,,,,,,8
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/08/21,06/08/21,,,,,,,,511,,,,,,,9
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/09/21,06/09/21,,,,,,,,511,,,,,,,9
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/10/21,06/10/21,,,,,,,,512,,,,,,,8
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/11/21,06/11/21,,,,,,,,512,,,,,,,8
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/14/21,06/14/21,,,,,,,,512,,,,,,,5
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/15/21,06/15/21,,,,,,,,512,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/16/21,06/16/21,,,,,,,,514,,,,,,,6
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/20/21,06/20/21,,,,,,,,514,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/21/21,06/21/21,,,,,,,,514,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/22/21,06/22/21,,,,,,,,514,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/24/21,06/24/21,,,,,,,,514,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/28/21,06/28/21,,,,,,,,514,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Charter,Regular local school district,4900210,,Daily,06/29/21,06/29/21,,,,,,,,514,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/05/21,05/05/21,,,,,,,,109,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/06/21,05/06/21,,,,,,,,109,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/07/21,05/07/21,,,,,,,,109,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/10/21,05/10/21,,,,,,,,109,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/11/21,05/11/21,,,,,,,,109,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/12/21,05/12/21,,,,,,,,109,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/13/21,05/13/21,,,,,,,,109,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/14/21,05/14/21,,,,,,,,109,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/17/21,05/17/21,,,,,,,,110,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/18/21,05/18/21,,,,,,,,110,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/20/21,05/20/21,,,,,,,,110,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/21/21,05/21/21,,,,,,,,110,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/25/21,05/25/21,,,,,,,,110,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/26/21,05/26/21,,,,,,,,110,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,05/31/21,05/31/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/01/21,06/01/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/02/21,06/02/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/03/21,06/03/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/04/21,06/04/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/07/21,06/07/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/08/21,06/08/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/09/21,06/09/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/10/21,06/10/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/11/21,06/11/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/14/21,06/14/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/15/21,06/15/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/16/21,06/16/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/20/21,06/20/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/21/21,06/21/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/22/21,06/22/21,,,,,,,,110,,,,,,,0
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/24/21,06/24/21,,,,,,,,111,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/28/21,06/28/21,,,,,,,,111,,,,,,,1-4
+Utah,UT,District,No,,,,Davis County - Private,Regular local school district,4900210,,Daily,06/29/21,06/29/21,,,,,,,,111,,,,,,,1-4
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/05/21,05/05/21,,,,,,,,6240,,,,,,,177
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/06/21,05/06/21,,,,,,,,6261,,,,,,,188
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/07/21,05/07/21,,,,,,,,6273,,,,,,,180
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/10/21,05/10/21,,,,,,,,6292,,,,,,,184
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/11/21,05/11/21,,,,,,,,6300,,,,,,,168
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/12/21,05/12/21,,,,,,,,6313,,,,,,,153
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/13/21,05/13/21,,,,,,,,6330,,,,,,,156
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/14/21,05/14/21,,,,,,,,6341,,,,,,,147
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/17/21,05/17/21,,,,,,,,6376,,,,,,,149
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/18/21,05/18/21,,,,,,,,6385,,,,,,,137
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/20/21,05/20/21,,,,,,,,6414,,,,,,,138
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/21/21,05/21/21,,,,,,,,6421,,,,,,,137
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/25/21,05/25/21,,,,,,,,6443,,,,,,,124
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/26/21,05/26/21,,,,,,,,6447,,,,,,,116
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,05/31/21,05/31/21,,,,,,,,6468,,,,,,,75
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/01/21,06/01/21,,,,,,,,6468,,,,,,,55
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/02/21,06/02/21,,,,,,,,6475,,,,,,,57
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/03/21,06/03/21,,,,,,,,6478,,,,,,,51
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/04/21,06/04/21,,,,,,,,6483,,,,,,,42
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/07/21,06/07/21,,,,,,,,6497,,,,,,,49
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/08/21,06/08/21,,,,,,,,6502,,,,,,,50
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/09/21,06/09/21,,,,,,,,6508,,,,,,,53
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/10/21,06/10/21,,,,,,,,6511,,,,,,,45
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/11/21,06/11/21,,,,,,,,6516,,,,,,,50
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/14/21,06/14/21,,,,,,,,6520,,,,,,,49
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/15/21,06/15/21,,,,,,,,6525,,,,,,,49
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/16/21,06/16/21,,,,,,,,6531,,,,,,,52
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/20/21,06/20/21,,,,,,,,6536,,,,,,,35
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/21/21,06/21/21,,,,,,,,6537,,,,,,,32
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/22/21,06/22/21,,,,,,,,6542,,,,,,,34
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/24/21,06/24/21,,,,,,,,6546,,,,,,,22
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/28/21,06/28/21,,,,,,,,6550,,,,,,,15
+Utah,UT,District,No,,,,Davis District,Regular local school district,4900210,,Daily,06/29/21,06/29/21,,,,,,,,6550,,,,,,,9
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/05/21,05/05/21,,,,,,,,49,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/06/21,05/06/21,,,,,,,,50,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/07/21,05/07/21,,,,,,,,50,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/10/21,05/10/21,,,,,,,,50,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/11/21,05/11/21,,,,,,,,50,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/12/21,05/12/21,,,,,,,,51,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/13/21,05/13/21,,,,,,,,51,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/14/21,05/14/21,,,,,,,,51,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/17/21,05/17/21,,,,,,,,52,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/18/21,05/18/21,,,,,,,,52,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/20/21,05/20/21,,,,,,,,54,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/21/21,05/21/21,,,,,,,,54,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/25/21,05/25/21,,,,,,,,56,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/26/21,05/26/21,,,,,,,,56,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,05/31/21,05/31/21,,,,,,,,58,,,,,,,5
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/01/21,06/01/21,,,,,,,,58,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/02/21,06/02/21,,,,,,,,58,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/03/21,06/03/21,,,,,,,,58,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/04/21,06/04/21,,,,,,,,58,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/07/21,06/07/21,,,,,,,,58,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/08/21,06/08/21,,,,,,,,58,,,,,,,1-4
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/09/21,06/09/21,,,,,,,,58,,,,,,,0
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/10/21,06/10/21,,,,,,,,58,,,,,,,0
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/11/21,06/11/21,,,,,,,,58,,,,,,,0
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/14/21,06/14/21,,,,,,,,58,,,,,,,0
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/15/21,06/15/21,,,,,,,,58,,,,,,,0
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/16/21,06/16/21,,,,,,,,58,,,,,,,0
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/20/21,06/20/21,,,,,,,,58,,,,,,,0
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/21/21,06/21/21,,,,,,,,58,,,,,,,0
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/22/21,06/22/21,,,,,,,,58,,,,,,,0
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/24/21,06/24/21,,,,,,,,58,,,,,,,0
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/28/21,06/28/21,,,,,,,,58,,,,,,,0
+Utah,UT,District,No,,,,Duchesne District,Regular local school district,4900240,,Daily,06/29/21,06/29/21,,,,,,,,58,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/05/21,05/05/21,,,,,,,,51,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/06/21,05/06/21,,,,,,,,51,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/07/21,05/07/21,,,,,,,,51,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/10/21,05/10/21,,,,,,,,51,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/11/21,05/11/21,,,,,,,,51,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/12/21,05/12/21,,,,,,,,51,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/13/21,05/13/21,,,,,,,,51,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/14/21,05/14/21,,,,,,,,51,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/17/21,05/17/21,,,,,,,,51,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/18/21,05/18/21,,,,,,,,52,,,,,,,1-4
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/20/21,05/20/21,,,,,,,,52,,,,,,,1-4
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/21/21,05/21/21,,,,,,,,52,,,,,,,1-4
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/25/21,05/25/21,,,,,,,,52,,,,,,,1-4
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/26/21,05/26/21,,,,,,,,52,,,,,,,1-4
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,05/31/21,05/31/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/01/21,06/01/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/02/21,06/02/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/03/21,06/03/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/04/21,06/04/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/07/21,06/07/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/08/21,06/08/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/09/21,06/09/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/10/21,06/10/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/11/21,06/11/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/14/21,06/14/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/15/21,06/15/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/16/21,06/16/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/20/21,06/20/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/21/21,06/21/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/22/21,06/22/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/24/21,06/24/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/28/21,06/28/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Emery District,Regular local school district,4900270,,Daily,06/29/21,06/29/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/05/21,05/05/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/06/21,05/06/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/07/21,05/07/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/10/21,05/10/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/11/21,05/11/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/12/21,05/12/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/13/21,05/13/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/14/21,05/14/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/17/21,05/17/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/18/21,05/18/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/20/21,05/20/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/21/21,05/21/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/25/21,05/25/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/26/21,05/26/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,05/31/21,05/31/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/01/21,06/01/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/02/21,06/02/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/03/21,06/03/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/04/21,06/04/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/07/21,06/07/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/08/21,06/08/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/09/21,06/09/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/10/21,06/10/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/11/21,06/11/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/14/21,06/14/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/15/21,06/15/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/16/21,06/16/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/20/21,06/20/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/21/21,06/21/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/22/21,06/22/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/24/21,06/24/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/28/21,06/28/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Garfield District,Regular local school district,4900300,,Daily,06/29/21,06/29/21,,,,,,,,24,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/05/21,05/05/21,,,,,,,,29,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/06/21,05/06/21,,,,,,,,29,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/07/21,05/07/21,,,,,,,,29,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/10/21,05/10/21,,,,,,,,29,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/11/21,05/11/21,,,,,,,,29,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/12/21,05/12/21,,,,,,,,29,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/13/21,05/13/21,,,,,,,,29,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/14/21,05/14/21,,,,,,,,29,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/17/21,05/17/21,,,,,,,,29,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/18/21,05/18/21,,,,,,,,29,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/20/21,05/20/21,,,,,,,,29,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/21/21,05/21/21,,,,,,,,29,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/25/21,05/25/21,,,,,,,,29,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/26/21,05/26/21,,,,,,,,29,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,05/31/21,05/31/21,,,,,,,,30,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/01/21,06/01/21,,,,,,,,30,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/02/21,06/02/21,,,,,,,,30,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/03/21,06/03/21,,,,,,,,30,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/04/21,06/04/21,,,,,,,,30,,,,,,,1-4
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/07/21,06/07/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/08/21,06/08/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/09/21,06/09/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/10/21,06/10/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/11/21,06/11/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/14/21,06/14/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/15/21,06/15/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/16/21,06/16/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/20/21,06/20/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/21/21,06/21/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/22/21,06/22/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/24/21,06/24/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/28/21,06/28/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Grand District,Regular local school district,4900330,,Daily,06/29/21,06/29/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/05/21,05/05/21,,,,,,,,3670,,,,,,,55
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/06/21,05/06/21,,,,,,,,3676,,,,,,,58
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/07/21,05/07/21,,,,,,,,3680,,,,,,,58
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/10/21,05/10/21,,,,,,,,3684,,,,,,,50
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/11/21,05/11/21,,,,,,,,3696,,,,,,,53
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/12/21,05/12/21,,,,,,,,3697,,,,,,,42
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/13/21,05/13/21,,,,,,,,3706,,,,,,,47
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/14/21,05/14/21,,,,,,,,3712,,,,,,,47
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/17/21,05/17/21,,,,,,,,3721,,,,,,,46
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/18/21,05/18/21,,,,,,,,3733,,,,,,,53
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/20/21,05/20/21,,,,,,,,3740,,,,,,,53
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/21/21,05/21/21,,,,,,,,3740,,,,,,,44
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/25/21,05/25/21,,,,,,,,3751,,,,,,,35
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/26/21,05/26/21,,,,,,,,3754,,,,,,,33
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,05/31/21,05/31/21,,,,,,,,3775,,,,,,,25
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/01/21,06/01/21,,,,,,,,3776,,,,,,,20
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/02/21,06/02/21,,,,,,,,3790,,,,,,,23
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/03/21,06/03/21,,,,,,,,3802,,,,,,,27
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/04/21,06/04/21,,,,,,,,3803,,,,,,,24
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/07/21,06/07/21,,,,,,,,3803,,,,,,,19
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/08/21,06/08/21,,,,,,,,3813,,,,,,,20
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/09/21,06/09/21,,,,,,,,3813,,,,,,,16
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/10/21,06/10/21,,,,,,,,3818,,,,,,,20
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/11/21,06/11/21,,,,,,,,3821,,,,,,,19
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/14/21,06/14/21,,,,,,,,3839,,,,,,,16
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/15/21,06/15/21,,,,,,,,3846,,,,,,,15
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/16/21,06/16/21,,,,,,,,3849,,,,,,,15
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/20/21,06/20/21,,,,,,,,3891,,,,,,,7
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/21/21,06/21/21,,,,,,,,3891,,,,,,,7
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/22/21,06/22/21,,,,,,,,3911,,,,,,,6
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/24/21,06/24/21,,,,,,,,3930,,,,,,,5
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/28/21,06/28/21,,,,,,,,3960,,,,,,,1-4
+Utah,UT,District,No,,,,Granite District,Regular local school district,4900360,,Daily,06/29/21,06/29/21,,,,,,,,3968,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/05/21,05/05/21,,,,,,,,144,,,,,,,5
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/06/21,05/06/21,,,,,,,,146,,,,,,,7
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/07/21,05/07/21,,,,,,,,149,,,,,,,7
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/10/21,05/10/21,,,,,,,,149,,,,,,,6
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/11/21,05/11/21,,,,,,,,150,,,,,,,6
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/12/21,05/12/21,,,,,,,,150,,,,,,,6
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/13/21,05/13/21,,,,,,,,150,,,,,,,6
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/14/21,05/14/21,,,,,,,,151,,,,,,,7
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/17/21,05/17/21,,,,,,,,153,,,,,,,9
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/18/21,05/18/21,,,,,,,,154,,,,,,,10
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/20/21,05/20/21,,,,,,,,154,,,,,,,5
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/21/21,05/21/21,,,,,,,,156,,,,,,,7
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/25/21,05/25/21,,,,,,,,157,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/26/21,05/26/21,,,,,,,,157,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,05/31/21,05/31/21,,,,,,,,158,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/01/21,06/01/21,,,,,,,,158,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/02/21,06/02/21,,,,,,,,159,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/03/21,06/03/21,,,,,,,,160,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/04/21,06/04/21,,,,,,,,160,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/07/21,06/07/21,,,,,,,,161,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/08/21,06/08/21,,,,,,,,161,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/09/21,06/09/21,,,,,,,,162,,,,,,,5
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/10/21,06/10/21,,,,,,,,162,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/11/21,06/11/21,,,,,,,,162,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/14/21,06/14/21,,,,,,,,162,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/15/21,06/15/21,,,,,,,,162,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/16/21,06/16/21,,,,,,,,162,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/20/21,06/20/21,,,,,,,,162,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/21/21,06/21/21,,,,,,,,162,,,,,,,1-4
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/22/21,06/22/21,,,,,,,,162,,,,,,,0
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/24/21,06/24/21,,,,,,,,163,,,,,,,0
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/28/21,06/28/21,,,,,,,,163,,,,,,,0
+Utah,UT,District,No,,,,Iron District,Regular local school district,4900390,,Daily,06/29/21,06/29/21,,,,,,,,163,,,,,,,0
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/05/21,05/05/21,,,,,,,,5399,,,,,,,146
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/06/21,05/06/21,,,,,,,,5412,,,,,,,154
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/07/21,05/07/21,,,,,,,,5418,,,,,,,143
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/10/21,05/10/21,,,,,,,,5436,,,,,,,126
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/11/21,05/11/21,,,,,,,,5450,,,,,,,95
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/12/21,05/12/21,,,,,,,,5454,,,,,,,86
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/13/21,05/13/21,,,,,,,,5459,,,,,,,80
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/14/21,05/14/21,,,,,,,,5463,,,,,,,75
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/17/21,05/17/21,,,,,,,,5469,,,,,,,57
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/18/21,05/18/21,,,,,,,,5469,,,,,,,41
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/20/21,05/20/21,,,,,,,,5498,,,,,,,36
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/21/21,05/21/21,,,,,,,,5501,,,,,,,29
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/25/21,05/25/21,,,,,,,,5512,,,,,,,21
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/26/21,05/26/21,,,,,,,,5544,,,,,,,15
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,05/31/21,05/31/21,,,,,,,,5583,,,,,,,15
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/01/21,06/01/21,,,,,,,,5583,,,,,,,14
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/02/21,06/02/21,,,,,,,,5583,,,,,,,11
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/03/21,06/03/21,,,,,,,,5584,,,,,,,10
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/04/21,06/04/21,,,,,,,,5584,,,,,,,9
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/07/21,06/07/21,,,,,,,,5588,,,,,,,9
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/08/21,06/08/21,,,,,,,,5590,,,,,,,9
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/09/21,06/09/21,,,,,,,,5593,,,,,,,13
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/10/21,06/10/21,,,,,,,,5602,,,,,,,20
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/11/21,06/11/21,,,,,,,,5607,,,,,,,23
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/14/21,06/14/21,,,,,,,,5611,,,,,,,25
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/15/21,06/15/21,,,,,,,,5613,,,,,,,27
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/16/21,06/16/21,,,,,,,,5618,,,,,,,32
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/20/21,06/20/21,,,,,,,,5622,,,,,,,30
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/21/21,06/21/21,,,,,,,,5622,,,,,,,29
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/22/21,06/22/21,,,,,,,,5623,,,,,,,19
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/24/21,06/24/21,,,,,,,,5622,,,,,,,14
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/28/21,06/28/21,,,,,,,,5622,,,,,,,5
+Utah,UT,District,No,,,,Jordan District,Regular local school district,4900420,,Daily,06/29/21,06/29/21,,,,,,,,5622,,,,,,,1-4
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/05/21,05/05/21,,,,,,,,125,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/06/21,05/06/21,,,,,,,,125,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/07/21,05/07/21,,,,,,,,125,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/10/21,05/10/21,,,,,,,,125,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/11/21,05/11/21,,,,,,,,125,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/12/21,05/12/21,,,,,,,,125,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/13/21,05/13/21,,,,,,,,125,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/14/21,05/14/21,,,,,,,,125,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/17/21,05/17/21,,,,,,,,126,,,,,,,1-4
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/18/21,05/18/21,,,,,,,,126,,,,,,,1-4
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/20/21,05/20/21,,,,,,,,126,,,,,,,1-4
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/21/21,05/21/21,,,,,,,,129,,,,,,,1-4
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/25/21,05/25/21,,,,,,,,129,,,,,,,1-4
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/26/21,05/26/21,,,,,,,,129,,,,,,,1-4
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,05/31/21,05/31/21,,,,,,,,129,,,,,,,1-4
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/01/21,06/01/21,,,,,,,,129,,,,,,,1-4
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/02/21,06/02/21,,,,,,,,129,,,,,,,1-4
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/03/21,06/03/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/04/21,06/04/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/07/21,06/07/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/08/21,06/08/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/09/21,06/09/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/10/21,06/10/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/11/21,06/11/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/14/21,06/14/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/15/21,06/15/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/16/21,06/16/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/20/21,06/20/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/21/21,06/21/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/22/21,06/22/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/24/21,06/24/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/28/21,06/28/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Juab District,Regular local school district,4900450,,Daily,06/29/21,06/29/21,,,,,,,,129,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/05/21,05/05/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/06/21,05/06/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/07/21,05/07/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/10/21,05/10/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/11/21,05/11/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/12/21,05/12/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/13/21,05/13/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/14/21,05/14/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/17/21,05/17/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/18/21,05/18/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/20/21,05/20/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/21/21,05/21/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/25/21,05/25/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/26/21,05/26/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,05/31/21,05/31/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/01/21,06/01/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/02/21,06/02/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/03/21,06/03/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/04/21,06/04/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/07/21,06/07/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/08/21,06/08/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/09/21,06/09/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/10/21,06/10/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/11/21,06/11/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/14/21,06/14/21,,,,,,,,31,,,,,,,1-4
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/15/21,06/15/21,,,,,,,,31,,,,,,,1-4
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/16/21,06/16/21,,,,,,,,31,,,,,,,1-4
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/20/21,06/20/21,,,,,,,,31,,,,,,,1-4
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/21/21,06/21/21,,,,,,,,31,,,,,,,1-4
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/22/21,06/22/21,,,,,,,,31,,,,,,,1-4
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/24/21,06/24/21,,,,,,,,31,,,,,,,1-4
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/28/21,06/28/21,,,,,,,,31,,,,,,,0
+Utah,UT,District,No,,,,Kane District,Regular local school district,4900480,,Daily,06/29/21,06/29/21,,,,,,,,31,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/05/21,05/05/21,,,,,,,,333,,,,,,,1-4
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/06/21,05/06/21,,,,,,,,333,,,,,,,1-4
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/07/21,05/07/21,,,,,,,,333,,,,,,,1-4
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/10/21,05/10/21,,,,,,,,333,,,,,,,1-4
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/11/21,05/11/21,,,,,,,,333,,,,,,,1-4
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/12/21,05/12/21,,,,,,,,333,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/13/21,05/13/21,,,,,,,,333,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/14/21,05/14/21,,,,,,,,333,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/17/21,05/17/21,,,,,,,,334,,,,,,,1-4
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/18/21,05/18/21,,,,,,,,334,,,,,,,1-4
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/20/21,05/20/21,,,,,,,,334,,,,,,,1-4
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/21/21,05/21/21,,,,,,,,334,,,,,,,1-4
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/25/21,05/25/21,,,,,,,,337,,,,,,,1-4
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/26/21,05/26/21,,,,,,,,338,,,,,,,1-4
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,05/31/21,05/31/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/01/21,06/01/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/02/21,06/02/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/03/21,06/03/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/04/21,06/04/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/07/21,06/07/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/08/21,06/08/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/09/21,06/09/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/10/21,06/10/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/11/21,06/11/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/14/21,06/14/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/15/21,06/15/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/16/21,06/16/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/20/21,06/20/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/21/21,06/21/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/22/21,06/22/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/24/21,06/24/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/28/21,06/28/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Logan City District,Regular local school district,4900510,,Daily,06/29/21,06/29/21,,,,,,,,338,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/05/21,05/05/21,,,,,,,,223,,,,,,,1-4
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/06/21,05/06/21,,,,,,,,223,,,,,,,1-4
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/07/21,05/07/21,,,,,,,,223,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/10/21,05/10/21,,,,,,,,223,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/11/21,05/11/21,,,,,,,,223,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/12/21,05/12/21,,,,,,,,223,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/13/21,05/13/21,,,,,,,,223,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/14/21,05/14/21,,,,,,,,223,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/17/21,05/17/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/18/21,05/18/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/20/21,05/20/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/21/21,05/21/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/25/21,05/25/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/26/21,05/26/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,05/31/21,05/31/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/01/21,06/01/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/02/21,06/02/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/03/21,06/03/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/04/21,06/04/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/07/21,06/07/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/08/21,06/08/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/09/21,06/09/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/10/21,06/10/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/11/21,06/11/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/14/21,06/14/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/15/21,06/15/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/16/21,06/16/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/20/21,06/20/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/21/21,06/21/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/22/21,06/22/21,,,,,,,,224,,,,,,,0
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/24/21,06/24/21,,,,,,,,226,,,,,,,1-4
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/28/21,06/28/21,,,,,,,,226,,,,,,,1-4
+Utah,UT,District,No,,,,Millard District,Regular local school district,4900540,,Daily,06/29/21,06/29/21,,,,,,,,226,,,,,,,1-4
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/05/21,05/05/21,,,,,,,,149,,,,,,,1-4
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/06/21,05/06/21,,,,,,,,149,,,,,,,1-4
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/07/21,05/07/21,,,,,,,,150,,,,,,,1-4
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/10/21,05/10/21,,,,,,,,151,,,,,,,1-4
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/11/21,05/11/21,,,,,,,,151,,,,,,,1-4
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/12/21,05/12/21,,,,,,,,151,,,,,,,1-4
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/13/21,05/13/21,,,,,,,,151,,,,,,,1-4
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/14/21,05/14/21,,,,,,,,151,,,,,,,1-4
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/17/21,05/17/21,,,,,,,,151,,,,,,,1-4
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/18/21,05/18/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/20/21,05/20/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/21/21,05/21/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/25/21,05/25/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/26/21,05/26/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,05/31/21,05/31/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/01/21,06/01/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/02/21,06/02/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/03/21,06/03/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/04/21,06/04/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/07/21,06/07/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/08/21,06/08/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/09/21,06/09/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/10/21,06/10/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/11/21,06/11/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/14/21,06/14/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/15/21,06/15/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/16/21,06/16/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/20/21,06/20/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/21/21,06/21/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/22/21,06/22/21,,,,,,,,151,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/24/21,06/24/21,,,,,,,,152,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/28/21,06/28/21,,,,,,,,152,,,,,,,0
+Utah,UT,District,No,,,,Morgan District,Regular local school district,4900570,,Daily,06/29/21,06/29/21,,,,,,,,152,,,,,,,0
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/05/21,05/05/21,,,,,,,,503,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/06/21,05/06/21,,,,,,,,503,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/07/21,05/07/21,,,,,,,,505,,,,,,,5
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/10/21,05/10/21,,,,,,,,506,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/11/21,05/11/21,,,,,,,,508,,,,,,,6
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/12/21,05/12/21,,,,,,,,510,,,,,,,7
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/13/21,05/13/21,,,,,,,,511,,,,,,,8
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/14/21,05/14/21,,,,,,,,511,,,,,,,7
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/17/21,05/17/21,,,,,,,,513,,,,,,,9
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/18/21,05/18/21,,,,,,,,513,,,,,,,8
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/20/21,05/20/21,,,,,,,,514,,,,,,,8
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/21/21,05/21/21,,,,,,,,514,,,,,,,6
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/25/21,05/25/21,,,,,,,,516,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/26/21,05/26/21,,,,,,,,517,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,05/31/21,05/31/21,,,,,,,,518,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/01/21,06/01/21,,,,,,,,519,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/02/21,06/02/21,,,,,,,,519,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/03/21,06/03/21,,,,,,,,519,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/04/21,06/04/21,,,,,,,,519,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/07/21,06/07/21,,,,,,,,519,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/08/21,06/08/21,,,,,,,,520,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/09/21,06/09/21,,,,,,,,520,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/10/21,06/10/21,,,,,,,,520,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/11/21,06/11/21,,,,,,,,520,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/14/21,06/14/21,,,,,,,,520,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/15/21,06/15/21,,,,,,,,520,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/16/21,06/16/21,,,,,,,,520,,,,,,,1-4
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/20/21,06/20/21,,,,,,,,520,,,,,,,0
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/21/21,06/21/21,,,,,,,,520,,,,,,,0
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/22/21,06/22/21,,,,,,,,520,,,,,,,0
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/24/21,06/24/21,,,,,,,,520,,,,,,,0
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/28/21,06/28/21,,,,,,,,520,,,,,,,0
+Utah,UT,District,No,,,,Murray District,Regular local school district,4900600,,Daily,06/29/21,06/29/21,,,,,,,,520,,,,,,,0
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/05/21,05/05/21,,,,,,,,1679,,,,,,,40
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/06/21,05/06/21,,,,,,,,1680,,,,,,,37
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/07/21,05/07/21,,,,,,,,1684,,,,,,,40
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/10/21,05/10/21,,,,,,,,1685,,,,,,,26
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/11/21,05/11/21,,,,,,,,1685,,,,,,,20
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/12/21,05/12/21,,,,,,,,1685,,,,,,,16
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/13/21,05/13/21,,,,,,,,1687,,,,,,,14
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/14/21,05/14/21,,,,,,,,1688,,,,,,,11
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/17/21,05/17/21,,,,,,,,1689,,,,,,,10
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/18/21,05/18/21,,,,,,,,1692,,,,,,,12
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/20/21,05/20/21,,,,,,,,1699,,,,,,,15
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/21/21,05/21/21,,,,,,,,1698,,,,,,,13
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/25/21,05/25/21,,,,,,,,1703,,,,,,,15
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/26/21,05/26/21,,,,,,,,1703,,,,,,,13
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,05/31/21,05/31/21,,,,,,,,1704,,,,,,,12
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/01/21,06/01/21,,,,,,,,1704,,,,,,,7
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/02/21,06/02/21,,,,,,,,1705,,,,,,,6
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/03/21,06/03/21,,,,,,,,1705,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/04/21,06/04/21,,,,,,,,1705,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/07/21,06/07/21,,,,,,,,1705,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/08/21,06/08/21,,,,,,,,1706,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/09/21,06/09/21,,,,,,,,1706,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/10/21,06/10/21,,,,,,,,1706,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/11/21,06/11/21,,,,,,,,1706,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/14/21,06/14/21,,,,,,,,1707,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/15/21,06/15/21,,,,,,,,1707,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/16/21,06/16/21,,,,,,,,1708,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/20/21,06/20/21,,,,,,,,1710,,,,,,,5
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/21/21,06/21/21,,,,,,,,1710,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/22/21,06/22/21,,,,,,,,1710,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/24/21,06/24/21,,,,,,,,1710,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/28/21,06/28/21,,,,,,,,1710,,,,,,,1-4
+Utah,UT,District,No,,,,Nebo District,Regular local school district,4900630,,Daily,06/29/21,06/29/21,,,,,,,,1711,,,,,,,1-4
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/05/21,05/05/21,,,,,,,,117,,,,,,,5
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/06/21,05/06/21,,,,,,,,120,,,,,,,8
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/07/21,05/07/21,,,,,,,,120,,,,,,,6
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/10/21,05/10/21,,,,,,,,121,,,,,,,7
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/11/21,05/11/21,,,,,,,,125,,,,,,,10
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/12/21,05/12/21,,,,,,,,130,,,,,,,15
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/13/21,05/13/21,,,,,,,,133,,,,,,,18
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/14/21,05/14/21,,,,,,,,136,,,,,,,18
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/17/21,05/17/21,,,,,,,,139,,,,,,,21
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/18/21,05/18/21,,,,,,,,139,,,,,,,16
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/20/21,05/20/21,,,,,,,,143,,,,,,,17
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/21/21,05/21/21,,,,,,,,143,,,,,,,14
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/25/21,05/25/21,,,,,,,,143,,,,,,,9
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/26/21,05/26/21,,,,,,,,144,,,,,,,7
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,05/31/21,05/31/21,,,,,,,,144,,,,,,,1-4
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/01/21,06/01/21,,,,,,,,144,,,,,,,1-4
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/02/21,06/02/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/03/21,06/03/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/04/21,06/04/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/07/21,06/07/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/08/21,06/08/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/09/21,06/09/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/10/21,06/10/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/11/21,06/11/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/14/21,06/14/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/15/21,06/15/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/16/21,06/16/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/20/21,06/20/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/21/21,06/21/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/22/21,06/22/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/24/21,06/24/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/28/21,06/28/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Sanpete District,Regular local school district,4900660,,Daily,06/29/21,06/29/21,,,,,,,,144,,,,,,,0
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/05/21,05/05/21,,,,,,,,59,,,,,,,9
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/06/21,05/06/21,,,,,,,,62,,,,,,,12
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/07/21,05/07/21,,,,,,,,62,,,,,,,12
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/10/21,05/10/21,,,,,,,,63,,,,,,,10
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/11/21,05/11/21,,,,,,,,63,,,,,,,9
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/12/21,05/12/21,,,,,,,,63,,,,,,,7
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/13/21,05/13/21,,,,,,,,63,,,,,,,7
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/14/21,05/14/21,,,,,,,,63,,,,,,,7
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/17/21,05/17/21,,,,,,,,63,,,,,,,7
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/18/21,05/18/21,,,,,,,,63,,,,,,,1-4
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/20/21,05/20/21,,,,,,,,63,,,,,,,0
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/21/21,05/21/21,,,,,,,,63,,,,,,,0
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/25/21,05/25/21,,,,,,,,64,,,,,,,0
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/26/21,05/26/21,,,,,,,,64,,,,,,,0
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,05/31/21,05/31/21,,,,,,,,64,,,,,,,0
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/01/21,06/01/21,,,,,,,,64,,,,,,,0
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/02/21,06/02/21,,,,,,,,64,,,,,,,0
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/03/21,06/03/21,,,,,,,,64,,,,,,,0
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/04/21,06/04/21,,,,,,,,64,,,,,,,0
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/07/21,06/07/21,,,,,,,,64,,,,,,,0
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/08/21,06/08/21,,,,,,,,68,,,,,,,1-4
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/09/21,06/09/21,,,,,,,,68,,,,,,,1-4
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/10/21,06/10/21,,,,,,,,68,,,,,,,1-4
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/11/21,06/11/21,,,,,,,,68,,,,,,,1-4
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/14/21,06/14/21,,,,,,,,68,,,,,,,1-4
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/15/21,06/15/21,,,,,,,,68,,,,,,,1-4
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/16/21,06/16/21,,,,,,,,69,,,,,,,5
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/20/21,06/20/21,,,,,,,,69,,,,,,,5
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/21/21,06/21/21,,,,,,,,69,,,,,,,1-4
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/22/21,06/22/21,,,,,,,,69,,,,,,,1-4
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/24/21,06/24/21,,,,,,,,69,,,,,,,1-4
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/28/21,06/28/21,,,,,,,,69,,,,,,,1-4
+Utah,UT,District,No,,,,North Summit District,Regular local school district,4900690,,Daily,06/29/21,06/29/21,,,,,,,,69,,,,,,,0
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/05/21,05/05/21,,,,,,,,555,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/06/21,05/06/21,,,,,,,,555,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/07/21,05/07/21,,,,,,,,555,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/10/21,05/10/21,,,,,,,,555,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/11/21,05/11/21,,,,,,,,556,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/12/21,05/12/21,,,,,,,,556,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/13/21,05/13/21,,,,,,,,556,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/14/21,05/14/21,,,,,,,,556,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/17/21,05/17/21,,,,,,,,556,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/18/21,05/18/21,,,,,,,,556,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/20/21,05/20/21,,,,,,,,556,,,,,,,0
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/21/21,05/21/21,,,,,,,,556,,,,,,,0
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/25/21,05/25/21,,,,,,,,558,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/26/21,05/26/21,,,,,,,,558,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,05/31/21,05/31/21,,,,,,,,560,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/01/21,06/01/21,,,,,,,,560,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/02/21,06/02/21,,,,,,,,560,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/03/21,06/03/21,,,,,,,,561,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/04/21,06/04/21,,,,,,,,562,,,,,,,5
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/07/21,06/07/21,,,,,,,,564,,,,,,,6
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/08/21,06/08/21,,,,,,,,564,,,,,,,6
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/09/21,06/09/21,,,,,,,,564,,,,,,,6
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/10/21,06/10/21,,,,,,,,564,,,,,,,6
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/11/21,06/11/21,,,,,,,,564,,,,,,,5
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/14/21,06/14/21,,,,,,,,564,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/15/21,06/15/21,,,,,,,,564,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/16/21,06/16/21,,,,,,,,564,,,,,,,1-4
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/20/21,06/20/21,,,,,,,,564,,,,,,,0
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/21/21,06/21/21,,,,,,,,564,,,,,,,0
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/22/21,06/22/21,,,,,,,,564,,,,,,,0
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/24/21,06/24/21,,,,,,,,564,,,,,,,0
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/28/21,06/28/21,,,,,,,,564,,,,,,,0
+Utah,UT,District,No,,,,Ogden City District,Regular local school district,4900720,,Daily,06/29/21,06/29/21,,,,,,,,564,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/05/21,05/05/21,,,,,,,,317,,,,,,,1-4
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/06/21,05/06/21,,,,,,,,317,,,,,,,1-4
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/07/21,05/07/21,,,,,,,,317,,,,,,,1-4
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/10/21,05/10/21,,,,,,,,317,,,,,,,1-4
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/11/21,05/11/21,,,,,,,,319,,,,,,,1-4
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/12/21,05/12/21,,,,,,,,320,,,,,,,1-4
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/13/21,05/13/21,,,,,,,,323,,,,,,,6
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/14/21,05/14/21,,,,,,,,324,,,,,,,7
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/17/21,05/17/21,,,,,,,,326,,,,,,,9
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/18/21,05/18/21,,,,,,,,328,,,,,,,11
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/20/21,05/20/21,,,,,,,,328,,,,,,,11
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/21/21,05/21/21,,,,,,,,329,,,,,,,12
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/25/21,05/25/21,,,,,,,,329,,,,,,,9
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/26/21,05/26/21,,,,,,,,329,,,,,,,6
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,05/31/21,05/31/21,,,,,,,,329,,,,,,,1-4
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/01/21,06/01/21,,,,,,,,329,,,,,,,1-4
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/02/21,06/02/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/03/21,06/03/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/04/21,06/04/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/07/21,06/07/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/08/21,06/08/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/09/21,06/09/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/10/21,06/10/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/11/21,06/11/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/14/21,06/14/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/15/21,06/15/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/16/21,06/16/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/20/21,06/20/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/21/21,06/21/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/22/21,06/22/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/24/21,06/24/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/28/21,06/28/21,,,,,,,,329,,,,,,,0
+Utah,UT,District,No,,,,Park City District,Regular local school district,4900750,,Daily,06/29/21,06/29/21,,,,,,,,330,,,,,,,1-4
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/05/21,05/05/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/06/21,05/06/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/07/21,05/07/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/10/21,05/10/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/11/21,05/11/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/12/21,05/12/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/13/21,05/13/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/14/21,05/14/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/17/21,05/17/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/18/21,05/18/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/20/21,05/20/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/21/21,05/21/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/25/21,05/25/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/26/21,05/26/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,05/31/21,05/31/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/01/21,06/01/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/02/21,06/02/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/03/21,06/03/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/04/21,06/04/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/07/21,06/07/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/08/21,06/08/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/09/21,06/09/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/10/21,06/10/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/11/21,06/11/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/14/21,06/14/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/15/21,06/15/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/16/21,06/16/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/20/21,06/20/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/21/21,06/21/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/22/21,06/22/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/24/21,06/24/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/28/21,06/28/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Piute District,Regular local school district,4900780,,Daily,06/29/21,06/29/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/05/21,05/05/21,,,,,,,,606,,,,,,,5
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/06/21,05/06/21,,,,,,,,608,,,,,,,6
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/07/21,05/07/21,,,,,,,,609,,,,,,,7
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/10/21,05/10/21,,,,,,,,609,,,,,,,7
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/11/21,05/11/21,,,,,,,,609,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/12/21,05/12/21,,,,,,,,609,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/13/21,05/13/21,,,,,,,,609,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/14/21,05/14/21,,,,,,,,610,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/17/21,05/17/21,,,,,,,,610,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/18/21,05/18/21,,,,,,,,611,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/20/21,05/20/21,,,,,,,,614,,,,,,,5
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/21/21,05/21/21,,,,,,,,614,,,,,,,5
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/25/21,05/25/21,,,,,,,,615,,,,,,,5
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/26/21,05/26/21,,,,,,,,615,,,,,,,5
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,05/31/21,05/31/21,,,,,,,,617,,,,,,,6
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/01/21,06/01/21,,,,,,,,617,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/02/21,06/02/21,,,,,,,,618,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/03/21,06/03/21,,,,,,,,618,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/04/21,06/04/21,,,,,,,,618,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/07/21,06/07/21,,,,,,,,620,,,,,,,5
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/08/21,06/08/21,,,,,,,,621,,,,,,,6
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/09/21,06/09/21,,,,,,,,620,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/10/21,06/10/21,,,,,,,,621,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/11/21,06/11/21,,,,,,,,621,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/14/21,06/14/21,,,,,,,,621,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/15/21,06/15/21,,,,,,,,621,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/16/21,06/16/21,,,,,,,,621,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/20/21,06/20/21,,,,,,,,623,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/21/21,06/21/21,,,,,,,,623,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/22/21,06/22/21,,,,,,,,623,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/24/21,06/24/21,,,,,,,,623,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/28/21,06/28/21,,,,,,,,623,,,,,,,1-4
+Utah,UT,District,No,,,,Provo District,Regular local school district,4900810,,Daily,06/29/21,06/29/21,,,,,,,,623,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/05/21,05/05/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/06/21,05/06/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/07/21,05/07/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/10/21,05/10/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/11/21,05/11/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/12/21,05/12/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/13/21,05/13/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/14/21,05/14/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/17/21,05/17/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/18/21,05/18/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/20/21,05/20/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/21/21,05/21/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/25/21,05/25/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/26/21,05/26/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,05/31/21,05/31/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/01/21,06/01/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/02/21,06/02/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/03/21,06/03/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/04/21,06/04/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/07/21,06/07/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/08/21,06/08/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/09/21,06/09/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/10/21,06/10/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/11/21,06/11/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/14/21,06/14/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/15/21,06/15/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/16/21,06/16/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/20/21,06/20/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/21/21,06/21/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/22/21,06/22/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/24/21,06/24/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/28/21,06/28/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,No,,,,Rich District,Regular local school district,4900840,,Daily,06/29/21,06/29/21,,,,,,,,30,,,,,,,0
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/05/21,05/05/21,,,,,,,,573,,,,,,,8
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/06/21,05/06/21,,,,,,,,574,,,,,,,9
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/07/21,05/07/21,,,,,,,,574,,,,,,,7
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/10/21,05/10/21,,,,,,,,576,,,,,,,6
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/11/21,05/11/21,,,,,,,,577,,,,,,,5
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/12/21,05/12/21,,,,,,,,577,,,,,,,5
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/13/21,05/13/21,,,,,,,,579,,,,,,,7
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/14/21,05/14/21,,,,,,,,580,,,,,,,8
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/17/21,05/17/21,,,,,,,,581,,,,,,,8
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/18/21,05/18/21,,,,,,,,581,,,,,,,6
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/20/21,05/20/21,,,,,,,,583,,,,,,,8
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/21/21,05/21/21,,,,,,,,583,,,,,,,7
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/25/21,05/25/21,,,,,,,,583,,,,,,,1-4
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/26/21,05/26/21,,,,,,,,583,,,,,,,1-4
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,05/31/21,05/31/21,,,,,,,,583,,,,,,,0
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/01/21,06/01/21,,,,,,,,583,,,,,,,0
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/02/21,06/02/21,,,,,,,,583,,,,,,,0
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/03/21,06/03/21,,,,,,,,583,,,,,,,0
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/04/21,06/04/21,,,,,,,,583,,,,,,,0
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/07/21,06/07/21,,,,,,,,583,,,,,,,0
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/08/21,06/08/21,,,,,,,,583,,,,,,,0
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/09/21,06/09/21,,,,,,,,584,,,,,,,1-4
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/10/21,06/10/21,,,,,,,,584,,,,,,,1-4
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/11/21,06/11/21,,,,,,,,584,,,,,,,1-4
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/14/21,06/14/21,,,,,,,,584,,,,,,,1-4
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/15/21,06/15/21,,,,,,,,584,,,,,,,1-4
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/16/21,06/16/21,,,,,,,,584,,,,,,,1-4
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/20/21,06/20/21,,,,,,,,584,,,,,,,1-4
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/21/21,06/21/21,,,,,,,,584,,,,,,,1-4
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/22/21,06/22/21,,,,,,,,584,,,,,,,0
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/24/21,06/24/21,,,,,,,,584,,,,,,,0
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/28/21,06/28/21,,,,,,,,584,,,,,,,0
+Utah,UT,District,Yes,,,,Salt Lake County - Private,Charter agency,4900146,,Daily,06/29/21,06/29/21,,,,,,,,584,,,,,,,0
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/05/21,05/05/21,,,,,,,,319,,,,,,,7
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/06/21,05/06/21,,,,,,,,320,,,,,,,8
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/07/21,05/07/21,,,,,,,,323,,,,,,,10
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/10/21,05/10/21,,,,,,,,325,,,,,,,11
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/11/21,05/11/21,,,,,,,,326,,,,,,,10
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/12/21,05/12/21,,,,,,,,326,,,,,,,9
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/13/21,05/13/21,,,,,,,,326,,,,,,,8
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/14/21,05/14/21,,,,,,,,326,,,,,,,8
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/17/21,05/17/21,,,,,,,,326,,,,,,,6
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/18/21,05/18/21,,,,,,,,328,,,,,,,8
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/20/21,05/20/21,,,,,,,,328,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/21/21,05/21/21,,,,,,,,328,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/25/21,05/25/21,,,,,,,,332,,,,,,,5
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/26/21,05/26/21,,,,,,,,333,,,,,,,5
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,05/31/21,05/31/21,,,,,,,,334,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/01/21,06/01/21,,,,,,,,334,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/02/21,06/02/21,,,,,,,,334,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/03/21,06/03/21,,,,,,,,334,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/04/21,06/04/21,,,,,,,,335,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/07/21,06/07/21,,,,,,,,336,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/08/21,06/08/21,,,,,,,,336,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/09/21,06/09/21,,,,,,,,336,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/10/21,06/10/21,,,,,,,,336,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/11/21,06/11/21,,,,,,,,336,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/14/21,06/14/21,,,,,,,,337,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/15/21,06/15/21,,,,,,,,339,,,,,,,5
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/16/21,06/16/21,,,,,,,,339,,,,,,,5
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/20/21,06/20/21,,,,,,,,339,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/21/21,06/21/21,,,,,,,,339,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/22/21,06/22/21,,,,,,,,339,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/24/21,06/24/21,,,,,,,,341,,,,,,,0
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/28/21,06/28/21,,,,,,,,342,,,,,,,1-4
+Utah,UT,District,No,,,,Salt Lake District,Regular local school district,4900870,,Daily,06/29/21,06/29/21,,,,,,,,342,,,,,,,1-4
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/05/21,05/05/21,,,,,,,,37,,,,,,,6
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/06/21,05/06/21,,,,,,,,37,,,,,,,6
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/07/21,05/07/21,,,,,,,,37,,,,,,,6
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/10/21,05/10/21,,,,,,,,37,,,,,,,6
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/11/21,05/11/21,,,,,,,,37,,,,,,,5
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/12/21,05/12/21,,,,,,,,37,,,,,,,5
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/13/21,05/13/21,,,,,,,,38,,,,,,,5
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/14/21,05/14/21,,,,,,,,38,,,,,,,1-4
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/17/21,05/17/21,,,,,,,,38,,,,,,,1-4
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/18/21,05/18/21,,,,,,,,38,,,,,,,1-4
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/20/21,05/20/21,,,,,,,,38,,,,,,,1-4
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/21/21,05/21/21,,,,,,,,38,,,,,,,1-4
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/25/21,05/25/21,,,,,,,,39,,,,,,,1-4
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/26/21,05/26/21,,,,,,,,39,,,,,,,1-4
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,05/31/21,05/31/21,,,,,,,,39,,,,,,,1-4
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/01/21,06/01/21,,,,,,,,39,,,,,,,1-4
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/02/21,06/02/21,,,,,,,,39,,,,,,,1-4
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/03/21,06/03/21,,,,,,,,39,,,,,,,1-4
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/04/21,06/04/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/07/21,06/07/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/08/21,06/08/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/09/21,06/09/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/10/21,06/10/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/11/21,06/11/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/14/21,06/14/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/15/21,06/15/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/16/21,06/16/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/20/21,06/20/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/21/21,06/21/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/22/21,06/22/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/24/21,06/24/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/28/21,06/28/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,San Juan District,Regular local school district,4900900,,Daily,06/29/21,06/29/21,,,,,,,,39,,,,,,,0
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/05/21,05/05/21,,,,,,,,252,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/06/21,05/06/21,,,,,,,,253,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/07/21,05/07/21,,,,,,,,253,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/10/21,05/10/21,,,,,,,,253,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/11/21,05/11/21,,,,,,,,253,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/12/21,05/12/21,,,,,,,,256,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/13/21,05/13/21,,,,,,,,256,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/14/21,05/14/21,,,,,,,,256,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/17/21,05/17/21,,,,,,,,256,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/18/21,05/18/21,,,,,,,,258,,,,,,,5
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/20/21,05/20/21,,,,,,,,258,,,,,,,5
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/21/21,05/21/21,,,,,,,,260,,,,,,,7
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/25/21,05/25/21,,,,,,,,260,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/26/21,05/26/21,,,,,,,,260,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,05/31/21,05/31/21,,,,,,,,260,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/01/21,06/01/21,,,,,,,,260,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/02/21,06/02/21,,,,,,,,260,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/03/21,06/03/21,,,,,,,,261,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/04/21,06/04/21,,,,,,,,261,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/07/21,06/07/21,,,,,,,,261,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/08/21,06/08/21,,,,,,,,261,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/09/21,06/09/21,,,,,,,,261,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/10/21,06/10/21,,,,,,,,261,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/11/21,06/11/21,,,,,,,,261,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/14/21,06/14/21,,,,,,,,261,,,,,,,1-4
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/15/21,06/15/21,,,,,,,,261,,,,,,,0
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/16/21,06/16/21,,,,,,,,261,,,,,,,0
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/20/21,06/20/21,,,,,,,,261,,,,,,,0
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/21/21,06/21/21,,,,,,,,261,,,,,,,0
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/22/21,06/22/21,,,,,,,,261,,,,,,,0
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/24/21,06/24/21,,,,,,,,261,,,,,,,0
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/28/21,06/28/21,,,,,,,,261,,,,,,,0
+Utah,UT,District,No,,,,Sevier District,Regular local school district,4900930,,Daily,06/29/21,06/29/21,,,,,,,,261,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/05/21,05/05/21,,,,,,,,219,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/06/21,05/06/21,,,,,,,,219,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/07/21,05/07/21,,,,,,,,219,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/10/21,05/10/21,,,,,,,,219,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/11/21,05/11/21,,,,,,,,219,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/12/21,05/12/21,,,,,,,,219,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/13/21,05/13/21,,,,,,,,219,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/14/21,05/14/21,,,,,,,,219,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/17/21,05/17/21,,,,,,,,219,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/18/21,05/18/21,,,,,,,,219,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/20/21,05/20/21,,,,,,,,220,,,,,,,1-4
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/21/21,05/21/21,,,,,,,,220,,,,,,,1-4
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/25/21,05/25/21,,,,,,,,220,,,,,,,1-4
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/26/21,05/26/21,,,,,,,,220,,,,,,,1-4
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,05/31/21,05/31/21,,,,,,,,220,,,,,,,1-4
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/01/21,06/01/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/02/21,06/02/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/03/21,06/03/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/04/21,06/04/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/07/21,06/07/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/08/21,06/08/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/09/21,06/09/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/10/21,06/10/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/11/21,06/11/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/14/21,06/14/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/15/21,06/15/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/16/21,06/16/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/20/21,06/20/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/21/21,06/21/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/22/21,06/22/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/24/21,06/24/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/28/21,06/28/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Sanpete District,Regular local school district,4900960,,Daily,06/29/21,06/29/21,,,,,,,,220,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/05/21,05/05/21,,,,,,,,83,,,,,,,1-4
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/06/21,05/06/21,,,,,,,,85,,,,,,,6
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/07/21,05/07/21,,,,,,,,85,,,,,,,5
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/10/21,05/10/21,,,,,,,,86,,,,,,,6
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/11/21,05/11/21,,,,,,,,86,,,,,,,6
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/12/21,05/12/21,,,,,,,,87,,,,,,,7
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/13/21,05/13/21,,,,,,,,87,,,,,,,6
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/14/21,05/14/21,,,,,,,,88,,,,,,,7
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/17/21,05/17/21,,,,,,,,88,,,,,,,1-4
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/18/21,05/18/21,,,,,,,,88,,,,,,,1-4
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/20/21,05/20/21,,,,,,,,88,,,,,,,1-4
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/21/21,05/21/21,,,,,,,,88,,,,,,,1-4
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/25/21,05/25/21,,,,,,,,88,,,,,,,1-4
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/26/21,05/26/21,,,,,,,,88,,,,,,,1-4
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,05/31/21,05/31/21,,,,,,,,88,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/01/21,06/01/21,,,,,,,,88,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/02/21,06/02/21,,,,,,,,88,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/03/21,06/03/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/04/21,06/04/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/07/21,06/07/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/08/21,06/08/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/09/21,06/09/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/10/21,06/10/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/11/21,06/11/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/14/21,06/14/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/15/21,06/15/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/16/21,06/16/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/20/21,06/20/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/21/21,06/21/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/22/21,06/22/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/24/21,06/24/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/28/21,06/28/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,South Summit District,Regular local school district,4900990,,Daily,06/29/21,06/29/21,,,,,,,,89,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/05/21,05/05/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/06/21,05/06/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/07/21,05/07/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/10/21,05/10/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/11/21,05/11/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/12/21,05/12/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/13/21,05/13/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/14/21,05/14/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/17/21,05/17/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/18/21,05/18/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/20/21,05/20/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/21/21,05/21/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/25/21,05/25/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/26/21,05/26/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,05/31/21,05/31/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/01/21,06/01/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/02/21,06/02/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/03/21,06/03/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/04/21,06/04/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/07/21,06/07/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/08/21,06/08/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/09/21,06/09/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/10/21,06/10/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/11/21,06/11/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/14/21,06/14/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/15/21,06/15/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/16/21,06/16/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/20/21,06/20/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/21/21,06/21/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/22/21,06/22/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/24/21,06/24/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/28/21,06/28/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southeast Utah - Charter,Regional education service agency,4900029,,Daily,06/29/21,06/29/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/05/21,05/05/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/06/21,05/06/21,,,,,,,,52,,,,,,,0
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/07/21,05/07/21,,,,,,,,53,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/10/21,05/10/21,,,,,,,,53,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/11/21,05/11/21,,,,,,,,53,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/12/21,05/12/21,,,,,,,,53,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/13/21,05/13/21,,,,,,,,53,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/14/21,05/14/21,,,,,,,,54,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/17/21,05/17/21,,,,,,,,54,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/18/21,05/18/21,,,,,,,,54,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/20/21,05/20/21,,,,,,,,54,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/21/21,05/21/21,,,,,,,,54,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/25/21,05/25/21,,,,,,,,54,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/26/21,05/26/21,,,,,,,,54,,,,,,,0
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,05/31/21,05/31/21,,,,,,,,55,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/01/21,06/01/21,,,,,,,,55,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/02/21,06/02/21,,,,,,,,55,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/03/21,06/03/21,,,,,,,,55,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/04/21,06/04/21,,,,,,,,55,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/07/21,06/07/21,,,,,,,,55,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/08/21,06/08/21,,,,,,,,55,,,,,,,0
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/09/21,06/09/21,,,,,,,,55,,,,,,,0
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/10/21,06/10/21,,,,,,,,55,,,,,,,0
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/11/21,06/11/21,,,,,,,,55,,,,,,,0
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/14/21,06/14/21,,,,,,,,56,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/15/21,06/15/21,,,,,,,,56,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/16/21,06/16/21,,,,,,,,56,,,,,,,1-4
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/20/21,06/20/21,,,,,,,,56,,,,,,,0
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/21/21,06/21/21,,,,,,,,56,,,,,,,0
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/22/21,06/22/21,,,,,,,,56,,,,,,,0
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/24/21,06/24/21,,,,,,,,56,,,,,,,0
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/28/21,06/28/21,,,,,,,,56,,,,,,,0
+Utah,UT,District,No,,,,Southwest Utah - Charter,Regional education service agency,4900031,,Daily,06/29/21,06/29/21,,,,,,,,56,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/05/21,05/05/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/06/21,05/06/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/07/21,05/07/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/10/21,05/10/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/11/21,05/11/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/12/21,05/12/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/13/21,05/13/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/14/21,05/14/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/17/21,05/17/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/18/21,05/18/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/20/21,05/20/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/21/21,05/21/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/25/21,05/25/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/26/21,05/26/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,05/31/21,05/31/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/01/21,06/01/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/02/21,06/02/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/03/21,06/03/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/04/21,06/04/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/07/21,06/07/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/08/21,06/08/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/09/21,06/09/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/10/21,06/10/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/11/21,06/11/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/14/21,06/14/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/15/21,06/15/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/16/21,06/16/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/20/21,06/20/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/21/21,06/21/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/22/21,06/22/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/24/21,06/24/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/28/21,06/28/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tintic District,Regular local school district,4901020,,Daily,06/29/21,06/29/21,,,,,,,,9,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/05/21,05/05/21,,,,,,,,57,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/06/21,05/06/21,,,,,,,,57,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/07/21,05/07/21,,,,,,,,57,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/10/21,05/10/21,,,,,,,,58,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/11/21,05/11/21,,,,,,,,58,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/12/21,05/12/21,,,,,,,,58,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/13/21,05/13/21,,,,,,,,58,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/14/21,05/14/21,,,,,,,,58,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/17/21,05/17/21,,,,,,,,59,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/18/21,05/18/21,,,,,,,,63,,,,,,,6
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/20/21,05/20/21,,,,,,,,65,,,,,,,7
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/21/21,05/21/21,,,,,,,,66,,,,,,,8
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/25/21,05/25/21,,,,,,,,70,,,,,,,12
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/26/21,05/26/21,,,,,,,,70,,,,,,,12
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,05/31/21,05/31/21,,,,,,,,71,,,,,,,5
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/01/21,06/01/21,,,,,,,,71,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/02/21,06/02/21,,,,,,,,71,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/03/21,06/03/21,,,,,,,,71,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/04/21,06/04/21,,,,,,,,71,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/07/21,06/07/21,,,,,,,,71,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/08/21,06/08/21,,,,,,,,71,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/09/21,06/09/21,,,,,,,,71,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/10/21,06/10/21,,,,,,,,71,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/11/21,06/11/21,,,,,,,,71,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/14/21,06/14/21,,,,,,,,71,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/15/21,06/15/21,,,,,,,,71,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/16/21,06/16/21,,,,,,,,71,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/20/21,06/20/21,,,,,,,,71,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/21/21,06/21/21,,,,,,,,71,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/22/21,06/22/21,,,,,,,,71,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/24/21,06/24/21,,,,,,,,76,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/28/21,06/28/21,,,,,,,,76,,,,,,,0
+Utah,UT,District,No,,,,Tooele County - Charter/Private,Regular local school district,4901050,,Daily,06/29/21,06/29/21,,,,,,,,76,,,,,,,0
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/05/21,05/05/21,,,,,,,,329,,,,,,,6
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/06/21,05/06/21,,,,,,,,330,,,,,,,7
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/07/21,05/07/21,,,,,,,,330,,,,,,,7
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/10/21,05/10/21,,,,,,,,330,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/11/21,05/11/21,,,,,,,,330,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/12/21,05/12/21,,,,,,,,331,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/13/21,05/13/21,,,,,,,,331,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/14/21,05/14/21,,,,,,,,331,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/17/21,05/17/21,,,,,,,,331,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/18/21,05/18/21,,,,,,,,331,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/20/21,05/20/21,,,,,,,,332,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/21/21,05/21/21,,,,,,,,332,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/25/21,05/25/21,,,,,,,,332,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/26/21,05/26/21,,,,,,,,332,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,05/31/21,05/31/21,,,,,,,,333,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/01/21,06/01/21,,,,,,,,333,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/02/21,06/02/21,,,,,,,,333,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/03/21,06/03/21,,,,,,,,333,,,,,,,0
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/04/21,06/04/21,,,,,,,,333,,,,,,,0
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/07/21,06/07/21,,,,,,,,335,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/08/21,06/08/21,,,,,,,,335,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/09/21,06/09/21,,,,,,,,335,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/10/21,06/10/21,,,,,,,,335,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/11/21,06/11/21,,,,,,,,335,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/14/21,06/14/21,,,,,,,,335,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/15/21,06/15/21,,,,,,,,335,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/16/21,06/16/21,,,,,,,,335,,,,,,,1-4
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/20/21,06/20/21,,,,,,,,335,,,,,,,0
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/21/21,06/21/21,,,,,,,,335,,,,,,,0
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/22/21,06/22/21,,,,,,,,335,,,,,,,0
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/24/21,06/24/21,,,,,,,,335,,,,,,,0
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/28/21,06/28/21,,,,,,,,335,,,,,,,0
+Utah,UT,District,No,,,,Tooele District,Regular local school district,4901050,,Daily,06/29/21,06/29/21,,,,,,,,335,,,,,,,0
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/05/21,05/05/21,,,,,,,,116,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/06/21,05/06/21,,,,,,,,116,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/07/21,05/07/21,,,,,,,,116,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/10/21,05/10/21,,,,,,,,116,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/11/21,05/11/21,,,,,,,,116,,,,,,,0
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/12/21,05/12/21,,,,,,,,116,,,,,,,0
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/13/21,05/13/21,,,,,,,,117,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/14/21,05/14/21,,,,,,,,117,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/17/21,05/17/21,,,,,,,,117,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/18/21,05/18/21,,,,,,,,117,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/20/21,05/20/21,,,,,,,,117,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/21/21,05/21/21,,,,,,,,117,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/25/21,05/25/21,,,,,,,,119,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/26/21,05/26/21,,,,,,,,119,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,05/31/21,05/31/21,,,,,,,,119,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/01/21,06/01/21,,,,,,,,119,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/02/21,06/02/21,,,,,,,,119,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/03/21,06/03/21,,,,,,,,119,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/04/21,06/04/21,,,,,,,,119,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/07/21,06/07/21,,,,,,,,119,,,,,,,0
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/08/21,06/08/21,,,,,,,,119,,,,,,,0
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/09/21,06/09/21,,,,,,,,123,,,,,,,1-4
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/10/21,06/10/21,,,,,,,,126,,,,,,,7
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/11/21,06/11/21,,,,,,,,126,,,,,,,7
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/14/21,06/14/21,,,,,,,,126,,,,,,,7
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/15/21,06/15/21,,,,,,,,126,,,,,,,7
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/16/21,06/16/21,,,,,,,,126,,,,,,,7
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/20/21,06/20/21,,,,,,,,126,,,,,,,7
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/21/21,06/21/21,,,,,,,,126,,,,,,,7
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/22/21,06/22/21,,,,,,,,126,,,,,,,0
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/24/21,06/24/21,,,,,,,,127,,,,,,,0
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/28/21,06/28/21,,,,,,,,127,,,,,,,0
+Utah,UT,District,No,,,,Uintah District,Regular local school district,4901080,,Daily,06/29/21,06/29/21,,,,,,,,127,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/05/21,05/05/21,,,,,,,,41,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/06/21,05/06/21,,,,,,,,41,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/07/21,05/07/21,,,,,,,,41,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/10/21,05/10/21,,,,,,,,41,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/11/21,05/11/21,,,,,,,,41,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/12/21,05/12/21,,,,,,,,41,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/13/21,05/13/21,,,,,,,,41,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/14/21,05/14/21,,,,,,,,41,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/17/21,05/17/21,,,,,,,,42,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/18/21,05/18/21,,,,,,,,42,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/20/21,05/20/21,,,,,,,,44,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/21/21,05/21/21,,,,,,,,44,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/25/21,05/25/21,,,,,,,,45,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/26/21,05/26/21,,,,,,,,45,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,05/31/21,05/31/21,,,,,,,,45,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/01/21,06/01/21,,,,,,,,45,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/02/21,06/02/21,,,,,,,,45,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/03/21,06/03/21,,,,,,,,45,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/04/21,06/04/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/07/21,06/07/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/08/21,06/08/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/09/21,06/09/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/10/21,06/10/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/11/21,06/11/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/14/21,06/14/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/15/21,06/15/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/16/21,06/16/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/20/21,06/20/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/21/21,06/21/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/22/21,06/22/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/24/21,06/24/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/28/21,06/28/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch County - Charter/Private,Regular local school district,4901110,,Daily,06/29/21,06/29/21,,,,,,,,45,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/05/21,05/05/21,,,,,,,,772,,,,,,,10
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/06/21,05/06/21,,,,,,,,773,,,,,,,11
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/07/21,05/07/21,,,,,,,,774,,,,,,,11
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/10/21,05/10/21,,,,,,,,774,,,,,,,11
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/11/21,05/11/21,,,,,,,,774,,,,,,,9
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/12/21,05/12/21,,,,,,,,774,,,,,,,8
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/13/21,05/13/21,,,,,,,,774,,,,,,,6
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/14/21,05/14/21,,,,,,,,774,,,,,,,5
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/17/21,05/17/21,,,,,,,,775,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/18/21,05/18/21,,,,,,,,775,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/20/21,05/20/21,,,,,,,,775,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/21/21,05/21/21,,,,,,,,775,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/25/21,05/25/21,,,,,,,,775,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/26/21,05/26/21,,,,,,,,775,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,05/31/21,05/31/21,,,,,,,,776,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/01/21,06/01/21,,,,,,,,776,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/02/21,06/02/21,,,,,,,,776,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/03/21,06/03/21,,,,,,,,776,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/04/21,06/04/21,,,,,,,,776,,,,,,,1-4
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/07/21,06/07/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/08/21,06/08/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/09/21,06/09/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/10/21,06/10/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/11/21,06/11/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/14/21,06/14/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/15/21,06/15/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/16/21,06/16/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/20/21,06/20/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/21/21,06/21/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/22/21,06/22/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/24/21,06/24/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/28/21,06/28/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Wasatch District,Regular local school district,4901110,,Daily,06/29/21,06/29/21,,,,,,,,776,,,,,,,0
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/05/21,05/05/21,,,,,,,,439,,,,,,,9
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/06/21,05/06/21,,,,,,,,439,,,,,,,5
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/07/21,05/07/21,,,,,,,,439,,,,,,,5
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/10/21,05/10/21,,,,,,,,441,,,,,,,6
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/11/21,05/11/21,,,,,,,,443,,,,,,,5
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/12/21,05/12/21,,,,,,,,443,,,,,,,5
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/13/21,05/13/21,,,,,,,,444,,,,,,,6
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/14/21,05/14/21,,,,,,,,444,,,,,,,6
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/17/21,05/17/21,,,,,,,,445,,,,,,,6
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/18/21,05/18/21,,,,,,,,445,,,,,,,6
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/20/21,05/20/21,,,,,,,,445,,,,,,,5
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/21/21,05/21/21,,,,,,,,445,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/25/21,05/25/21,,,,,,,,446,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/26/21,05/26/21,,,,,,,,446,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,05/31/21,05/31/21,,,,,,,,447,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/01/21,06/01/21,,,,,,,,447,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/02/21,06/02/21,,,,,,,,447,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/03/21,06/03/21,,,,,,,,447,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/04/21,06/04/21,,,,,,,,447,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/07/21,06/07/21,,,,,,,,448,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/08/21,06/08/21,,,,,,,,448,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/09/21,06/09/21,,,,,,,,448,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/10/21,06/10/21,,,,,,,,448,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/11/21,06/11/21,,,,,,,,448,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/14/21,06/14/21,,,,,,,,448,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/15/21,06/15/21,,,,,,,,448,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/16/21,06/16/21,,,,,,,,448,,,,,,,1-4
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/20/21,06/20/21,,,,,,,,448,,,,,,,0
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/21/21,06/21/21,,,,,,,,448,,,,,,,0
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/22/21,06/22/21,,,,,,,,448,,,,,,,0
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/24/21,06/24/21,,,,,,,,449,,,,,,,0
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/28/21,06/28/21,,,,,,,,449,,,,,,,0
+Utah,UT,District,No,,,,Washington District,Regular local school district,4901140,,Daily,06/29/21,06/29/21,,,,,,,,449,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/05/21,05/05/21,,,,,,,,15,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/06/21,05/06/21,,,,,,,,15,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/07/21,05/07/21,,,,,,,,15,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/10/21,05/10/21,,,,,,,,15,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/11/21,05/11/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/12/21,05/12/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/13/21,05/13/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/14/21,05/14/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/17/21,05/17/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/18/21,05/18/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/20/21,05/20/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/21/21,05/21/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/25/21,05/25/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/26/21,05/26/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,05/31/21,05/31/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/01/21,06/01/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/02/21,06/02/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/03/21,06/03/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/04/21,06/04/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/07/21,06/07/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/08/21,06/08/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/09/21,06/09/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/10/21,06/10/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/11/21,06/11/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/14/21,06/14/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/15/21,06/15/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/16/21,06/16/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/20/21,06/20/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/21/21,06/21/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/22/21,06/22/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/24/21,06/24/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/28/21,06/28/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Wayne District,Regular local school district,4901170,,Daily,06/29/21,06/29/21,,,,,,,,16,,,,,,,0
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/05/21,05/05/21,,,,,,,,1514,,,,,,,16
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/06/21,05/06/21,,,,,,,,1515,,,,,,,16
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/07/21,05/07/21,,,,,,,,1516,,,,,,,13
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/10/21,05/10/21,,,,,,,,1519,,,,,,,13
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/11/21,05/11/21,,,,,,,,1522,,,,,,,13
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/12/21,05/12/21,,,,,,,,1529,,,,,,,16
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/13/21,05/13/21,,,,,,,,1533,,,,,,,17
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/14/21,05/14/21,,,,,,,,1533,,,,,,,17
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/17/21,05/17/21,,,,,,,,1535,,,,,,,18
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/18/21,05/18/21,,,,,,,,1537,,,,,,,20
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/20/21,05/20/21,,,,,,,,1541,,,,,,,19
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/21/21,05/21/21,,,,,,,,1545,,,,,,,19
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/25/21,05/25/21,,,,,,,,1553,,,,,,,17
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/26/21,05/26/21,,,,,,,,1556,,,,,,,16
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,05/31/21,05/31/21,,,,,,,,1558,,,,,,,11
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/01/21,06/01/21,,,,,,,,1558,,,,,,,9
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/02/21,06/02/21,,,,,,,,1560,,,,,,,10
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/03/21,06/03/21,,,,,,,,1562,,,,,,,12
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/04/21,06/04/21,,,,,,,,1564,,,,,,,13
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/07/21,06/07/21,,,,,,,,1566,,,,,,,11
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/08/21,06/08/21,,,,,,,,1571,,,,,,,13
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/09/21,06/09/21,,,,,,,,1571,,,,,,,11
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/10/21,06/10/21,,,,,,,,1571,,,,,,,11
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/11/21,06/11/21,,,,,,,,1572,,,,,,,11
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/14/21,06/14/21,,,,,,,,1572,,,,,,,9
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/15/21,06/15/21,,,,,,,,1572,,,,,,,8
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/16/21,06/16/21,,,,,,,,1574,,,,,,,8
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/20/21,06/20/21,,,,,,,,1574,,,,,,,1-4
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/21/21,06/21/21,,,,,,,,1574,,,,,,,1-4
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/22/21,06/22/21,,,,,,,,1574,,,,,,,1-4
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/24/21,06/24/21,,,,,,,,1575,,,,,,,1-4
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/28/21,06/28/21,,,,,,,,1576,,,,,,,1-4
+Utah,UT,District,No,,,,Weber District,Regular local school district,4901200,,Daily,06/29/21,06/29/21,,,,,,,,1576,,,,,,,1-4

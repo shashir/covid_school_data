@@ -1,0 +1,381 @@
+StateName,StateAbbrev,DataLevel,Charter,SchoolName,SchoolType,NCESSchoolID,DistrictName,DistrictType,NCESDistrictID,County,TimePeriodInterval,TimePeriodStart,TimePeriodEnd,NewCasesCombined,NewCasesStudents,NewCasesStaff,NewCasesUnknown,TwoWeekPeriodStaffStudentCasesCombined,TwoWeekPeriodCasesStudents,TwoWeekPeriodCasesStaff,CumulativeCasesCombined,CumulativeCasesStudents,CumulativeCasesStaff,CumulativeCasesUnknown,ActiveCasesStaff,ActiveCasesStudents,ActiveCasesUnknown,ActiveCasesCombined
+Maryland,MD,School,No,Applications and Research Laboratory,Other/alternative school,240042002949,,Regular local school district,2400420,,Weekly,05/12/21,05/19/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Applications and Research Laboratory,Other/alternative school,240042002949,,Regular local school district,2400420,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Bainbridge Elementary School,Regular school,240024000556,,Regular local school district,2400240,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Bainbridge Elementary School,Regular school,240024000556,,Regular local school district,2400240,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Bainbridge Elementary School,Regular school,240024000556,,Regular local school district,2400240,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Baltimore Design School,Regular school,240009001703,,Regular local school district,2400090,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Baltimore Design School,Regular school,240009001703,,Regular local school district,2400090,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,6
+Maryland,MD,School,Yes,Baltimore Montessori,Regular school,240009001657,,Regular local school district,2400090,,Weekly,01/06/21,01/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Barbara Ingram School,Regular school,240066001674,,Regular local school district,2400660,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Barbara Ingram School,Regular school,240066001674,,Regular local school district,2400660,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Beall Elementary School,Regular school,240003000003,,Regular local school district,2400030,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Beall Elementary School,Regular school,240003000003,,Regular local school district,2400030,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Beall Elementary School,Regular school,240003000003,,Regular local school district,2400030,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Beechfield Elementary/Middle School,Regular school,240009000155,,Regular local school district,2400090,,Weekly,12/09/20,12/16/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Bel Air Elementary School,Regular school,240003000005,,Regular local school district,2400030,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Bel Air Middle School,Regular school,240039001397,,Regular local school district,2400390,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Bel Air Middle School,Regular school,240039001397,,Regular local school district,2400390,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Bellows Spring Elementary School,Regular school,240042001551,,Regular local school district,2400420,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Berlin Intermediate School,Regular school,240072001323,,Regular local school district,2400720,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Berlin Intermediate School,Regular school,240072001323,,Regular local school district,2400720,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Bohemia Manor High School,Regular school,240024000558,,Regular local school district,2400240,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Bohemia Manor High School,Regular school,240024000558,,Regular local school district,2400240,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Boonsboro High School,Regular school,240066001256,,Regular local school district,2400660,,Weekly,03/03/21,03/10/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Boonsboro High School,Regular school,240066001256,,Regular local school district,2400660,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,7
+Maryland,MD,School,No,Boonsboro High School,Regular school,240066001256,,Regular local school district,2400660,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,10
+Maryland,MD,School,No,Boonsboro High School,Regular school,240066001256,,Regular local school district,2400660,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,13
+Maryland,MD,School,No,Boonsboro High School,Regular school,240066001256,,Regular local school district,2400660,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,14
+Maryland,MD,School,No,Boonsboro High School,Regular school,240066001256,,Regular local school district,2400660,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,14
+Maryland,MD,School,No,Boonsboro High School,Regular school,240066001256,,Regular local school district,2400660,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,16
+Maryland,MD,School,No,Boonsboro High School,Regular school,240066001256,,Regular local school district,2400660,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,17
+Maryland,MD,School,No,Brunswick High School,Regular school,240033000627,,Regular local school district,2400330,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Brunswick High School,Regular school,240033000627,,Regular local school district,2400330,,Weekly,05/12/21,05/19/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Brunswick Middle School,Regular school,240033001409,,Regular local school district,2400330,,Weekly,10/22/20,10/29/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Bryant's Wood Elementary School,Regular school,240042000720,,Regular local school district,2400420,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Bryant's Wood Elementary School,Regular school,240042000720,,Regular local school district,2400420,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Calvin M. Rodwell Elementary/Middle School,Regular school,240009001390,,Regular local school district,2400090,,Weekly,06/02/21,06/09/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Calvin M. Rodwell Elementary/Middle School,Regular school,240009001390,,Regular local school district,2400090,,Weekly,06/09/21,06/16/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Carroll County Career Technology Center,Vocational school,240021000979,,Regular local school district,2400210,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Carroll County Career Technology Center,Vocational school,240021000979,,Regular local school district,2400210,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Carroll Springs Elementary,Special education school,240021000527,,Regular local school district,2400210,,Weekly,02/03/21,02/10/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Carroll Springs Elementary,Special education school,240021000527,,Regular local school district,2400210,,Weekly,02/10/21,02/17/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Catoctin High School,Regular school,240033000629,,Regular local school district,2400330,,Weekly,02/10/21,02/17/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Catoctin High School,Regular school,240033000629,,Regular local school district,2400330,,Weekly,02/17/21,02/24/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Catonsville High School,Regular school,240012000355,,Regular local school district,2400120,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Catonsville High School,Regular school,240012000355,,Regular local school district,2400120,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Catonsville High School,Regular school,240012000355,,Regular local school district,2400120,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Catonsville High School,Regular school,240012000355,,Regular local school district,2400120,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Cecil County School of Technology,Vocational school,240024000984,,Regular local school district,2400240,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Cecil County School of Technology,Vocational school,240024000984,,Regular local school district,2400240,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Cecilton Elementary School,Regular school,240024000562,,Regular local school district,2400240,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Cecilton Elementary School,Regular school,240024000562,,Regular local school district,2400240,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Cedar Lane School,Special education school,240042001415,,Regular local school district,2400420,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Centreville Middle School,Regular school,240054001190,,Regular local school district,2400540,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Centreville Middle School,Regular school,240054001190,,Regular local school district,2400540,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Century High School,Regular school,240021001161,,Regular local school district,2400210,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Century High School,Regular school,240021001161,,Regular local school district,2400210,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Century High School,Regular school,240021001161,,Regular local school district,2400210,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Choptank Elementary School,Regular school,240030000841,,Regular local school district,2400300,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Choptank Elementary School,Regular school,240030000841,,Regular local school district,2400300,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,7
+Maryland,MD,School,No,Choptank Elementary School,Regular school,240030000841,,Regular local school district,2400300,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,12
+Maryland,MD,School,No,Chopticon High School,Regular school,240060001218,,Regular local school district,2400600,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Chopticon High School,Regular school,240060001218,,Regular local school district,2400600,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Clear Spring High School,Regular school,240066001260,,Regular local school district,2400660,,Weekly,10/29/20,11/05/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Clear Spring High School,Regular school,240066001260,,Regular local school district,2400660,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Clear Spring High School,Regular school,240066001260,,Regular local school district,2400660,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Clear Springs High School,Regular school,240066001260,,Regular local school district,2400660,,Weekly,10/22/20,10/29/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,College Garden Elementary,Regular school,240048000810,,Regular local school district,2400480,,Weekly,12/30/20,01/06/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,College Garden Elementary,Regular school,240048000810,,Regular local school district,2400480,,Weekly,01/06/21,01/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,College Garden Elementary,Regular school,240048000810,,Regular local school district,2400480,,Weekly,01/13/21,01/20/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,College Gardens Elementary,Regular school,240048000810,,Regular local school district,2400480,,Weekly,12/23/20,12/30/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Crisfield High School,Regular school,240057001201,,Regular local school district,2400570,,Weekly,05/12/21,05/19/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Crisfield High School,Regular school,240057001201,,Regular local school district,2400570,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Deer Crossing Elementary School,Regular school,240033000847,,Regular local school district,2400330,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Deer Crossing Elementary School,Regular school,240033000847,,Regular local school district,2400330,,Weekly,05/26/21,06/02/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Delmar Elementary School,Regular school,240069001300,,Regular local school district,2400690,,Weekly,11/11/20,11/18/20,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Delmar Elementary School,Regular school,240069001300,,Regular local school district,2400690,,Weekly,11/18/20,11/25/20,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Denton Elementary School,Regular school,240018000520,,Regular local school district,2400180,,Weekly,05/12/21,05/19/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Denton Elementary School,Regular school,240018000520,,Regular local school district,2400180,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Dynard Elementary School,Regular school,240060001219,,Regular local school district,2400600,,Weekly,05/12/21,05/19/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Dynard Elementary School,Regular school,240060001219,,Regular local school district,2400600,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,E. Russell Hicks Middle School,Regular school,240066001263,,Regular local school district,2400660,,Weekly,05/26/21,06/02/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,E. Russell Hicks Middle School,Regular school,240066001263,,Regular local school district,2400660,,Weekly,06/02/21,06/09/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,E. Russell Hicks Middle School,Regular school,240066001263,,Regular local school district,2400660,,Weekly,06/09/21,06/16/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Eastern Elementary School,Regular school,240066000418,,Regular local school district,2400660,,Weekly,10/22/20,10/29/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Eastern Elementary School,Regular school,240066000418,,Regular local school district,2400660,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Eastern Elementary School,Regular school,240066000418,,Regular local school district,2400660,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Eastern Technical High School,Vocational school,240012000379,,Regular local school district,2400120,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Eastern Technical High School,Vocational school,240012000379,,Regular local school district,2400120,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Eastern Technical High School,Vocational school,240012000379,,Regular local school district,2400120,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Eastern Technical High School,Vocational school,240012000379,,Regular local school district,2400120,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Esperanza Middle School,Regular school,240060001220,,Regular local school district,2400600,,Weekly,12/16/20,12/23/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Esperanza Middle School,Regular school,240060001220,,Regular local school district,2400600,,Weekly,12/23/20,12/30/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Esperanza Middle School,Regular school,240060001220,,Regular local school district,2400600,,Weekly,12/30/20,01/06/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Esperanza Middle School,Regular school,240060001220,,Regular local school district,2400600,,Weekly,01/06/21,01/13/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Fallston High School,Regular school,240039000691,,Regular local school district,2400390,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Forest Lakes Elementary School,Regular school,240039000692,,Regular local school district,2400390,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Forest Lakes Elementary School,Regular school,240039000692,,Regular local school district,2400390,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Forest Lakes Elementary School,Regular school,240039000692,,Regular local school district,2400390,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Forest Lakes Elementary School,Regular school,240039000692,,Regular local school district,2400390,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Forest Lakes Elementary School,Regular school,240039000692,,Regular local school district,2400390,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Francis Scott Key Elementary School,Regular school,240051001050,,Regular local school district,2400510,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Francis Scott Key Elementary School,Regular school,240051001050,,Regular local school district,2400510,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Frederick High School,Regular school,240033000632,,Regular local school district,2400330,,Weekly,12/09/20,12/16/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Frederick High School,Regular school,240033000632,,Regular local school district,2400330,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Frederick High School,Regular school,240033000632,,Regular local school district,2400330,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Frederick High School,Regular school,240033000632,,Regular local school district,2400330,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Friendship Valley Elementary,Regular school,240021000052,,Regular local school district,2400210,,Weekly,03/03/21,03/10/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Fulton Elementary School,Regular school,240042000859,,Regular local school district,2400420,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Fulton Elementary School,Regular school,240042000859,,Regular local school district,2400420,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Fulton Elementary School,Regular school,240042000859,,Regular local school district,2400420,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,8
+Maryland,MD,School,No,Fulton Elementary School,Regular school,240042000859,,Regular local school district,2400420,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,8
+Maryland,MD,School,No,Gilpin Manor Elementary School,Regular school,240024000569,,Regular local school district,2400240,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Gilpin Manor Elementary School,Regular school,240024000569,,Regular local school district,2400240,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Golden Ring Middle School,Regular school,240012001439,,Regular local school district,2400120,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Governor Thomas Johnson High School,Regular school,240033000634,,Regular local school district,2400330,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Governor Thomas Johnson High School,Regular school,240033000634,,Regular local school district,2400330,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Great Mills High School,Regular school,240060001224,,Regular local school district,2400600,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Great Mills High School,Regular school,240060001224,,Regular local school district,2400600,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Great Seneca Creek Elementary School,Regular school,240048001567,,Regular local school district,2400480,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Great Seneca Creek Elementary School,Regular school,240048001567,,Regular local school district,2400480,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Greensboro Elementary School,Regular school,240018000522,,Regular local school district,2400180,,Weekly,10/22/20,10/29/20,,,,,,,,,,,,,,,10
+Maryland,MD,School,No,Greensboro Elementary School,Regular school,240018000522,,Regular local school district,2400180,,Weekly,10/29/20,11/05/20,,,,,,,,,,,,,,,12
+Maryland,MD,School,No,Greenwood Elementary School,Regular school,240057001743,,Regular local school district,2400570,,Weekly,10/29/20,11/05/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Greenwood Elementary School,Regular school,240057001743,,Regular local school district,2400570,,Weekly,11/04/20,11/11/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Hagerstown High School,Regular school,240066001275,,Regular local school district,2400660,,Weekly,11/04/20,11/11/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Hammond High School,Regular school,240042000735,,Regular local school district,2400420,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Hancock Elementary School,Regular school,240066001269,,Regular local school district,2400660,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Hancock Elementary School,Regular school,240066001269,,Regular local school district,2400660,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Harford Technical High School,Vocational school,240039000694,,Regular local school district,2400390,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Harford Technical High School,Vocational school,240039000694,,Regular local school district,2400390,,Weekly,05/26/21,06/02/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Harlem Park,Regular school,240009000239,,Regular local school district,2400090,,Weekly,01/06/21,01/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Harlem Park,Regular school,240009000239,,Regular local school district,2400090,,Weekly,01/13/21,01/20/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Hebbville Elementary School,Regular school,240012000402,,Regular local school district,2400120,,Weekly,,,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Hickory Elementary School,Regular school,240066001271,,Regular local school district,2400660,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Hickory Elementary School,Regular school,240066001271,,Regular local school district,2400660,,Weekly,05/12/21,05/19/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Honey Go Elementary School,Regular school,240012001750,,Regular local school district,2400120,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Howard High School,Regular school,240042000738,,Regular local school district,2400420,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Howard High School,Regular school,240042000738,,Regular local school district,2400420,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Howard High School,Regular school,240042000738,,Regular local school district,2400420,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,James M. Bennett High,Regular school,240069001305,,Regular local school district,2400690,,Weekly,11/11/20,11/18/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,James M. Bennett High,Regular school,240069001305,,Regular local school district,2400690,,Weekly,11/18/20,11/25/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,John Archer School,Special education school,240039000703,,Regular local school district,2400390,,Weekly,11/18/20,11/25/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,John Archer School,Special education school,240039000703,,Regular local school district,2400390,,Weekly,11/25/20,12/02/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Joppatowne Elementary School,Regular school,240039000704,,Regular local school district,2400390,,Weekly,11/04/20,11/11/20,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Joppatowne Elementary School,Regular school,240039000704,,Regular local school district,2400390,,Weekly,11/11/20,11/18/20,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Kent County High School,Regular school,240045000768,,Regular local school district,2400450,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Kent County High School,Regular school,240045000768,,Regular local school district,2400450,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,Yes,KIPP Academy,Regular school,240009001681,,Regular local school district,2400090,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,Yes,KIPP Harmony Academy,Regular school,240009001681,,Regular local school district,2400090,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,Yes,KIPP Harmony Academy,Regular school,240009001681,,Regular local school district,2400090,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Leith Walk Elementary/Middle School,Regular school,240009000268,,Regular local school district,2400090,,Weekly,03/03/21,03/10/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Leith Walk Elementary/Middle School,Regular school,240009000268,,Regular local school district,2400090,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Leonardtown Middle School,Regular school,240060001229,,Regular local school district,2400600,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Leonardtown Middle School,Regular school,240060001229,,Regular local school district,2400600,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Leonardtown Middle School,Regular school,240060001229,,Regular local school district,2400600,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Liberty High School,Regular school,240021001394,,Regular local school district,2400210,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Lincolnshire Elementary,Regular school,240066001273,,Regular local school district,2400660,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Lincolnshire Elementary,Regular school,240066001273,,Regular local school district,2400660,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Lincolnshire Elementary School,Regular school,240066001273,,Regular local school district,2400660,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Lincolnshire Elementary School,Regular school,240066001273,,Regular local school district,2400660,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,13
+Maryland,MD,School,No,Lincolnshire Elementary School,Regular school,240066001273,,Regular local school district,2400660,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,19
+Maryland,MD,School,No,Lincolnshire Elementary School,Regular school,240066001273,,Regular local school district,2400660,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,19
+Maryland,MD,School,No,Linganore High School,Regular school,240033000638,,Regular local school district,2400330,,Weekly,12/09/20,12/16/20,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Logan Elementary School,Regular school,240012000421,,Regular local school district,2400120,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Logan Elementary School,Regular school,240012000421,,Regular local school district,2400120,,Weekly,05/26/21,06/02/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Mace's Lane Middle School,Regular school,240030001423,,Regular local school district,2400300,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Mace's Lane Middle School,Regular school,240030001423,,Regular local school district,2400300,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Mace's Lane Middle School,Regular school,240030001423,,Regular local school district,2400300,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,12
+Maryland,MD,School,No,Manchester Elementary School,Regular school,240021000536,,Regular local school district,2400210,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Manchester Valley High School,Regular school,240021001672,,Regular local school district,2400210,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Manchester Valley High School,Regular school,240021001672,,Regular local school district,2400210,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Manor Woods Elementary,Regular school,240042000488,,Regular local school district,2400420,,Weekly,10/29/20,11/05/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Manor Woods Elementary,Regular school,240042000488,,Regular local school district,2400420,,Weekly,11/04/20,11/11/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Manor Woods Elementary,Regular school,240042000488,,Regular local school district,2400420,,Weekly,11/11/20,11/18/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Marriotts Ridge High School,Regular school,240042001437,,Regular local school district,2400420,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Marriotts Ridge High School,Regular school,240042001437,,Regular local school district,2400420,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Matapeake Elementary School,Regular school,240054001557,,Regular local school district,2400540,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Matapeake Elementary School,Regular school,240054001557,,Regular local school district,2400540,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Mechanicsville Elementary School,Regular school,240021000537,,Regular local school district,2400210,,Weekly,02/24/21,03/03/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Mechanicsville Elementary School,Regular school,240021000537,,Regular local school district,2400210,,Weekly,03/03/21,03/10/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Mechanicsville Elementary School,Regular school,240021000537,,Regular local school district,2400210,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Mechanicsville Elementary School,Regular school,240021000537,,Regular local school district,2400210,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,7
+Maryland,MD,School,No,Middletown Elementary School,Regular school,240033000639,,Regular local school district,2400330,,Weekly,12/09/20,12/16/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Monarch Academy Annapolis,Regular school,240006001744,,Regular local school district,2400060,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Montgomery Blair High School,Regular school,240048000877,,Regular local school district,2400480,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Montgomery Blair High School,Regular school,240048000877,,Regular local school district,2400480,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Mt. Airy Elementary School,Regular school,240021000538,,Regular local school district,2400210,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Mt. Airy Elementary School,Regular school,240021000538,,Regular local school district,2400210,,Weekly,06/02/21,06/09/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,New Market Middle School,Regular school,240033001379,,Regular local school district,2400330,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,New Market Middle School,Regular school,240033001379,,Regular local school district,2400330,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,New Market Middle School,Regular school,240033001379,,Regular local school district,2400330,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,North Caroline High School,Regular school,240018000523,,Regular local school district,2400180,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,North Caroline High School,Regular school,240018000523,,Regular local school district,2400180,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,North Caroline High School,Regular school,240018000523,,Regular local school district,2400180,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,North Dorchester Middle School,Regular school,240030000619,,Regular local school district,2400300,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,North Dorchester Middle School,Regular school,240030000619,,Regular local school district,2400300,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,North Dorchester Middle School,Regular school,240030000619,,Regular local school district,2400300,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,North Dorchester Middle School,Regular school,240030000619,,Regular local school district,2400300,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,North Point High School,Regular school,240027001416,,Regular local school district,2400270,,Weekly,11/04/20,11/11/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,North Point High School,Regular school,240027001416,,Regular local school district,2400270,,Weekly,11/11/20,11/18/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Northern Middle School,Regular school,240036001351,,Regular local school district,2400360,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Northern Middle School,Regular school,240036001351,,Regular local school district,2400360,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Oakdale High School,Regular school,240033001688,,Regular local school district,2400330,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Oklahoma Rd Middle School,Regular school,240021000835,,Regular local school district,2400210,,Weekly,02/17/21,02/24/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Orchard Grove Elementary School,Regular school,240033000807,,Regular local school district,2400330,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Orchard Grove Elementary School,Regular school,240033000807,,Regular local school district,2400330,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Pangborn Elementary,Regular school,240066001278,,Regular local school district,2400660,,Weekly,11/04/20,11/11/20,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Pangborn Elementary,Regular school,240066001278,,Regular local school district,2400660,,Weekly,11/11/20,11/18/20,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Parkside High School,Regular school,240069001309,,Regular local school district,2400690,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Parkside High School,Regular school,240069001309,,Regular local school district,2400690,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Parr's Ridge Elementary,Regular school,240021001414,,Regular local school district,2400210,,Weekly,01/20/21,01/27/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Patapsco High School,Regular school,240012000444,,Regular local school district,2400120,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Patterson Mill Middle High School,Regular school,240039001642,,Regular local school district,2400390,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Patterson Mill Middle High School,Regular school,240039001642,,Regular local school district,2400390,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Paul Laurence Dunbar High School,Regular school,240009000298,,Regular local school district,2400090,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Paul Laurence Dunbar High School,Regular school,240009000298,,Regular local school district,2400090,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Perryville Elementary School,Regular school,240024000576,,Regular local school district,2400240,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Perryville Elementary School,Regular school,240024000576,,Regular local school district,2400240,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Pittsville Elementary & Middle School,Regular school,240069001312,,Regular local school district,2400690,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Pittsville Elementary & Middle School,Regular school,240069001312,,Regular local school district,2400690,,Weekly,05/12/21,05/19/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Pleasant Valley Elementary,Regular school,240066001280,,Regular local school district,2400660,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Pleasant Valley Elementary,Regular school,240066001280,,Regular local school district,2400660,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Quince Orchard High School,Regular school,240048001509,,Regular local school district,2400480,,Weekly,05/12/21,05/19/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Rachel Carson Elementary School,Regular school,240048090454,,Regular local school district,2400480,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Rachel Carson Elementary School,Regular school,240048090454,,Regular local school district,2400480,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Rachel Carson Elementary School,Regular school,240048090454,,Regular local school district,2400480,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Reach Partnership School,Regular school,240009001663,,Regular local school district,2400090,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Reach Partnership School,Regular school,240009001663,,Regular local school district,2400090,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Renaissance Academy,Regular school,240009001531,,Regular local school district,2400090,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Ring Factory Elementary School,Regular school,240039090447,,Regular local school district,2400390,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Ring Factory Elementary School,Regular school,240039090447,,Regular local school district,2400390,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Rising Sun High School,Regular school,240024090469,,Regular local school district,2400240,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Rising Sun High School,Regular school,240024090469,,Regular local school district,2400240,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Rising Sun High School,Regular school,240024090469,,Regular local school district,2400240,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Rising Sun High School,Regular school,240024090469,,Regular local school district,2400240,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,River Hill High School,Regular school,240042000816,,Regular local school district,2400420,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,River Hill High School,Regular school,240042000816,,Regular local school district,2400420,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Robert Moton Elementary,Regular school,240021000544,,Regular local school district,2400210,,Weekly,11/04/20,11/11/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Robert Moton Elementary,Regular school,240021000544,,Regular local school district,2400210,,Weekly,11/11/20,11/18/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Roland Park Country School,Regular school,240009000306,,Regular local school district,2400090,,Weekly,11/18/20,11/25/20,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Roland Park Elementary/Middle,Regular school,240009000306,,Regular local school district,2400090,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Roland Park Elementary/Middle,Regular school,240009000306,,Regular local school district,2400090,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Route 40 Elementary School,Regular school,240036000673,,Regular local school district,2400360,,Weekly,10/22/20,10/29/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Route 40 Elementary School,Regular school,240036000673,,Regular local school district,2400360,,Weekly,10/29/20,11/05/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Route 40 Elementary School,Regular school,240036000673,,Regular local school district,2400360,,Weekly,11/04/20,11/11/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Running Brook Elementary School,Regular school,240042000751,,Regular local school district,2400420,,Weekly,11/18/20,11/25/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Running Brook Elementary School,Regular school,240042000751,,Regular local school district,2400420,,Weekly,11/25/20,12/02/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Runnymede Elementary School,Regular school,240021000368,,Regular local school district,2400210,,Weekly,01/20/21,01/27/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Runnymede Elementary School,Regular school,240021000368,,Regular local school district,2400210,,Weekly,01/27/21,02/03/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Runnymede Elementary School,Regular school,240021000368,,Regular local school district,2400210,,Weekly,02/03/21,02/10/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Runnymede Elementary School,Regular school,240021000368,,Regular local school district,2400210,,Weekly,02/10/21,02/17/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Sabillasville Elementary School,Regular school,240033000648,,Regular local school district,2400330,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Sabillasville Elementary School,Regular school,240033000648,,Regular local school district,2400330,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Sandymount Elementary School,Regular school,240021000545,,Regular local school district,2400210,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Scotts Branch Elementary School,Regular school,240012000471,,Regular local school district,2400120,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Scotts Branch Elementary School,Regular school,240012000471,,Regular local school district,2400120,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Severn School,Regular school,240006000123,,Regular local school district,2400060,,Weekly,11/18/20,11/25/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Severn School,Regular school,240006000123,,Regular local school district,2400060,,Weekly,12/16/20,12/23/20,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Severn School,Regular school,240006000123,,Regular local school district,2400060,,Weekly,12/23/20,12/30/20,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Sherwood High School,Regular school,240048000921,,Regular local school district,2400480,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Smithsburg High School,Regular school,240066001285,,Regular local school district,2400660,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Smithsburg High School,Regular school,240066001285,,Regular local school district,2400660,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Smithsburg High School,Regular school,240066001285,,Regular local school district,2400660,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Smithsburg High School,Regular school,240066001285,,Regular local school district,2400660,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Smithsburg High School,Regular school,240066001285,,Regular local school district,2400660,,Weekly,06/02/21,06/09/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Snow Hill Middle School,Regular school,240072001333,,Regular local school district,2400720,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Snow Hill Middle School,Regular school,240072001333,,Regular local school district,2400720,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Snow Hill Middle School,Regular school,240072001333,,Regular local school district,2400720,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Somerset Intermediate School,Regular school,240057001377,,Regular local school district,2400570,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Somerset Intermediate School,Regular school,240057001377,,Regular local school district,2400570,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,South Carroll High School,Regular school,240021000546,,Regular local school district,2400210,,Weekly,02/17/21,02/24/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,South Carroll High School,Regular school,240021000546,,Regular local school district,2400210,,Weekly,02/24/21,03/03/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,South Hagerstown High School,Regular school,240066001288,,Regular local school district,2400660,,Weekly,11/11/20,11/18/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,South Hagerstown High School,Regular school,240066001288,,Regular local school district,2400660,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,South Hagerstown High School,Regular school,240066001288,,Regular local school district,2400660,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,South Hagerstown High School,Regular school,240066001288,,Regular local school district,2400660,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,South River High School,Regular school,240006000055,,Regular local school district,2400060,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,South River High School,Regular school,240006000055,,Regular local school district,2400060,,Weekly,05/26/21,06/02/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Sparrows Point High School,Regular school,240012000477,,Regular local school district,2400120,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Sparrow's Point High School,Regular school,240012000477,,Regular local school district,2400120,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Sparrow's Point High School,Regular school,240012000477,,Regular local school district,2400120,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Spring Ridge Middle School,Regular school,240060001237,,Regular local school district,2400600,,Weekly,02/17/21,02/24/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Spring Ridge Middle School,Regular school,240060001237,,Regular local school district,2400600,,Weekly,02/24/21,03/03/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Springfield Middle School,Regular school,240066001290,,Regular local school district,2400660,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Springfield Middle School,Regular school,240066001290,,Regular local school district,2400660,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Springfield Middle School,Regular school,240066001290,,Regular local school district,2400660,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Springfield Middle School,Regular school,240066001290,,Regular local school district,2400660,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,9
+Maryland,MD,School,No,Springfield Middle School,Regular school,240066001290,,Regular local school district,2400660,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,10
+Maryland,MD,School,No,Springfield Middle School,Regular school,240066001290,,Regular local school district,2400660,,Weekly,05/12/21,05/19/21,,,,,,,,,,,,,,,12
+Maryland,MD,School,No,Springfield Middle School,Regular school,240066001290,,Regular local school district,2400660,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,12
+Maryland,MD,School,No,Springfield Middle School,Regular school,240066001290,,Regular local school district,2400660,,Weekly,05/26/21,06/02/21,,,,,,,,,,,,,,,13
+Maryland,MD,School,No,Stephen Decatur High School,Regular school,240072001335,,Regular local school district,2400720,,Weekly,11/04/20,11/11/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Stephen Decatur High School,Regular school,240072001335,,Regular local school district,2400720,,Weekly,11/11/20,11/18/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Stephen Decatur High School,Regular school,240072001335,,Regular local school district,2400720,,Weekly,11/18/20,11/25/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Stephen Decatur High School,Regular school,240072001335,,Regular local school district,2400720,,Weekly,11/25/20,12/02/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Stephen Decatur High School,Regular school,240072001335,,Regular local school district,2400720,,Weekly,12/02/20,12/09/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Stephen Decatur High School,Regular school,240072001335,,Regular local school district,2400720,,Weekly,12/09/20,12/16/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Stephen Decatur High School,Regular school,240072001335,,Regular local school district,2400720,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Stephen Decatur High School,Regular school,240072001335,,Regular local school district,2400720,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Stephen Decatur High School,Regular school,240072001335,,Regular local school district,2400720,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,24
+Maryland,MD,School,No,Stephen Decatur High School,Regular school,240072001335,,Regular local school district,2400720,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,24
+Maryland,MD,School,No,Stephen Decatur High School,Regular school,240072001335,,Regular local school district,2400720,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,21
+Maryland,MD,School,No,Stephen Decatur High School,Regular school,240072001335,,Regular local school district,2400720,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,23
+Maryland,MD,School,No,Stephen Decatur Middle School,Regular school,240051001469,,Regular local school district,2400510,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Stephen Decatur Middle School,Regular school,240051001469,,Regular local school district,2400510,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Sudbrook Magnet Middle School,Regular school,240012000441,,Regular local school district,2400120,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Sudbrook Magnet Middle School,Regular school,240012000441,,Regular local school district,2400120,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Sunderland Elementary School,Regular school,240015001505,,Regular local school district,2400150,,Weekly,01/13/21,01/20/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Talbot Springs Elementary School,Regular school,240042000756,,Regular local school district,2400420,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Talbot Springs Elementary School,Regular school,240042000756,,Regular local school district,2400420,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Talbott Springs Elementary School,Regular school,240042000756,,Regular local school district,2400420,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,The SEED School,Regular school,240002701669,,State-operated agency,2400027,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,The SEED School,Regular school,240002701669,,State-operated agency,2400027,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,8
+Maryland,MD,School,No,The SEED School,Regular school,240002701669,,State-operated agency,2400027,,Weekly,05/12/21,05/19/21,,,,,,,,,,,,,,,9
+Maryland,MD,School,No,Thomson Estates Elementary School,Regular school,240024000581,,Regular local school district,2400240,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Towson High School,Regular school,240012000487,,Regular local school district,2400120,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,7
+Maryland,MD,School,No,Towson High School,Regular school,240012000487,,Regular local school district,2400120,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,7
+Maryland,MD,School,No,Tuscarora High School,Regular school,240033001550,,Regular local school district,2400330,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Urbana High School,Regular school,240033000616,,Regular local school district,2400330,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Urbana High School,Regular school,240033000616,,Regular local school district,2400330,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Vincent Farms Elementary School,Regular school,240012001653,,Regular local school district,2400120,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Vincent Farms Elementary School,Regular school,240012001653,,Regular local school district,2400120,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Walkersville High School,Regular school,240033000655,,Regular local school district,2400330,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Walkersville High School,Regular school,240033000655,,Regular local school district,2400330,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Walkersville High School,Regular school,240033000655,,Regular local school district,2400330,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Walkersville High School,Regular school,240033000655,,Regular local school district,2400330,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Walkersville High School,Regular school,240033000655,,Regular local school district,2400330,,Weekly,05/26/21,06/02/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Walt Whitman High School,Regular school,240048000941,,Regular local school district,2400480,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Walt Whitman High School,Regular school,240048000941,,Regular local school district,2400480,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Waverly Elementary School,Regular school,240042090449,,Regular local school district,2400420,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,West Frederick Middle School,Regular school,240033000658,,Regular local school district,2400330,,Weekly,12/16/20,12/23/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,West Frederick Middle School,Regular school,240033000658,,Regular local school district,2400330,,Weekly,12/23/20,12/30/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,West Frederick Middle School,Regular school,240033000658,,Regular local school district,2400330,,Weekly,03/03/21,03/10/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Western Heights Middle School,Regular school,240066001293,,Regular local school district,2400660,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Western Heights Middle School,Regular school,240066001293,,Regular local school district,2400660,,Weekly,05/26/21,06/02/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Westminster High School,Regular school,240021000552,,Regular local school district,2400210,,Weekly,03/03/21,03/10/21,,,,,,,,,,,,,,,7
+Maryland,MD,School,No,Westminster High School,Regular school,240021000552,,Regular local school district,2400210,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,7
+Maryland,MD,School,No,Westminster High School,Regular school,240021000552,,Regular local school district,2400210,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,9
+Maryland,MD,School,No,Westminster High School,Regular school,240021000552,,Regular local school district,2400210,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Westminster High School,Regular school,240021000552,,Regular local school district,2400210,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,White Marsh Elementary School,Regular school,240060001240,,Regular local school district,2400600,,Weekly,03/03/21,03/10/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,White Marsh Elementary School,Regular school,240060001240,,Regular local school district,2400600,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,White Marsh Elementary School,Regular school,240060001240,,Regular local school district,2400600,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,White Marsh Elementary School,Regular school,240060001240,,Regular local school district,2400600,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,William Winchester Elementary,Regular school,240021000554,,Regular local school district,2400210,,Weekly,01/20/21,01/27/21,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,William Winchester Elementary,Regular school,240021000554,,Regular local school district,2400210,,Weekly,01/27/21,02/03/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Williamsport High School,Regular school,240066001295,,Regular local school district,2400660,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Williamsport High School,Regular school,240066001295,,Regular local school district,2400660,,Weekly,03/31/21,04/07/21,,,,,,,,,,,,,,,13
+Maryland,MD,School,No,Williamsport High School,Regular school,240066001295,,Regular local school district,2400660,,Weekly,04/06/21,04/13/21,,,,,,,,,,,,,,,18
+Maryland,MD,School,No,Williamsport High School,Regular school,240066001295,,Regular local school district,2400660,,Weekly,04/14/21,04/21/21,,,,,,,,,,,,,,,22
+Maryland,MD,School,No,Williamsport High School,Regular school,240066001295,,Regular local school district,2400660,,Weekly,04/21/21,04/28/21,,,,,,,,,,,,,,,25
+Maryland,MD,School,No,Williamsport High School,Regular school,240066001295,,Regular local school district,2400660,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,30
+Maryland,MD,School,No,Williamsport High School,Regular school,240066001295,,Regular local school district,2400660,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,31
+Maryland,MD,School,No,Williamsport High School,Regular school,240066001295,,Regular local school district,2400660,,Weekly,05/12/21,05/19/21,,,,,,,,,,,,,,,32
+Maryland,MD,School,No,Williamsport High School,Regular school,240066001295,,Regular local school district,2400660,,Weekly,05/19/21,05/26/21,,,,,,,,,,,,,,,32
+Maryland,MD,School,No,Williamsport High School,Regular school,240066001295,,Regular local school district,2400660,,Weekly,05/26/21,06/02/21,,,,,,,,,,,,,,,33
+Maryland,MD,School,No,Windsor Knolls Middle School,Regular school,240033000392,,Regular local school district,2400330,,Weekly,12/16/20,12/23/20,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Windsor Knolls Middle School,Regular school,240033000392,,Regular local school district,2400330,,Weekly,12/23/20,12/30/20,,,,,,,,,,,,,,,4
+Maryland,MD,School,No,Windsor Knolls Middle School,Regular school,240033000392,,Regular local school district,2400330,,Weekly,01/06/21,01/13/21,,,,,,,,,,,,,,,8
+Maryland,MD,School,No,Windy Hill Elementary School,Regular school,240015000790,,Regular local school district,2400150,,Weekly,11/04/20,11/11/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Windy Hill Elementary School,Regular school,240015000790,,Regular local school district,2400150,,Weekly,11/11/20,11/18/20,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Winston Churchill High School,Regular school,240048000956,,Regular local school district,2400480,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Winston Churchill High School,Regular school,240048000956,,Regular local school district,2400480,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Winston Churchill High School,Regular school,240048000956,,Regular local school district,2400480,,Weekly,03/24/21,03/31/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Winters Mill High School,Regular school,240021001185,,Regular local school district,2400210,,Weekly,03/03/21,03/10/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Winters Mill High School,Regular school,240021001185,,Regular local school district,2400210,,Weekly,05/12/21,05/19/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Winter's Mill High School,Regular school,240021001185,,Regular local school district,2400210,,Weekly,03/10/21,03/17/21,,,,,,,,,,,,,,,2
+Maryland,MD,School,No,Winter's Mill High School,Regular school,240021001185,,Regular local school district,2400210,,Weekly,03/17/21,03/24/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Woodson Elementary School,Regular school,240057001535,,Regular local school district,2400570,,Weekly,10/29/20,11/05/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Woodson Elementary School,Regular school,240057001535,,Regular local school district,2400570,,Weekly,11/04/20,11/11/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Woodson Elementary School,Regular school,240057001535,,Regular local school district,2400570,,Weekly,11/11/20,11/18/20,,,,,,,,,,,,,,,5
+Maryland,MD,School,No,Woodson Elementary School,Regular school,240057001535,,Regular local school district,2400570,,Weekly,11/18/20,11/25/20,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Woodson Elementary School,Regular school,240057001535,,Regular local school district,2400570,,Weekly,11/25/20,12/02/20,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Woodson Elementary School,Regular school,240057001535,,Regular local school district,2400570,,Weekly,12/02/20,12/09/20,,,,,,,,,,,,,,,6
+Maryland,MD,School,No,Yough Glades Elementary,Regular school,240036000852,,Regular local school district,2400360,,Weekly,11/11/20,11/18/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Yough Glades Elementary,Regular school,240036000852,,Regular local school district,2400360,,Weekly,11/18/20,11/25/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Yough Glades Elementary,Regular school,240036000852,,Regular local school district,2400360,,Weekly,11/25/20,12/02/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Yough Glades Elementary,Regular school,240036000852,,Regular local school district,2400360,,Weekly,12/02/20,12/09/20,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Youth Benefit Elementary School,Regular school,240039000717,,Regular local school district,2400390,,Weekly,04/28/21,05/05/21,,,,,,,,,,,,,,,3
+Maryland,MD,School,No,Youth Benefit Elementary School,Regular school,240039000717,,Regular local school district,2400390,,Weekly,05/05/21,05/12/21,,,,,,,,,,,,,,,3

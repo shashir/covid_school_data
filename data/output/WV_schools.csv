@@ -1,0 +1,886 @@
+StateName,StateAbbrev,DataLevel,Charter,SchoolName,SchoolType,NCESSchoolID,DistrictName,DistrictType,NCESDistrictID,County,TimePeriodInterval,TimePeriodStart,TimePeriodEnd,NewCasesCombined,NewCasesStudents,NewCasesStaff,NewCasesUnknown,TwoWeekPeriodStaffStudentCasesCombined,TwoWeekPeriodCasesStudents,TwoWeekPeriodCasesStaff,CumulativeCasesCombined,CumulativeCasesStudents,CumulativeCasesStaff,CumulativeCasesUnknown,ActiveCasesStaff,ActiveCasesStudents,ActiveCasesUnknown,ActiveCasesCombined
+West Virginia,WV,School,Not applicable,Andrew Jackson Middle School,Regular school,540060000355,,Regular local school district,5400600,,Biweekly,04/19/21,05/03/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Andrew Jackson Middle School,Regular school,540060000355,,Regular local school district,5400600,,Biweekly,04/23/21,05/07/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Andrew Jackson Middle School,Regular school,540060000355,,Regular local school district,5400600,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Andrew Jackson Middle School EX,Regular school,540060000355,,Regular local school district,5400600,,Biweekly,03/22/21,04/05/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Andrew Jackson Middle School EX,Regular school,540060000355,,Regular local school district,5400600,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Andrew Jackson Middle School EX,Regular school,540060000355,,Regular local school district,5400600,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Andrew Jackson Middle School EX,Regular school,540060000355,,Regular local school district,5400600,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Beckley-Stratton Middle School,Regular school,540123000940,,Regular local school district,5401230,,Biweekly,11/05/20,11/19/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Belington Middle School,Regular school,540003000002,,Regular local school district,5400030,,Biweekly,11/04/20,11/18/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Belington Middle School,Regular school,540003000002,,Regular local school district,5400030,,Biweekly,11/25/20,12/09/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Belington Middle School,Regular school,540003000002,,Regular local school district,5400030,,Biweekly,12/02/20,12/16/20,,,,,,,,,,,,,,,26
+West Virginia,WV,School,Not applicable,Belington Middle School,Regular school,540003000002,,Regular local school district,5400030,,Biweekly,12/04/20,12/18/20,,,,,,,,,,,,,,,26
+West Virginia,WV,School,Not applicable,Belle Elementary School,Regular school,540060000359,,Regular local school district,5400600,,Biweekly,11/30/20,12/14/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Belle Elementary School,Regular school,540060000359,,Regular local school district,5400600,,Biweekly,12/01/20,12/15/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Belle Elementary School,Regular school,540060000359,,Regular local school district,5400600,,Biweekly,12/06/20,12/20/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Berkeley Heights Elementary,Regular school,540006001222,,Regular local school district,5400060,,Biweekly,04/06/21,04/20/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Berkeley Heights Elementary School,Regular school,540006001222,,Regular local school district,5400060,,Biweekly,04/06/21,04/20/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Berkeley Springs High School,Regular school,540099000819,,Regular local school district,5400990,,Biweekly,03/07/21,03/21/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Berkeley Springs High School EX,Regular school,540099000819,,Regular local school district,5400990,,Biweekly,03/07/21,03/21/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Blackshere Elementary School,Regular school,540072000104,,Regular local school district,5400720,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Blackshere Elementary School,Regular school,540072000104,,Regular local school district,5400720,,Biweekly,03/29/21,04/12/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Blackshere Elementary School,Regular school,540072000104,,Regular local school district,5400720,,Biweekly,04/06/21,04/20/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Blennerhassett Elementary School,Regular school,540162001142,,Regular local school district,5401620,,Biweekly,03/01/21,03/15/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Blennerhassett Elementary School EX,Regular school,540162001142,,Regular local school district,5401620,,Biweekly,03/01/21,03/15/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Blennerhassett Middle School,Regular school,540162001365,,Regular local school district,5401620,,Biweekly,04/20/21,05/04/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Blennerhassett Middle School,Regular school,540162001365,,Regular local school district,5401620,,Biweekly,04/23/21,05/07/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Blennerhassett Middle School,Regular school,540162001365,,Regular local school district,5401620,,Biweekly,04/28/21,05/12/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Bluefield High School,Regular school,540084000674,,Regular local school district,5400840,,Biweekly,10/02/20,10/16/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Bluefield Middle School,Regular school,540084000737,,Regular local school district,5400840,,Biweekly,03/11/21,03/25/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Braxton County High School,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,10/13/20,10/27/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Braxton County High School,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,10/15/20,10/29/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Braxton County High School,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,Braxton County High School,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,03/11/21,03/25/21,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,Braxton County High School,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,Braxton County High School,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,03/16/21,03/30/21,,,,,,,,,,,,,,,21
+West Virginia,WV,School,Not applicable,Braxton County High School,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,21
+West Virginia,WV,School,Not applicable,Braxton County High School,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,21
+West Virginia,WV,School,Not applicable,Braxton County High School EX,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,03/02/21,03/16/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Braxton County High School EX,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Braxton County High School EX,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Braxton County High School EX,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Braxton County High School EX,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Braxton County High School EX,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,03/11/21,03/25/21,,,,,,,,,,,,,,,15
+West Virginia,WV,School,Not applicable,Braxton County School,Regular school,540012000061,,Regular local school district,5400120,,Biweekly,04/19/21,05/03/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Braxton Middle School EX,Regular school,540012000006,,Regular local school district,5400120,,Biweekly,04/19/21,05/03/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Braxton Middle School EX,Regular school,540012000006,,Regular local school district,5400120,,Biweekly,04/25/21,05/09/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Braxton Middle School EX,Regular school,540012000006,,Regular local school district,5400120,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Bridge/Clendenin Elementary,Regular school,540060000376,,Regular local school district,5400600,,Biweekly,11/01/20,11/15/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Brucetone Elementary/Middle School,Regular school,540117000901,,Regular local school district,5401170,,Biweekly,02/22/21,03/08/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Brucetone School (Pre-K-8),Regular school,540117000901,,Regular local school district,5401170,,Biweekly,02/22/21,03/08/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Brucetone School (Pre-K-8),Regular school,540117000901,,Regular local school district,5401170,,Biweekly,03/01/21,03/15/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Brucetone School (Pre-K-8),Regular school,540117000901,,Regular local school district,5401170,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Brucetone School (Pre-K-8),Regular school,540117000901,,Regular local school district,5401170,,Biweekly,03/11/21,03/25/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Buckhannon-Upshur High School,Regular school,540147001078,,Regular local school district,5401470,,Biweekly,10/14/20,10/28/20,,,,,,,,,,,,,,,16
+West Virginia,WV,School,Not applicable,Buckhannon-Upshur High School,Regular school,540147001078,,Regular local school district,5401470,,Biweekly,10/15/20,10/29/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Buckhannon-Upshur High School,Regular school,540147001078,,Regular local school district,5401470,,Biweekly,10/18/20,11/01/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Buckhannon-Upshur High School,Regular school,540147001078,,Regular local school district,5401470,,Biweekly,10/19/20,11/02/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Buckhannon-Upshur High School,Regular school,540147001078,,Regular local school district,5401470,,Biweekly,10/23/20,11/06/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Buckhannon-Upshur High School,Regular school,540147001078,,Regular local school district,5401470,,Biweekly,10/27/20,11/10/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Buckhannon-Upshur High School,Regular school,540147001078,,Regular local school district,5401470,,Biweekly,11/01/20,11/15/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Buffalo Elementary School,Regular school,540069000506,,Regular local school district,5400690,,Biweekly,11/20/20,12/04/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Buffalo Elementary School,Regular school,540069000506,,Regular local school district,5400690,,Biweekly,11/23/20,12/07/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Buffalo Elementary School,Regular school,540069000506,,Regular local school district,5400690,,Biweekly,11/27/20,12/11/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Buffalo Elementary School,Regular school,540069000506,,Regular local school district,5400690,,Biweekly,12/01/20,12/15/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Buffalo High School EX,Regular school,540120000919,,Regular local school district,5401200,,Biweekly,04/23/21,05/07/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Buffalo High School EX,Regular school,540120000919,,Regular local school district,5401200,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Buffalo Middle EX,Regular school,540150001294,,Regular local school district,5401500,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Buffalo Middle School,Regular school,540150001294,,Regular local school district,5401500,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Buffalo Middle School,Regular school,540150001294,,Regular local school district,5401500,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Buffalo Middle School,Regular school,540150001294,,Regular local school district,5401500,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Buffalo Middle School,Regular school,540150001294,,Regular local school district,5401500,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Buffalo Middle School,Regular school,540150001294,,Regular local school district,5401500,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Buffalo Middle School EX,Regular school,540150001294,,Regular local school district,5401500,,Biweekly,03/06/21,03/20/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Buffalo Middle School EX,Regular school,540150001294,,Regular local school district,5401500,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Cabell Midland High School,Regular school,540018000686,,Regular local school district,5400180,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Cabell Midland High School,Regular school,540018000686,,Regular local school district,5400180,,Biweekly,03/14/21,03/28/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Cabell Midland High School,Regular school,540018000686,,Regular local school district,5400180,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Cabell Midland High School,Regular school,540018000686,,Regular local school district,5400180,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Cabell Midland High School,Regular school,540018000686,,Regular local school district,5400180,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Cabell Midland High School,Regular school,540018000686,,Regular local school district,5400180,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Calhoun Middle/High School,Regular school,540021000142,,Regular local school district,5400210,,Biweekly,04/23/21,05/07/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Calhoun Middle/High School,Regular school,540021000142,,Regular local school district,5400210,,Biweekly,04/28/21,05/12/21,,,,,,,,,,,,,,,18
+West Virginia,WV,School,Not applicable,Calhoun Middle/High School,Regular school,540021000142,,Regular local school district,5400210,,Biweekly,05/03/21,05/17/21,,,,,,,,,,,,,,,22
+West Virginia,WV,School,Not applicable,Calhoun Middle/High School,Regular school,540021000142,,Regular local school district,5400210,,Biweekly,05/06/21,05/20/21,,,,,,,,,,,,,,,23
+West Virginia,WV,School,Not applicable,Calhoun Middle/High School,Regular school,540021000142,,Regular local school district,5400210,,Biweekly,05/11/21,05/25/21,,,,,,,,,,,,,,,23
+West Virginia,WV,School,Not applicable,Calhoun Middle/High School,Regular school,540021000142,,Regular local school district,5400210,,Biweekly,05/14/21,05/28/21,,,,,,,,,,,,,,,23
+West Virginia,WV,School,Not applicable,Cameron Elementary School,Regular school,540075000588,,Regular local school district,5400750,,Biweekly,10/12/20,10/26/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Cameron Elementary School,Regular school,540075000588,,Regular local school district,5400750,,Biweekly,10/22/20,11/05/20,,,,,,,,,,,,,,,24
+West Virginia,WV,School,Not applicable,Cameron Elementary School,Regular school,540075000588,,Regular local school district,5400750,,Biweekly,10/28/20,11/11/20,,,,,,,,,,,,,,,24
+West Virginia,WV,School,Not applicable,Cameron Elementary School,Regular school,540075000588,,Regular local school district,5400750,,Biweekly,11/02/20,11/16/20,,,,,,,,,,,,,,,24
+West Virginia,WV,School,Not applicable,Capital High School,Regular school,540060001443,,Regular local school district,5400600,,Biweekly,11/02/20,11/16/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Capital High School,Regular school,540060001443,,Regular local school district,5400600,,Biweekly,11/03/20,11/17/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Capital High School,Regular school,540060001443,,Regular local school district,5400600,,Biweekly,11/04/20,11/18/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Capital High School,Regular school,540060001443,,Regular local school district,5400600,,Biweekly,11/09/20,11/23/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Capital High School,Regular school,540060001443,,Regular local school district,5400600,,Biweekly,11/17/20,12/01/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Capital High School,Regular school,540060001443,,Regular local school district,5400600,,Biweekly,11/17/20,12/01/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Capital High School,Regular school,540060001443,,Regular local school district,5400600,,Biweekly,11/23/20,12/07/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Capital High School,Regular school,540060001443,,Regular local school district,5400600,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Capital High School,Regular school,540060001443,,Regular local school district,5400600,,Biweekly,04/01/21,04/15/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Capital High School,Regular school,540060001443,,Regular local school district,5400600,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Capital High School,Regular school,540060001443,,Regular local school district,5400600,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Capital High School,Regular school,540060001443,,Regular local school district,5400600,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Capital High School,Regular school,540060001443,,Regular local school district,5400600,,Biweekly,04/14/21,04/28/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Capon Bridge Elementary School,Regular school,540042000245,,Regular local school district,5400420,,Biweekly,11/25/20,12/09/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Capon Bridge Elementary School,Regular school,540042000245,,Regular local school district,5400420,,Biweekly,11/30/20,12/14/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Cedar Grove Middle School,Regular school,540060001252,,Regular local school district,5400600,,Biweekly,03/23/21,04/06/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Cedar Grove Middle School,Regular school,540060001252,,Regular local school district,5400600,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Cedar Grove Middle School,Regular school,540060001252,,Regular local school district,5400600,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Cedar Grove Middle School,Regular school,540060001252,,Regular local school district,5400600,,Biweekly,05/16/21,05/30/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Central City Elementary,Regular school,540018000938,,Regular local school district,5400180,,Biweekly,03/23/21,04/06/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Central City Elementary,Regular school,540018000938,,Regular local school district,5400180,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Central City Elementary,Regular school,540018000938,,Regular local school district,5400180,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Central City Elementary,Regular school,540018000938,,Regular local school district,5400180,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Chamberlain Elementary,Regular school,540060000371,,Regular local school district,5400600,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Chamberlain Elementary School,Regular school,540060000371,,Regular local school district,5400600,,Biweekly,03/14/21,03/28/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Chamberlain Elementary School,Regular school,540060000371,,Regular local school district,5400600,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Chamberlain Elementary School,Regular school,540060000371,,Regular local school district,5400600,,Biweekly,03/16/21,03/30/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Chamberlain Elementary School,Regular school,540060000371,,Regular local school district,5400600,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Chamberlain Elementary School,Regular school,540060000371,,Regular local school district,5400600,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Champanville Intermediate,Regular school,540069001590,,Regular local school district,5400690,,Biweekly,01/24/21,02/07/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Champanville Intermediate,Regular school,540069001590,,Regular local school district,5400690,,Biweekly,01/25/21,02/08/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Champanville Intermediate,Regular school,540069001590,,Regular local school district,5400690,,Biweekly,01/29/21,02/12/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Champanville Intermediate,Regular school,540069001590,,Regular local school district,5400690,,Biweekly,02/04/21,02/18/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Chapanville Intermediate,Regular school,540069001590,,Regular local school district,5400690,,Biweekly,02/04/21,02/18/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Chapanville Intermediate,Regular school,540069001590,,Regular local school district,5400690,,Biweekly,02/10/21,02/24/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Chapmanville High School,Regular school,540069000508,,Regular local school district,5400690,,Biweekly,02/26/21,03/12/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Chapmanville High School,Regular school,540069000508,,Regular local school district,5400690,,Biweekly,03/01/21,03/15/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Chapmanville High School EX,Regular school,540069000508,,Regular local school district,5400690,,Biweekly,03/02/21,03/16/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Chapmanville High School EX,Regular school,540069000508,,Regular local school district,5400690,,Biweekly,03/03/21,03/17/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Chapmanville High School EX,Regular school,540069000508,,Regular local school district,5400690,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Chapmanville High School EX,Regular school,540069000508,,Regular local school district,5400690,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Chapmanville High School EX,Regular school,540069000508,,Regular local school district,5400690,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Chapmanville High School EX,Regular school,540069000508,,Regular local school district,5400690,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Chapmanville Intermediate,Regular school,540069001590,,Regular local school district,5400690,,Biweekly,02/17/21,03/03/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Chapmanville Middle School,Regular school,540069000729,,Regular local school district,5400690,,Biweekly,10/27/20,11/10/20,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Chapmanville Middle School,Regular school,540069000729,,Regular local school district,5400690,,Biweekly,10/30/20,11/13/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Chapmanville Middle School,Regular school,540069000729,,Regular local school district,5400690,,Biweekly,11/04/20,11/18/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Chapmanville Middle School,Regular school,540069000729,,Regular local school district,5400690,,Biweekly,11/09/20,11/23/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Chapmanville Middle School,Regular school,540069000729,,Regular local school district,5400690,,Biweekly,11/16/20,11/30/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Chapmanville Middle School,Regular school,540069000729,,Regular local school district,5400690,,Biweekly,04/19/21,05/03/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Chapmanville Middle School,Regular school,540069000729,,Regular local school district,5400690,,Biweekly,04/25/21,05/09/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Chapmanville Middle School,Regular school,540069000729,,Regular local school district,5400690,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Clay County High School,Regular school,540024000147,,Regular local school district,5400240,,Biweekly,10/22/20,11/05/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Clay County High School,Regular school,540024000147,,Regular local school district,5400240,,Biweekly,10/26/20,11/09/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Clay County High School,Regular school,540024000147,,Regular local school district,5400240,,Biweekly,10/27/20,11/10/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Clay County Middle School,Regular school,540024000030,,Regular local school district,5400240,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,0
+West Virginia,WV,School,Not applicable,Clay Middle School,Regular school,540024000030,,Regular local school district,5400240,,Biweekly,11/01/20,11/15/20,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Clay Middle School,Regular school,540024000030,,Regular local school district,5400240,,Biweekly,11/03/20,11/17/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Creed Collins Elementary School,Regular school,540129001018,,Regular local school district,5401290,,Biweekly,11/15/20,11/29/20,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Davis Stuart School,Other/alternative school,540051100796,,State-operated agency,5400511,,Biweekly,11/20/20,12/04/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Davis Stuart School,Other/alternative school,540051100796,,State-operated agency,5400511,,Biweekly,11/25/20,12/09/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Davis Stuart School,Other/alternative school,540051100796,,State-operated agency,5400511,,Biweekly,11/26/20,12/10/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Davis Thomas Elementary Middle School,Regular school,540141001067,,Regular local school district,5401410,,Biweekly,10/09/20,10/23/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Doddridge Co Middle School,Regular school,540027000043,,Regular local school district,5400270,,Biweekly,03/23/21,04/06/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Doddridge Co Middle School,Regular school,540027000043,,Regular local school district,5400270,,Biweekly,03/26/21,04/09/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Doddridge Co Middle School,Regular school,540027000043,,Regular local school district,5400270,,Biweekly,03/31/21,04/14/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Doddridge Co. High School,Regular school,540027000159,,Regular local school district,5400270,,Biweekly,03/03/21,03/17/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Doddridge Co. High School,Regular school,540027000159,,Regular local school district,5400270,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Doddridge Co. High School,Regular school,540027000159,,Regular local school district,5400270,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Doddridge Co. High School,Regular school,540027000159,,Regular local school district,5400270,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Doddridge Co. High School,Regular school,540027000159,,Regular local school district,5400270,,Biweekly,03/16/21,03/30/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Doddridge Co. High School EX,Regular school,540027000159,,Regular local school district,5400270,,Biweekly,02/25/21,03/11/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Doddridge Co. High School EX,Regular school,540027000159,,Regular local school district,5400270,,Biweekly,03/03/21,03/17/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Doddridge County Elementary School,Regular school,540027001059,,Regular local school district,5400270,,Biweekly,11/29/20,12/13/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Doddridge County Elementary School,Regular school,540027001059,,Regular local school district,5400270,,Biweekly,11/30/20,12/14/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Doddridge County Elementary School,Regular school,540027001059,,Regular local school district,5400270,,Biweekly,12/21/20,01/04/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Doddridge County High School,Regular school,540027000159,,Regular local school district,5400270,,Biweekly,02/25/21,03/11/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Doddridge County High School,Regular school,540027000159,,Regular local school district,5400270,,Biweekly,03/03/21,03/17/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Doddridge County High School,Regular school,540027000159,,Regular local school district,5400270,,Biweekly,04/13/21,04/27/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Doddridge County High School,Regular school,540027000159,,Regular local school district,5400270,,Biweekly,04/19/21,05/03/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Doddridge County High School,Regular school,540027000159,,Regular local school district,5400270,,Biweekly,04/28/21,05/12/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Dunbar Intermediate,Regular school,540060001124,,Regular local school district,5400600,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Dunbar Intermediate,Regular school,540060001124,,Regular local school district,5400600,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Dunbar Intermediate,Regular school,540060001124,,Regular local school district,5400600,,Biweekly,04/14/21,04/28/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Dunbar Middle School,Regular school,540060000382,,Regular local school district,5400600,,Biweekly,12/08/20,12/22/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Dunbar Middle School,Regular school,540060000382,,Regular local school district,5400600,,Biweekly,12/12/20,12/26/20,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Dunbar Middle School,Regular school,540060000382,,Regular local school district,5400600,,Biweekly,12/14/20,12/28/20,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,Dunbar Middle School,Regular school,540060000382,,Regular local school district,5400600,,Biweekly,12/18/20,01/01/21,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,Dunbar Middle School,Regular school,540060000382,,Regular local school district,5400600,,Biweekly,12/22/20,01/05/21,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,Duval Middle School,Regular school,540066001236,,Regular local school district,5400660,,Biweekly,03/02/21,03/16/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Duval Middle School EX,Regular school,540066001236,,Regular local school district,5400660,,Biweekly,03/03/21,03/17/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Duval Middle School EX,Regular school,540066001236,,Regular local school district,5400660,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Duval Middle School EX,Regular school,540066001236,,Regular local school district,5400660,,Biweekly,03/05/21,03/19/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Duval Middle School EX,Regular school,540066001236,,Regular local school district,5400660,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Duval Middle School EX,Regular school,540066001236,,Regular local school district,5400660,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Duval Middle School EX,Regular school,540066001236,,Regular local school district,5400660,,Biweekly,03/11/21,03/25/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Duval Middle School Girls EX,Regular school,540066001236,,Regular local school district,5400660,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,East Bank Middle School,Regular school,540060000386,,Regular local school district,5400600,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,East Bank Middle School,Regular school,540060000386,,Regular local school district,5400600,,Biweekly,04/14/21,04/28/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,East Bank Middle School,Regular school,540060000386,,Regular local school district,5400600,,Biweekly,04/15/21,04/29/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,East Fairmont High School,Regular school,540072000551,,Regular local school district,5400720,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,East Fairmont High School,Regular school,540072000551,,Regular local school district,5400720,,Biweekly,03/16/21,03/30/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,East Fairmont High School,Regular school,540072000551,,Regular local school district,5400720,,Biweekly,03/22/21,04/05/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,East Fairmont Middle School,Regular school,540072000627,,Regular local school district,5400720,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,East Fairmont Middle School,Regular school,540072000627,,Regular local school district,5400720,,Biweekly,03/22/21,04/05/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,East Hardy Early Middle School,Regular school,540048000056,,Regular local school district,5400480,,Biweekly,04/23/21,05/07/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,East Hardy High School,Regular school,540048001279,,Regular local school district,5400480,,Biweekly,02/23/21,03/09/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,East Hardy Middle School,Regular school,540048000056,,Regular local school district,5400480,,Biweekly,02/22/21,03/08/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,East Hardy Middle School,Regular school,540048000056,,Regular local school district,5400480,,Biweekly,02/22/21,03/08/21,,,,,,,,,,,,,,,0
+West Virginia,WV,School,Not applicable,East Park Elementary School,Regular school,540072000552,,Regular local school district,5400720,,Biweekly,11/11/20,11/25/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,East Park Elementary School,Regular school,540072000552,,Regular local school district,5400720,,Biweekly,11/24/20,12/08/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,East Park Elementary School,Regular school,540072000552,,Regular local school district,5400720,,Biweekly,12/27/20,01/10/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Eastbank Middle School,Regular school,540060000386,,Regular local school district,5400600,,Biweekly,11/06/20,11/20/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Eastbank Middle School,Regular school,540060000386,,Regular local school district,5400600,,Biweekly,11/09/20,11/23/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Edison Middle School,Regular school,540162001148,,Regular local school district,5401620,,Biweekly,10/21/20,11/04/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Edison Middle School,Regular school,540162001148,,Regular local school district,5401620,,Biweekly,10/29/20,11/12/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Edison Middle School,Regular school,540162001148,,Regular local school district,5401620,,Biweekly,11/30/20,12/14/20,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Edison Middle School,Regular school,540162001148,,Regular local school district,5401620,,Biweekly,12/02/20,12/16/20,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Edison Middle School,Regular school,540162001148,,Regular local school district,5401620,,Biweekly,12/08/20,12/22/20,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Edison Middle School,Regular school,540162001148,,Regular local school district,5401620,,Biweekly,12/16/20,12/30/20,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Elk Center Elementary,Regular school,540060000060,,Regular local school district,5400600,,Biweekly,03/29/21,04/12/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Elk Center Elementary,Regular school,540060000060,,Regular local school district,5400600,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Elk Center Elementary,Regular school,540060000060,,Regular local school district,5400600,,Biweekly,04/01/21,04/15/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Elk Center Elementary,Regular school,540060000060,,Regular local school district,5400600,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Elk Garden Primary,Regular school,540087001346,,Regular local school district,5400870,,Biweekly,03/26/21,04/09/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Elk Garden Primary,Regular school,540087001346,,Regular local school district,5400870,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,Elk Garden Primary,Regular school,540087001346,,Regular local school district,5400870,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Elkview Middle School,Regular school,540060000390,,Regular local school district,5400600,,Biweekly,11/02/20,11/16/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Elkview Middle School,Regular school,540060000390,,Regular local school district,5400600,,Biweekly,11/03/20,11/17/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Elkview Middle School,Regular school,540060000390,,Regular local school district,5400600,,Biweekly,11/09/20,11/23/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Elkview Middle School,Regular school,540060000390,,Regular local school district,5400600,,Biweekly,11/10/20,11/24/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Elkview Middle School,Regular school,540060000390,,Regular local school district,5400600,,Biweekly,12/15/20,12/29/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Elkview Middle School,Regular school,540060000390,,Regular local school district,5400600,,Biweekly,04/01/21,04/15/21,,,,,,,,,,,,,,,9
+West Virginia,WV,School,Not applicable,Elkview Middle School,Regular school,540060000390,,Regular local school district,5400600,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,Elkview Middle School,Regular school,540060000390,,Regular local school district,5400600,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Elkview Middle School,Regular school,540060000390,,Regular local school district,5400600,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,Elkview Middle School,Regular school,540060000390,,Regular local school district,5400600,,Biweekly,04/14/21,04/28/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,Evans Elementary School,Regular school,540054000328,,Regular local school district,5400540,,Biweekly,04/25/21,05/09/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Evans Elementary School,Regular school,540054000328,,Regular local school district,5400540,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Evans Elementary School,Regular school,540054000328,,Regular local school district,5400540,,Biweekly,05/04/21,05/18/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Fairmont East High School,Regular school,540072000551,,Regular local school district,5400720,,Biweekly,01/27/21,02/10/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Fairmont East High School,Regular school,540072000551,,Regular local school district,5400720,,Biweekly,02/03/21,02/17/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Fairmont East High School,Regular school,540072000551,,Regular local school district,5400720,,Biweekly,02/08/21,02/22/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Fairmont East High School,Regular school,540072000551,,Regular local school district,5400720,,Biweekly,02/09/21,02/23/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Fairmont Senior High School,Regular school,540072000553,,Regular local school district,5400720,,Biweekly,04/06/21,04/20/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Fairplains Elementary School,Regular school,540162001150,,Regular local school district,5401620,,Biweekly,04/25/21,05/09/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Fairplains Elementary School,Regular school,540162001150,,Regular local school district,5401620,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Fairplains Elementary School,Regular school,540162001150,,Regular local school district,5401620,,Biweekly,05/04/21,05/18/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Frankfort High School,Regular school,540087000717,,Regular local school district,5400870,,Biweekly,04/29/21,05/13/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Frankfort High School,Regular school,540087000717,,Regular local school district,5400870,,Biweekly,05/03/21,05/17/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Frankfort High School,Regular school,540087000717,,Regular local school district,5400870,,Biweekly,05/10/21,05/24/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Franklin Elementary School,Regular school,540162000679,,Regular local school district,5401620,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Franklin Elementary School,Regular school,540162000679,,Regular local school district,5401620,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Garnet Career Center,Vocational school,540060001535,,Regular local school district,5400600,,Biweekly,10/19/20,11/02/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Garnet Career Center,Vocational school,540060001535,,Regular local school district,5400600,,Biweekly,10/23/20,11/06/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Garnet Career Center,Vocational school,540060001535,,Regular local school district,5400600,,Biweekly,10/26/20,11/09/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,George Washington High School,Regular school,540060000397,,Regular local school district,5400600,,Biweekly,10/26/20,11/09/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,George Washington High School,Regular school,540060000397,,Regular local school district,5400600,,Biweekly,10/27/20,11/10/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,George Washington High School,Regular school,540060000397,,Regular local school district,5400600,,Biweekly,10/30/20,11/13/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,George Washington High School,Regular school,540060000397,,Regular local school district,5400600,,Biweekly,11/02/20,11/16/20,,,,,,,,,,,,,,,9
+West Virginia,WV,School,Not applicable,George Washington High School,Regular school,540060000397,,Regular local school district,5400600,,Biweekly,11/02/20,11/16/20,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,George Washington High School,Regular school,540060000397,,Regular local school district,5400600,,Biweekly,11/09/20,11/23/20,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,George Washington High School,Regular school,540060000397,,Regular local school district,5400600,,Biweekly,11/16/20,11/30/20,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,George Washington High School,Regular school,540060000397,,Regular local school district,5400600,,Biweekly,04/23/21,05/07/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,George Washington High School,Regular school,540060000397,,Regular local school district,5400600,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,George Washington High School,Regular school,540060000397,,Regular local school district,5400600,,Biweekly,04/29/21,05/13/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,George Washington High School,Regular school,540060000397,,Regular local school district,5400600,,Biweekly,05/03/21,05/17/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,George Washington Middle School,Regular school,540120000923,,Regular local school district,5401200,,Biweekly,04/23/21,05/07/21,,,,,,,,,,,,,,,12
+West Virginia,WV,School,Not applicable,George Washington Middle School,Regular school,540120000923,,Regular local school district,5401200,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,12
+West Virginia,WV,School,Not applicable,Gilmer Co High School,Regular school,540033000210,,Regular local school district,5400330,,Biweekly,04/15/21,04/29/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Gilmer Co High School,Regular school,540033000210,,Regular local school district,5400330,,Biweekly,04/15/21,04/29/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Gilmer Co High School,Regular school,540033000210,,Regular local school district,5400330,,Biweekly,04/23/21,05/07/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Gilmer Co High School,Regular school,540033000210,,Regular local school district,5400330,,Biweekly,04/28/21,05/12/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Gilmer Co High School EX,Regular school,540033000210,,Regular local school district,5400330,,Biweekly,04/21/21,05/05/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Gilmer Co High School EX,Regular school,540033000210,,Regular local school district,5400330,,Biweekly,04/28/21,05/12/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Gilmer County High School,Regular school,540033000210,,Regular local school district,5400330,,Biweekly,04/15/21,04/29/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Glenwood School,Regular school,540084000685,,Regular local school district,5400840,,Biweekly,11/04/20,11/18/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Glenwood School,Regular school,540084000685,,Regular local school district,5400840,,Biweekly,11/17/20,12/01/20,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Grafton High School,Regular school,540138001053,,Regular local school district,5401380,,Biweekly,03/01/21,03/15/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Grafton High School,Regular school,540138001053,,Regular local school district,5401380,,Biweekly,03/05/21,03/19/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Grafton High School,Regular school,540138001053,,Regular local school district,5401380,,Biweekly,03/11/21,03/25/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Grafton High School,Regular school,540138001053,,Regular local school district,5401380,,Biweekly,03/16/21,03/30/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Grafton High School (Staff),Regular school,540138001053,,Regular local school district,5401380,,Biweekly,01/05/21,01/19/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Grafton High School (Staff),Regular school,540138001053,,Regular local school district,5401380,,Biweekly,01/12/21,01/26/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Green Bank Elementary Middle School,Regular school,540114001448,,Regular local school district,5401140,,Biweekly,10/16/20,10/30/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Greenbrier East High School,Regular school,540039000230,,Regular local school district,5400390,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,Guyandotte Elementary,Regular school,540018000109,,Regular local school district,5400180,,Biweekly,04/06/21,04/20/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Guyandotte Elementary,Regular school,540018000109,,Regular local school district,5400180,,Biweekly,04/09/21,04/23/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,HE White Elementary School,Regular school,540024000151,,Regular local school district,5400240,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hamilton Jr High School,Regular school,540162001154,,Regular local school district,5401620,,Biweekly,10/19/20,11/02/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hamilton Jr High School,Regular school,540162001154,,Regular local school district,5401620,,Biweekly,10/21/20,11/04/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Hamilton Jr High School,Regular school,540162001154,,Regular local school district,5401620,,Biweekly,10/22/20,11/05/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Hamilton Jr High School,Regular school,540162001154,,Regular local school district,5401620,,Biweekly,10/26/20,11/09/20,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Hamilton Jr High School,Regular school,540162001154,,Regular local school district,5401620,,Biweekly,10/27/20,11/10/20,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Hamilton Middle School EX,Regular school,540162001154,,Regular local school district,5401620,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hamilton Middle School EX,Regular school,540162001154,,Regular local school district,5401620,,Biweekly,03/17/21,03/31/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hamilton Middle School EX,Regular school,540162001154,,Regular local school district,5401620,,Biweekly,03/22/21,04/05/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hampshire County Schools,Regular school,"540042001232,540042000245,540042001336,540042000248,540042000249,540042000251,540042000252,540042000254,540042000255",,Regular local school district,5400420,,Biweekly,04/22/21,05/06/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hampshire County Schools,Regular school,"540042001232,540042000245,540042001336,540042000248,540042000249,540042000251,540042000252,540042000254,540042000255",,Regular local school district,5400420,,Biweekly,04/27/21,05/11/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Hampshire County Schools,Regular school,"540042001232,540042000245,540042001336,540042000248,540042000249,540042000251,540042000252,540042000254,540042000255",,Regular local school district,5400420,,Biweekly,05/12/21,05/26/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Hampshire County Schools EX,Regular school,"540042001232,540042000245,540042001336,540042000248,540042000249,540042000251,540042000252,540042000254,540042000255",,Regular local school district,5400420,,Biweekly,04/22/21,05/06/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hampshire High School,Regular school,540042000248,,Regular local school district,5400420,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hampshire High School,Regular school,540042000248,,Regular local school district,5400420,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hampshire High School,Regular school,540042000248,,Regular local school district,5400420,,Biweekly,04/27/21,05/11/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Harpers Ferry Middle School,Regular school,540057000343,,Regular local school district,5400570,,Biweekly,10/27/20,11/10/20,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Hayes Middle School,Regular school,540060000402,,Regular local school district,5400600,,Biweekly,03/14/21,03/28/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Hayes Middle School,Regular school,540060000402,,Regular local school district,5400600,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Hayes Middle School,Regular school,540060000402,,Regular local school district,5400600,,Biweekly,03/16/21,03/30/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Hayes Middle School,Regular school,540060000402,,Regular local school district,5400600,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Hayes Middle School,Regular school,540060000402,,Regular local school district,5400600,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Hayes Middle School,Regular school,540060000402,,Regular local school district,5400600,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Hayes Middle School,Regular school,540060000402,,Regular local school district,5400600,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Hayes Middle School,Regular school,540060000402,,Regular local school district,5400600,,Biweekly,04/01/21,04/15/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hayes Middle School,Regular school,540060000402,,Regular local school district,5400600,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Hedgesville Middle,Regular school,540006000020,,Regular local school district,5400060,,Biweekly,04/12/21,04/26/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Hedgesville Middle,Regular school,540006000020,,Regular local school district,5400060,,Biweekly,04/23/21,05/07/21,,,,,,,,,,,,,,,15
+West Virginia,WV,School,Not applicable,Hedgesville Middle School,Regular school,540006000020,,Regular local school district,5400060,,Biweekly,11/09/20,11/23/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Hedgesville Middle School,Regular school,540006000020,,Regular local school district,5400060,,Biweekly,04/12/21,04/26/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Hedgesville Middle School,Regular school,540006000020,,Regular local school district,5400060,,Biweekly,05/05/21,05/19/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Herbert Hoover High School,Regular school,540060000403,,Regular local school district,5400600,,Biweekly,11/09/20,11/23/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Herbert Hoover High School,Regular school,540060000403,,Regular local school district,5400600,,Biweekly,11/11/20,11/25/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Herbert Hoover High School,Regular school,540060000403,,Regular local school district,5400600,,Biweekly,11/16/20,11/30/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Herbert Hoover High School,Regular school,540060000403,,Regular local school district,5400600,,Biweekly,11/17/20,12/01/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Herbert Hoover High School,Regular school,540060000403,,Regular local school district,5400600,,Biweekly,11/23/20,12/07/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Herbert Hoover High School,Regular school,540060000403,,Regular local school district,5400600,,Biweekly,04/01/21,04/15/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Herbert Hoover High School,Regular school,540060000403,,Regular local school district,5400600,,Biweekly,04/23/21,05/07/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Herbert Hoover High School,Regular school,540060000403,,Regular local school district,5400600,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Herbert Hoover High School,Regular school,540060000403,,Regular local school district,5400600,,Biweekly,04/29/21,05/13/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Herbert Hoover School EX,Regular school,540060000403,,Regular local school district,5400600,,Biweekly,04/20/21,05/04/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Hillsboro Elementary School,Regular school,540114000892,,Regular local school district,5401140,,Biweekly,04/01/21,04/15/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hillsboro Elementary School,Regular school,540114000892,,Regular local school district,5401140,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Holz Elementary School,Regular school,540060000405,,Regular local school district,5400600,,Biweekly,11/11/20,11/25/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Holz Elementary School,Regular school,540060000405,,Regular local school district,5400600,,Biweekly,11/16/20,11/30/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Holz Elementary School,Regular school,540060000405,,Regular local school district,5400600,,Biweekly,05/11/21,05/25/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Holz Elementary School,Regular school,540060000405,,Regular local school district,5400600,,Biweekly,05/16/21,05/30/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Horace Mann Middle School,Regular school,540060000406,,Regular local school district,5400600,,Biweekly,12/29/20,01/12/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Horace Mann Middle School,Regular school,540060000406,,Regular local school district,5400600,,Biweekly,12/30/20,01/13/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Horace Mann Middle School,Regular school,540060000406,,Regular local school district,5400600,,Biweekly,12/31/20,01/14/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Horace Mann Middle School,Regular school,540060000406,,Regular local school district,5400600,,Biweekly,01/04/21,01/18/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hundred High School,Regular school,540156001123,,Regular local school district,5401560,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hundred High School,Regular school,540156001123,,Regular local school district,5401560,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Hundred High School,Regular school,540156001123,,Regular local school district,5401560,,Biweekly,04/15/21,04/29/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,10/20/20,11/03/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,10/22/20,11/05/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,10/27/20,11/10/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,03/05/21,03/19/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,03/14/21,03/28/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,03/17/21,03/31/21,,,,,,,,,,,,,,,9
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,03/22/21,04/05/21,,,,,,,,,,,,,,,15
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,16
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,03/31/21,04/14/21,,,,,,,,,,,,,,,21
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,04/06/21,04/20/21,,,,,,,,,,,,,,,22
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,04/11/21,04/25/21,,,,,,,,,,,,,,,22
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,04/16/21,04/30/21,,,,,,,,,,,,,,,22
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,04/20/21,05/04/21,,,,,,,,,,,,,,,22
+West Virginia,WV,School,Not applicable,Huntington High School,Regular school,540018000860,,Regular local school district,5400180,,Biweekly,04/25/21,05/09/21,,,,,,,,,,,,,,,22
+West Virginia,WV,School,Not applicable,Independence High School,Regular school,540123000958,,Regular local school district,5401230,,Biweekly,02/24/21,03/10/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Independence High School,Regular school,540123000958,,Regular local school district,5401230,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,Independence High School,Regular school,540123000958,,Regular local school district,5401230,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Independence High School,Regular school,540123000958,,Regular local school district,5401230,,Biweekly,03/31/21,04/14/21,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,Independence High School,Regular school,540123000958,,Regular local school district,5401230,,Biweekly,05/06/21,05/20/21,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,Independence Middle School,Regular school,540123000779,,Regular local school district,5401230,,Biweekly,12/15/20,12/29/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Jackson County School,Regular school,540054000336,,Regular local school district,5400540,,Biweekly,02/10/21,02/24/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Jackson Middle School,Regular school,540162001156,,Regular local school district,5401620,,Biweekly,04/22/21,05/06/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Jackson Middle School,Regular school,540162001156,,Regular local school district,5401620,,Biweekly,04/28/21,05/12/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Jackson Middle School,Regular school,540162001156,,Regular local school district,5401620,,Biweekly,05/04/21,05/18/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Jayenne Elementary,Regular school,540072000564,,Regular local school district,5400720,,Biweekly,05/11/21,05/25/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Jayenne Elementary,Regular school,540072000564,,Regular local school district,5400720,,Biweekly,05/19/21,06/02/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,03/14/21,03/28/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,9
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,12
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,04/01/21,04/15/21,,,,,,,,,,,,,,,12
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,05/04/21,05/18/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,05/06/21,05/20/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,05/10/21,05/24/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,John Adams Middle School,Regular school,540060000352,,Regular local school district,5400600,,Biweekly,05/11/21,05/25/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Jumping Branch Elementary School,Regular school,540135001042,,Regular local school district,5401350,,Biweekly,10/10/20,10/24/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Jumping Branch Elementary School,Regular school,540135001042,,Regular local school district,5401350,,Biweekly,10/16/20,10/30/20,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Jumping Branch Elementary School,Regular school,540135001042,,Regular local school district,5401350,,Biweekly,04/21/21,05/05/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Kanawha City Elementary,Regular school,540060000409,,Regular local school district,5400600,,Biweekly,03/17/21,03/31/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Kanawha City Elementary,Regular school,540060000409,,Regular local school district,5400600,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Kanawha City Elementary,Regular school,540060000409,,Regular local school district,5400600,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Kanawha City Elementary,Regular school,540060000409,,Regular local school district,5400600,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Kanawha City Elementary,Regular school,540060000409,,Regular local school district,5400600,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Kermit K-8,Regular school,540090000906,,Regular local school district,5400900,,Biweekly,10/14/20,10/28/20,,,,,,,,,,,,,,,9
+West Virginia,WV,School,Not applicable,Keyser High School,Regular school,540087000718,,Regular local school district,5400870,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Lenore K8,Regular school,540090001063,,Regular local school district,5400900,,Biweekly,02/23/21,03/09/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Lenore K8,Regular school,540090001063,,Regular local school district,5400900,,Biweekly,02/24/21,03/10/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Lenore K8,Regular school,540090001063,,Regular local school district,5400900,,Biweekly,02/25/21,03/11/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Lewis County High School,Regular school,540063000472,,Regular local school district,5400630,,Biweekly,11/25/20,12/09/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Lewis County High School,Regular school,540063000472,,Regular local school district,5400630,,Biweekly,11/26/20,12/10/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Lewis County High School,Regular school,540063000472,,Regular local school district,5400630,,Biweekly,11/27/20,12/11/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Lewis County High School,Regular school,540063000472,,Regular local school district,5400630,,Biweekly,12/01/20,12/15/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Lewis County High School,Regular school,540063000472,,Regular local school district,5400630,,Biweekly,12/06/20,12/20/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Liberty High School,Regular school,540051000298,,Regular local school district,5400510,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Liberty High School,Regular school,540051000298,,Regular local school district,5400510,,Biweekly,03/26/21,04/09/21,,,,,,,,,,,,,,,16
+West Virginia,WV,School,Not applicable,Liberty High School,Regular school,540051000298,,Regular local school district,5400510,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Liberty High School,Regular school,540051000298,,Regular local school district,5400510,,Biweekly,03/31/21,04/14/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Liberty High School,Regular school,540051000298,,Regular local school district,5400510,,Biweekly,03/31/21,04/14/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,Liberty High School,Regular school,540051000298,,Regular local school district,5400510,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Liberty High School,Regular school,540051000298,,Regular local school district,5400510,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Liberty High School,Regular school,540051000298,,Regular local school district,5400510,,Biweekly,04/15/21,04/29/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Lincoln County High School,Regular school,540066001245,,Regular local school district,5400660,,Biweekly,04/29/21,05/13/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Lincoln County High School,Regular school,540066001245,,Regular local school district,5400660,,Biweekly,05/03/21,05/17/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Lincoln County High School,Regular school,540066001245,,Regular local school district,5400660,,Biweekly,05/10/21,05/24/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Logan High School,Regular school,540069000521,,Regular local school district,5400690,,Biweekly,03/05/21,03/19/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Logan High School EX,Regular school,540069000521,,Regular local school district,5400690,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Logan High School EX,Regular school,540069000521,,Regular local school district,5400690,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Logan Middle School EX,Regular school,540069000519,,Regular local school district,5400690,,Biweekly,04/19/21,05/03/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Logan Middle School EX,Regular school,540069000519,,Regular local school district,5400690,,Biweekly,04/25/21,05/09/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Logan Middle School EX,Regular school,540069000519,,Regular local school district,5400690,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Madison Elementary School,Regular school,540105000861,,Regular local school district,5401050,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Madison Elementary School,Regular school,540105000861,,Regular local school district,5401050,,Biweekly,04/13/21,04/27/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Madison Middle School,Regular school,540009001324,,Regular local school district,5400090,,Biweekly,04/21/21,05/05/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Madison Middle School,Regular school,540009001324,,Regular local school district,5400090,,Biweekly,04/25/21,05/09/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Madison Middle School,Regular school,540009001324,,Regular local school district,5400090,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Madison Middle School,Regular school,540009001324,,Regular local school district,5400090,,Biweekly,04/30/21,05/14/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Magnolia High School,Regular school,540156001126,,Regular local school district,5401560,,Biweekly,03/23/21,04/06/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Magnolia High School,Regular school,540156001126,,Regular local school district,5401560,,Biweekly,03/31/21,04/14/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Magnolia High School,Regular school,540156001126,,Regular local school district,5401560,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,10
+West Virginia,WV,School,Not applicable,Magnolia High School,Regular school,540156001126,,Regular local school district,5401560,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Magnolia High School,Regular school,540156001126,,Regular local school district,5401560,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,10
+West Virginia,WV,School,Not applicable,Magnolia High School,Regular school,540156001126,,Regular local school district,5401560,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,16
+West Virginia,WV,School,Not applicable,Magnolia High School,Regular school,540156001126,,Regular local school district,5401560,,Biweekly,04/15/21,04/29/21,,,,,,,,,,,,,,,19
+West Virginia,WV,School,Not applicable,Magnolia High School,Regular school,540156001126,,Regular local school district,5401560,,Biweekly,04/21/21,05/05/21,,,,,,,,,,,,,,,19
+West Virginia,WV,School,Not applicable,Man High School,Regular school,540069000524,,Regular local school district,5400690,,Biweekly,03/02/21,03/16/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Man High School EX,Regular school,540069000524,,Regular local school district,5400690,,Biweekly,03/02/21,03/16/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Man High School EX,Regular school,540069000524,,Regular local school district,5400690,,Biweekly,03/02/21,03/16/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Man High School EX,Regular school,540069000524,,Regular local school district,5400690,,Biweekly,03/03/21,03/17/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Man High School EX,Regular school,540069000524,,Regular local school district,5400690,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Man High School EX,Regular school,540069000524,,Regular local school district,5400690,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Man High School EX,Regular school,540069000524,,Regular local school district,5400690,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Man High School EX,Regular school,540069000524,,Regular local school district,5400690,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Man High School EX,Regular school,540069000524,,Regular local school district,5400690,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Man High School EX,Regular school,540069000524,,Regular local school district,5400690,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Marion County Technical Center,Vocational school,540072001396,,Regular local school district,5400720,,Biweekly,04/01/21,04/15/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Marion County Technical Center,Vocational school,540072001396,,Regular local school district,5400720,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,Marion County Technical Center,Vocational school,540072001396,,Regular local school district,5400720,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Marsh Fork Elementary School,Regular school,540123000848,,Regular local school district,5401230,,Biweekly,11/27/20,12/11/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Martinsburg High School,Regular school,540006000026,,Regular local school district,5400060,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Martinsburg High School,Regular school,540006000026,,Regular local school district,5400060,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Martinsburg High School,Regular school,540006000026,,Regular local school district,5400060,,Biweekly,03/31/21,04/14/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Martinsburg High School EX,Regular school,540006000026,,Regular local school district,5400060,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Martinsburg North Middle School,Regular school,540006000024,,Regular local school district,5400060,,Biweekly,02/25/21,03/11/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Martinsburg North Middle School,Regular school,540006000024,,Regular local school district,5400060,,Biweekly,02/25/21,03/11/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Mary C. Snow Elementary School,Regular school,540060001476,,Regular local school district,5400600,,Biweekly,11/18/20,12/02/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Mary C. Snow Elementary School,Regular school,540060001476,,Regular local school district,5400600,,Biweekly,11/19/20,12/03/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Mary C. Snow Elementary School,Regular school,540060001476,,Regular local school district,5400600,,Biweekly,11/20/20,12/04/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Mary C. Snow Elementary School,Regular school,540060001476,,Regular local school district,5400600,,Biweekly,11/23/20,12/07/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Maysville Elementary,Regular school,540036000218,,Regular local school district,5400360,,Biweekly,04/15/21,04/29/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Maysville Elementary,Regular school,540036000218,,Regular local school district,5400360,,Biweekly,04/21/21,05/05/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,McKinley Middle School,Regular school,540060000420,,Regular local school district,5400600,,Biweekly,04/15/21,04/29/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,McKinley Middle School,Regular school,540060000420,,Regular local school district,5400600,,Biweekly,04/19/21,05/03/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Meadow Bridge High School,Regular school,540030000190,,Regular local school district,5400300,,Biweekly,02/19/21,03/05/21,,,,,,,,,,,,,,,19
+West Virginia,WV,School,Not applicable,Meadow Bridge High School,Regular school,540030000190,,Regular local school district,5400300,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,28
+West Virginia,WV,School,Not applicable,Meadow Bridge High School EX,Regular school,540030000190,,Regular local school district,5400300,,Biweekly,02/19/21,03/05/21,,,,,,,,,,,,,,,19
+West Virginia,WV,School,Not applicable,Meadow Bridge High School EX,Regular school,540030000190,,Regular local school district,5400300,,Biweekly,03/01/21,03/15/21,,,,,,,,,,,,,,,28
+West Virginia,WV,School,Not applicable,Meadow Bridge High School EX,Regular school,540030000190,,Regular local school district,5400300,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,28
+West Virginia,WV,School,Not applicable,Meadow Bridge Middle School EX,Regular school,540030000190,,Regular local school district,5400300,,Biweekly,03/26/21,04/09/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Meadow Bridge Middle School EX,Regular school,540030000190,,Regular local school district,5400300,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Meadow Bridge Middle School EX,Regular school,540030000190,,Regular local school district,5400300,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Meadow Bridge School,Regular school,540030000190,,Regular local school district,5400300,,Biweekly,02/19/21,03/05/21,,,,,,,,,,,,,,,19
+West Virginia,WV,School,Not applicable,Mercer County Technical School,Vocational school,540084001400,,Regular local school district,5400840,,Biweekly,10/06/20,10/20/20,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Mercer County Technical School,Vocational school,540084001400,,Regular local school district,5400840,,Biweekly,10/16/20,10/30/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Mercer County Technical School,Vocational school,540084001400,,Regular local school district,5400840,,Biweekly,10/16/20,10/30/20,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Mid-Ohio Valley Technical Institute,Vocational school,540111001411,,Regular local school district,5401110,,Biweekly,10/22/20,11/05/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Mid-Ohio Valley Technical Institute,Vocational school,540111001411,,Regular local school district,5401110,,Biweekly,10/26/20,11/09/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Mid-Ohio Valley Technical Institute,Vocational school,540111001411,,Regular local school district,5401110,,Biweekly,10/30/20,11/13/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Mid-Ohio Valley Technical Institute,Vocational school,540111001411,,Regular local school district,5401110,,Biweekly,11/03/20,11/17/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Midland Trail High School,Regular school,540030000191,,Regular local school district,5400300,,Biweekly,01/25/21,02/08/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Midland Trail High School,Regular school,540030000191,,Regular local school district,5400300,,Biweekly,02/08/21,02/22/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Midland Trail High School,Regular school,540030000191,,Regular local school district,5400300,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Midway Elementary,Regular school,540066000498,,Regular local school district,5400660,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Midway Elementary,Regular school,540066000498,,Regular local school district,5400660,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Midway Elementary,Regular school,540066000498,,Regular local school district,5400660,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Midway Elementary,Regular school,540066000498,,Regular local school district,5400660,,Biweekly,04/09/21,04/23/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Monongah Middle School,Regular school,540072001283,,Regular local school district,5400720,,Biweekly,11/06/20,11/20/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Monongah Middle School,Regular school,540072001283,,Regular local school district,5400720,,Biweekly,05/04/21,05/18/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Monongah Middle School,Regular school,540072001283,,Regular local school district,5400720,,Biweekly,05/14/21,05/28/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Monongah Middle School,Regular school,540072001283,,Regular local school district,5400720,,Biweekly,05/19/21,06/02/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Moorefield High School,Regular school,540048000278,,Regular local school district,5400480,,Biweekly,03/01/21,03/15/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Moorefield High School,Regular school,540048000278,,Regular local school district,5400480,,Biweekly,03/01/21,03/15/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Moorefield Middle School,Regular school,540048000886,,Regular local school district,5400480,,Biweekly,03/01/21,03/15/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Moorefield Middle School,Regular school,540048000886,,Regular local school district,5400480,,Biweekly,03/02/21,03/16/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Mountaineer Middle School,Regular school,540093000655,,Regular local school district,5400930,,Biweekly,03/11/21,03/25/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Mountaineer Middle School,Regular school,540093000655,,Regular local school district,5400930,,Biweekly,03/16/21,03/30/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Musselman High School,Regular school,540006000027,,Regular local school district,5400060,,Biweekly,,,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,New Creek School,Regular school,540087000721,,Regular local school district,5400870,,Biweekly,10/27/20,11/10/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,New Martinsville K-8,Regular school,540156001127,,Regular local school district,5401560,,Biweekly,03/05/21,03/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,New Martinsville K-8,Regular school,540156001127,,Regular local school district,5401560,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,New Martinsville K-8,Regular school,540156001127,,Regular local school district,5401560,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,New Martinsville K-8,Regular school,540156001127,,Regular local school district,5401560,,Biweekly,03/16/21,03/30/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,New Martinsville K-8,Regular school,540156001127,,Regular local school district,5401560,,Biweekly,03/22/21,04/05/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,New Martinsville K-8,Regular school,540156001127,,Regular local school district,5401560,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,New Martinsville K-8,Regular school,540156001127,,Regular local school district,5401560,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,New Martinsville K-8,Regular school,540156001127,,Regular local school district,5401560,,Biweekly,04/13/21,04/27/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Nicholas County High School,Regular school,540102000843,,Regular local school district,5401020,,Biweekly,02/28/21,03/14/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Nicholas County High School,Regular school,540102000843,,Regular local school district,5401020,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Nicholas County High School EX,Regular school,540102000843,,Regular local school district,5401020,,Biweekly,02/28/21,03/14/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Nicholas County High School EX,Regular school,540102000843,,Regular local school district,5401020,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Nitro Elementary School,Regular school,540060000425,,Regular local school district,5400600,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Nitro Elementary School,Regular school,540060000425,,Regular local school district,5400600,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Nitro Elementary School,Regular school,540060000425,,Regular local school district,5400600,,Biweekly,04/14/21,04/28/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Nitro High School EX,Regular school,540060000426,,Regular local school district,5400600,,Biweekly,04/15/21,04/29/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Nitro High School EX,Regular school,540060000426,,Regular local school district,5400600,,Biweekly,04/19/21,05/03/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Nitro High School EX,Regular school,540060000426,,Regular local school district,5400600,,Biweekly,04/23/21,05/07/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Nitro High School EX,Regular school,540060000426,,Regular local school district,5400600,,Biweekly,04/27/21,05/11/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,North Marion High School,Regular school,540072001282,,Regular local school district,5400720,,Biweekly,05/11/21,05/25/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,North Marion High School,Regular school,540072001282,,Regular local school district,5400720,,Biweekly,05/19/21,06/02/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Oak Glen High School,Regular school,540045000268,,Regular local school district,5400450,,Biweekly,10/30/20,11/13/20,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Oak Glen High School,Regular school,540045000268,,Regular local school district,5400450,,Biweekly,11/16/20,11/30/20,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Oak Hill High School,Regular school,540030000200,,Regular local school district,5400300,,Biweekly,02/22/21,03/08/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Oak Hill High School EX,Regular school,540030000200,,Regular local school district,5400300,,Biweekly,02/22/21,03/08/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Oak Hill High School EX,Regular school,540030000200,,Regular local school district,5400300,,Biweekly,03/01/21,03/15/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Oak Hill High School EX,Regular school,540030000200,,Regular local school district,5400300,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Oak Hill High School EX,Regular school,540030000200,,Regular local school district,5400300,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Oak Hill High School EX,Regular school,540030000200,,Regular local school district,5400300,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Opequon Elementary School,Regular school,540006000028,,Regular local school district,5400060,,Biweekly,02/25/21,03/11/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Paden City High School,Regular school,540156001129,,Regular local school district,5401560,,Biweekly,03/22/21,04/05/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Paden City High School,Regular school,540156001129,,Regular local school district,5401560,,Biweekly,03/29/21,04/12/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Panther Creek Elementary,Regular school,540102000837,,Regular local school district,5401020,,Biweekly,10/06/20,10/20/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Parkersburg South High School,Regular school,540162001171,,Regular local school district,5401620,,Biweekly,10/14/20,10/28/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Parkersburg South High School,Regular school,540162001171,,Regular local school district,5401620,,Biweekly,10/27/20,11/10/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Pendleton Co. Middle School EX,Regular school,540108000882,,Regular local school district,5401080,,Biweekly,03/05/21,03/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Pendleton County High School EX,Regular school,540108000882,,Regular local school district,5401080,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Pendleton County Middle School,Regular school,540108000882,,Regular local school district,5401080,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Pendleton High EX,Regular school,540108000882,,Regular local school district,5401080,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Pendleton High EX,Regular school,540108000882,,Regular local school district,5401080,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Pendleton High School EX,Regular school,540108000882,,Regular local school district,5401080,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Pendleton Middle EX,Regular school,540108000882,,Regular local school district,5401080,,Biweekly,03/05/21,03/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Pendleton Middle EX,Regular school,540108000882,,Regular local school district,5401080,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Pendleton Middle EX,Regular school,540108000882,,Regular local school district,5401080,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Pendleton Middle School EX,Regular school,540108000882,,Regular local school district,5401080,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Petersburg Elementary EX,Regular school,540036000219,,Regular local school district,5400360,,Biweekly,02/20/21,03/06/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Petersburg Elementary School,Regular school,540036000219,,Regular local school district,5400360,,Biweekly,02/09/21,02/23/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Petersburg Elementary School,Regular school,540036000219,,Regular local school district,5400360,,Biweekly,02/20/21,03/06/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Petersburg Elementary School,Regular school,540036000219,,Regular local school district,5400360,,Biweekly,03/02/21,03/16/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Petersburg Elementary School,Regular school,540036000219,,Regular local school district,5400360,,Biweekly,04/19/21,05/03/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Petersburg Elementary/High School,Regular school,540036000220,,Regular local school district,5400360,,Biweekly,02/20/21,03/06/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Petersburg Elementary/HighSchool,Regular school,540036000220,,Regular local school district,5400360,,Biweekly,02/20/21,03/06/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Petersburg High School,Regular school,540036000220,,Regular local school district,5400360,,Biweekly,11/10/20,11/24/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Petersburg High School,Regular school,540036000220,,Regular local school district,5400360,,Biweekly,02/24/21,03/10/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Petersburg High School,Regular school,540036000220,,Regular local school district,5400360,,Biweekly,02/24/21,03/10/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Petersburg High School,Regular school,540036000220,,Regular local school district,5400360,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Petersburg High School,Regular school,540036000220,,Regular local school district,5400360,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Petersburg High School,Regular school,540036000220,,Regular local school district,5400360,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Petersburg High School EX,Regular school,540036000220,,Regular local school district,5400360,,Biweekly,02/24/21,03/10/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Petersburg High School Special Education,Regular school,540036000220,,Regular local school district,5400360,,Biweekly,11/10/20,11/24/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Peterstown Elementary School,Regular school,540096000814,,Regular local school district,5400960,,Biweekly,11/13/20,11/27/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Peterstown Elementary School,Regular school,540096000814,,Regular local school district,5400960,,Biweekly,11/26/20,12/10/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Peterstown Middle School,Regular school,540096000765,,Regular local school district,5400960,,Biweekly,03/01/21,03/15/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Peterstown Middle School,Regular school,540096000765,,Regular local school district,5400960,,Biweekly,05/19/21,06/02/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Philippi Middle School,Regular school,540003000010,,Regular local school district,5400030,,Biweekly,10/27/20,11/10/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Piedmont Elementary,Regular school,540060000872,,Regular local school district,5400600,,Biweekly,01/14/21,01/28/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Piedmont Elementary,Regular school,540060000872,,Regular local school district,5400600,,Biweekly,01/18/21,02/01/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Piedmont Elementary,Regular school,540060000872,,Regular local school district,5400600,,Biweekly,01/19/21,02/02/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Piedmont Elementary,Regular school,540060000872,,Regular local school district,5400600,,Biweekly,01/21/21,02/04/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Piedmont Elementary,Regular school,540060000872,,Regular local school district,5400600,,Biweekly,01/25/21,02/08/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Piedmont Elementary,Regular school,540060000872,,Regular local school district,5400600,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Piedmont Elementary,Regular school,540060000872,,Regular local school district,5400600,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Piedmont Elementary,Regular school,540060000872,,Regular local school district,5400600,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Piedmont Elementary,Regular school,540060000872,,Regular local school district,5400600,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Piedmont Elementary School,Regular school,540060000872,,Regular local school district,5400600,,Biweekly,01/25/21,02/08/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Piedmont Elementary School,Regular school,540060000872,,Regular local school district,5400600,,Biweekly,03/05/21,03/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Piedmont Elementary School,Regular school,540060000872,,Regular local school district,5400600,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Pikeside Learning Center,Regular school,540006001586,,Regular local school district,5400060,,Biweekly,03/05/21,03/19/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Pikeview Middle School,Regular school,540084001480,,Regular local school district,5400840,,Biweekly,09/29/20,10/13/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Pinch Elementary School,Regular school,540060000433,,Regular local school district,5400600,,Biweekly,12/15/20,12/29/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Pineville Elementary School,Regular school,540165001215,,Regular local school district,5401650,,Biweekly,11/18/20,12/02/20,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Pineville Elementary School,Regular school,540165001215,,Regular local school district,5401650,,Biweekly,11/26/20,12/10/20,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Pleasant Hill Elementary School,Regular school,540021000144,,Regular local school district,5400210,,Biweekly,04/27/21,05/11/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Pleasant Hill Elementary School,Regular school,540021000144,,Regular local school district,5400210,,Biweekly,04/28/21,05/12/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Pleasant Hill Elementary School,Regular school,540021000144,,Regular local school district,5400210,,Biweekly,05/03/21,05/17/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Pleasant Hill Elementary School,Regular school,540021000144,,Regular local school district,5400210,,Biweekly,05/03/21,05/17/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Pleasant Hill Elementary School,Regular school,540021000144,,Regular local school district,5400210,,Biweekly,05/06/21,05/20/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Pleasant View Elementary School,Regular school,540099000825,,Regular local school district,5400990,,Biweekly,11/16/20,11/30/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Pleasants County School,Regular school,540111000889,,Regular local school district,5401110,,Biweekly,04/30/21,05/14/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Pleasants County School,Regular school,540111000889,,Regular local school district,5401110,,Biweekly,05/04/21,05/18/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Pleasants County Schools,Regular school,540111000889,,Regular local school district,5401110,,Biweekly,05/07/21,05/21/21,,,,,,,,,,,,,,,17
+West Virginia,WV,School,Not applicable,Pleasants County Schools,Regular school,540111000889,,Regular local school district,5401110,,Biweekly,05/10/21,05/24/21,,,,,,,,,,,,,,,18
+West Virginia,WV,School,Not applicable,Pleasants County Schools,Regular school,540111000889,,Regular local school district,5401110,,Biweekly,05/11/21,05/25/21,,,,,,,,,,,,,,,18
+West Virginia,WV,School,Not applicable,Pleasants County Schools,Regular school,540111000889,,Regular local school district,5401110,,Biweekly,05/14/21,05/28/21,,,,,,,,,,,,,,,18
+West Virginia,WV,School,Not applicable,Poca High School EX,Regular school,540120000931,,Regular local school district,5401200,,Biweekly,04/01/21,04/15/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Poca High School EX,Regular school,540120000931,,Regular local school district,5401200,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Poca High School EX,Regular school,540120000931,,Regular local school district,5401200,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Pocahontas Co High School EX,Regular school,540114000896,,Regular local school district,5401140,,Biweekly,04/03/21,04/17/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Pocahontas Co High School EX,Regular school,540114000896,,Regular local school district,5401140,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Pocahontas County High School EX,Regular school,540114000896,,Regular local school district,5401140,,Biweekly,04/03/21,04/17/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Point Harmony Elementary,Regular school,540060000434,,Regular local school district,5400600,,Biweekly,04/15/21,04/29/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Point Harmony Elementary,Regular school,540060000434,,Regular local school district,5400600,,Biweekly,04/19/21,05/03/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Point Harmony Elementary School,Regular school,540060000434,,Regular local school district,5400600,,Biweekly,04/19/21,05/03/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Princeton High School,Regular school,540084000701,,Regular local school district,5400840,,Biweekly,04/16/21,04/30/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Princeton Senior High,Regular school,540084000701,,Regular local school district,5400840,,Biweekly,04/16/21,04/30/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Princeton Senior High,Regular school,540084000701,,Regular local school district,5400840,,Biweekly,04/23/21,05/07/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Princeton Senior High School,Regular school,540084000701,,Regular local school district,5400840,,Biweekly,04/23/21,05/07/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Ranger Elementary School,Regular school,540066000500,,Regular local school district,5400660,,Biweekly,03/02/21,03/16/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Ranger Elementary School,Regular school,540066000500,,Regular local school district,5400660,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Ranger Elementary School,Regular school,540066000500,,Regular local school district,5400660,,Biweekly,03/05/21,03/19/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Ranger Elementary School,Regular school,540066000500,,Regular local school district,5400660,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Ranger Elementary School,Regular school,540066000500,,Regular local school district,5400660,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Ranger Elementary School,Regular school,540066000500,,Regular local school district,5400660,,Biweekly,03/11/21,03/25/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Ravenswood Grade School,Regular school,540054000335,,Regular local school district,5400540,,Biweekly,10/12/20,10/26/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Ravenswood Grade School,Regular school,540054000335,,Regular local school district,5400540,,Biweekly,10/15/20,10/29/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Ravenswood Grade School,Regular school,540054000335,,Regular local school district,5400540,,Biweekly,10/16/20,10/30/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Ravenswood High School,Regular school,540054000336,,Regular local school district,5400540,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Ravenswood High School,Regular school,540054000336,,Regular local school district,5400540,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Ravenswood High School EX,Regular school,540054000336,,Regular local school district,5400540,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Ravenswood High School EX,Regular school,540054000336,,Regular local school district,5400540,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Ravenswood High School EX,Regular school,540054000336,,Regular local school district,5400540,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Ravenswood High School EX,Regular school,540054000336,,Regular local school district,5400540,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Ravenswood High School EX,Regular school,540054000336,,Regular local school district,5400540,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Ravenswood Middle School,Regular school,540054001240,,Regular local school district,5400540,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Ravenswood Middle School EX,Regular school,540054001240,,Regular local school district,5400540,,Biweekly,03/16/21,03/30/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Ravenswood Middle School EX,Regular school,540054001240,,Regular local school district,5400540,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Ravenswood Middle School EX,Regular school,540054001240,,Regular local school district,5400540,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Ravenswood Middle School EX,Regular school,540054001240,,Regular local school district,5400540,,Biweekly,03/23/21,04/06/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Ravenswood Middle School EX,Regular school,540054001240,,Regular local school district,5400540,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Ridgeview Elementary School,Regular school,540123001591,,Regular local school district,5401230,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Ridgeview Elementary School,Regular school,540123001591,,Regular local school district,5401230,,Biweekly,03/31/21,04/14/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Ridgeview Elementary School,Regular school,540123001591,,Regular local school district,5401230,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Ritchie County High School,Regular school,540129001021,,Regular local school district,5401290,,Biweekly,05/06/21,05/20/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Ritchie County Middle School,Regular school,540129000663,,Regular local school district,5401290,,Biweekly,04/09/21,04/23/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Ritchie County Middle School,Regular school,540129000663,,Regular local school district,5401290,,Biweekly,04/13/21,04/27/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Ritchie County Middle School,Regular school,540129000663,,Regular local school district,5401290,,Biweekly,05/10/21,05/24/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Ritchie County Middle School,Regular school,540129000663,,Regular local school district,5401290,,Biweekly,05/11/21,05/25/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Ritchie County Middle School,Regular school,540129000663,,Regular local school district,5401290,,Biweekly,05/14/21,05/28/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Ritchie County School,Regular school,540129001021,,Regular local school district,5401290,,Biweekly,02/09/21,02/23/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Ritchie High School,Regular school,540129001021,,Regular local school district,5401290,,Biweekly,04/29/21,05/13/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Ritchie High School,Regular school,540129001021,,Regular local school district,5401290,,Biweekly,05/04/21,05/18/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Ritchie High School,Regular school,540129001021,,Regular local school district,5401290,,Biweekly,05/06/21,05/20/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Ritchie Middle/High School,Regular school,540129001021,,Regular local school district,5401290,,Biweekly,10/14/20,10/28/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Ritchie Middle/High School,Regular school,540129001021,,Regular local school district,5401290,,Biweekly,10/16/20,10/30/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Ritchie Middle/High School,Regular school,540129001021,,Regular local school district,5401290,,Biweekly,10/19/20,11/02/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,9
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,03/16/21,03/30/21,,,,,,,,,,,,,,,10
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,15
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,15
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,16
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,19
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,04/01/21,04/15/21,,,,,,,,,,,,,,,20
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,20
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,20
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,04/14/21,04/28/21,,,,,,,,,,,,,,,20
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,05/11/21,05/25/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Riverside High School,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,05/16/21,05/30/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Riverside High School EX,Regular school,540060001043,,Regular local school district,5400600,,Biweekly,03/14/21,03/28/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Roane County High School,Regular school,540132000666,,Regular local school district,5401320,,Biweekly,10/12/20,10/26/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Roane County High School,Regular school,540132000666,,Regular local school district,5401320,,Biweekly,10/16/20,10/30/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Roane County High School,Regular school,540132000666,,Regular local school district,5401320,,Biweekly,10/20/20,11/03/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Roane County High School,Regular school,540132000666,,Regular local school district,5401320,,Biweekly,10/26/20,11/09/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Roane County High School,Regular school,540132000666,,Regular local school district,5401320,,Biweekly,10/30/20,11/13/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Roane County High School,Regular school,540132000666,,Regular local school district,5401320,,Biweekly,11/02/20,11/16/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Roanoke Elementary School,Regular school,540063000475,,Regular local school district,5400630,,Biweekly,11/26/20,12/10/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Roanoke Elementary School,Regular school,540063000475,,Regular local school district,5400630,,Biweekly,11/28/20,12/12/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Roanoke Elementary School,Regular school,540063000475,,Regular local school district,5400630,,Biweekly,12/06/20,12/20/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Romney Elementary School,Regular school,540042000251,,Regular local school district,5400420,,Biweekly,11/25/20,12/09/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Romney Elementary School,Regular school,540042000251,,Regular local school district,5400420,,Biweekly,11/30/20,12/14/20,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Romney Elementary School,Regular school,540042000251,,Regular local school district,5400420,,Biweekly,12/07/20,12/21/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Romney Middle School EX,Regular school,540042000252,,Regular local school district,5400420,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Ruthlawn Elementary School,Regular school,540060000441,,Regular local school district,5400600,,Biweekly,11/25/20,12/09/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Ruthlawn Elementary School,Regular school,540060000441,,Regular local school district,5400600,,Biweekly,11/30/20,12/14/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Scott High School,Regular school,540009000049,,Regular local school district,5400090,,Biweekly,04/09/21,04/23/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Scott High School,Regular school,540009000049,,Regular local school district,5400090,,Biweekly,04/15/21,04/29/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Scott High School,Regular school,540009000049,,Regular local school district,5400090,,Biweekly,04/19/21,05/03/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,Scott High School,Regular school,540009000049,,Regular local school district,5400090,,Biweekly,04/20/21,05/04/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,Scott High School,Regular school,540009000049,,Regular local school district,5400090,,Biweekly,04/25/21,05/09/21,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,Scott High School,Regular school,540009000049,,Regular local school district,5400090,,Biweekly,04/26/21,05/10/21,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,Scott High School,Regular school,540009000049,,Regular local school district,5400090,,Biweekly,04/30/21,05/14/21,,,,,,,,,,,,,,,17
+West Virginia,WV,School,Not applicable,Scott High School,Regular school,540009000049,,Regular local school district,5400090,,Biweekly,05/10/21,05/24/21,,,,,,,,,,,,,,,17
+West Virginia,WV,School,Not applicable,Shady Spring High School,Regular school,540123000980,,Regular local school district,5401230,,Biweekly,04/20/21,05/04/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Sherman High School,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,10
+West Virginia,WV,School,Not applicable,Sherman High School,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,17
+West Virginia,WV,School,Not applicable,Sherman High School,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,18
+West Virginia,WV,School,Not applicable,Sherman High School,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,18
+West Virginia,WV,School,Not applicable,Sherman High School,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,18
+West Virginia,WV,School,Not applicable,Sherman High School,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,18
+West Virginia,WV,School,Not applicable,Sherman High School,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,18
+West Virginia,WV,School,Not applicable,Sherman High School,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,19
+West Virginia,WV,School,Not applicable,Sherman High School,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,19
+West Virginia,WV,School,Not applicable,Sherman High School,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,03/31/21,04/14/21,,,,,,,,,,,,,,,24
+West Virginia,WV,School,Not applicable,Sherman High School,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,24
+West Virginia,WV,School,Not applicable,Sherman High School,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,17
+West Virginia,WV,School,Not applicable,Sherman High School EX,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,03/16/21,03/30/21,,,,,,,,,,,,,,,18
+West Virginia,WV,School,Not applicable,Sherman High and Van Jr/Sr High,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,04/27/21,05/11/21,,,,,,,,,,,,,,,9
+West Virginia,WV,School,Not applicable,Sherman High and Van Jr/Sr High,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,05/04/21,05/18/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,Sherman High and Van Jr/Sr High,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,05/06/21,05/20/21,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,Sherman High and Van Jr/Sr High,Regular school,540009000051,,Regular local school district,5400090,,Biweekly,05/10/21,05/24/21,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,Sherman Jr./Sr. High School,Regular school,540009001325,,Regular local school district,5400090,,Biweekly,03/03/21,03/17/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Sissonville Elementary School,Regular school,540060000449,,Regular local school district,5400600,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Sissonville Elementary School,Regular school,540060000449,,Regular local school district,5400600,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Sissonville Elementary School,Regular school,540060000449,,Regular local school district,5400600,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Sissonville High School,Regular school,540060000450,,Regular local school district,5400600,,Biweekly,12/08/20,12/22/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Sissonville High School,Regular school,540060000450,,Regular local school district,5400600,,Biweekly,12/12/20,12/26/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Sissonville High School,Regular school,540060000450,,Regular local school district,5400600,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Sissonville High School,Regular school,540060000450,,Regular local school district,5400600,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Sissonville High School,Regular school,540060000450,,Regular local school district,5400600,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Sissonville Middle School,Regular school,540060000451,,Regular local school district,5400600,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Sissonville Middle School,Regular school,540060000451,,Regular local school district,5400600,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Sissonville Middle School,Regular school,540060000451,,Regular local school district,5400600,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Sissonville Middle School,Regular school,540060000451,,Regular local school district,5400600,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Sissonville Middle School,Regular school,540060000451,,Regular local school district,5400600,,Biweekly,05/16/21,05/30/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Sissonville Middle School,Regular school,540060000451,,Regular local school district,5400600,,Biweekly,05/23/21,06/06/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Charleston High School,Regular school,540060000442,,Regular local school district,5400600,,Biweekly,11/25/20,12/09/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Charleston High School,Regular school,540060000442,,Regular local school district,5400600,,Biweekly,11/27/20,12/11/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Charleston High School,Regular school,540060000442,,Regular local school district,5400600,,Biweekly,11/29/20,12/13/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Charleston High School,Regular school,540060000442,,Regular local school district,5400600,,Biweekly,01/14/21,01/28/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,South Charleston High School,Regular school,540060000442,,Regular local school district,5400600,,Biweekly,01/18/21,02/01/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,South Charleston High School,Regular school,540060000442,,Regular local school district,5400600,,Biweekly,01/19/21,02/02/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,South Charleston High School,Regular school,540060000442,,Regular local school district,5400600,,Biweekly,01/20/21,02/03/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,South Charleston High School,Regular school,540060000442,,Regular local school district,5400600,,Biweekly,05/06/21,05/20/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,South Charleston High School,Regular school,540060000442,,Regular local school district,5400600,,Biweekly,05/10/21,05/24/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,South Charleston High School,Regular school,540060000442,,Regular local school district,5400600,,Biweekly,05/16/21,05/30/21,,,,,,,,,,,,,,,11
+West Virginia,WV,School,Not applicable,South Charleston High School,Regular school,540060000442,,Regular local school district,5400600,,Biweekly,05/04/21,05/18/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,South Charleston Middle School,Regular school,540060000443,,Regular local school district,5400600,,Biweekly,01/20/21,02/03/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Charleston Middle School,Regular school,540060000443,,Regular local school district,5400600,,Biweekly,01/21/21,02/04/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Charleston Middle School,Regular school,540060000443,,Regular local school district,5400600,,Biweekly,01/25/21,02/08/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Charleston Middle School,Regular school,540060000443,,Regular local school district,5400600,,Biweekly,01/28/21,02/11/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Charleston Middle School,Regular school,540060000443,,Regular local school district,5400600,,Biweekly,02/01/21,02/15/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Charleston Middle School,Regular school,540060000443,,Regular local school district,5400600,,Biweekly,04/01/21,04/15/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Charleston Middle School,Regular school,540060000443,,Regular local school district,5400600,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Charleston Middle School,Regular school,540060000443,,Regular local school district,5400600,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Charleston Middle School,Regular school,540060000443,,Regular local school district,5400600,,Biweekly,04/14/21,04/28/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Harrison High School,Regular school,540051000314,,Regular local school district,5400510,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,South Harrison High School EX,Regular school,540051000314,,Regular local school district,5400510,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,South Harrison High School EX,Regular school,540051000314,,Regular local school district,5400510,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,South Harrison High School EX,Regular school,540051000314,,Regular local school district,5400510,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,South Harrison High School EX,Regular school,540051000314,,Regular local school district,5400510,,Biweekly,03/23/21,04/06/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,South Harrison High Schools EX,Regular school,540051000314,,Regular local school district,5400510,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,South Side Elementary School,Regular school,540018001466,,Regular local school district,5400180,,Biweekly,11/03/20,11/17/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,South Side Elementary School,Regular school,540018001466,,Regular local school district,5400180,,Biweekly,11/11/20,11/25/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Spanishburg Elementary,Regular school,540084000705,,Regular local school district,5400840,,Biweekly,02/22/21,03/08/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Spanishburg School,Regular school,540084000705,,Regular local school district,5400840,,Biweekly,03/11/21,03/25/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Spring Mills Primary School,Regular school,540006001479,,Regular local school district,5400060,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,St Albans High School,Regular school,540060000444,,Regular local school district,5400600,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,St Albans High School,Regular school,540060000444,,Regular local school district,5400600,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,St Albans High School,Regular school,540060000444,,Regular local school district,5400600,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,10
+West Virginia,WV,School,Not applicable,St Albans High School,Regular school,540060000444,,Regular local school district,5400600,,Biweekly,03/17/21,03/31/21,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,St Albans High School,Regular school,540060000444,,Regular local school district,5400600,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,15
+West Virginia,WV,School,Not applicable,St Albans High School,Regular school,540060000444,,Regular local school district,5400600,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,18
+West Virginia,WV,School,Not applicable,St Albans High School,Regular school,540060000444,,Regular local school district,5400600,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,18
+West Virginia,WV,School,Not applicable,St Albans High School,Regular school,540060000444,,Regular local school district,5400600,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,22
+West Virginia,WV,School,Not applicable,St Albans High School,Regular school,540060000444,,Regular local school district,5400600,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,22
+West Virginia,WV,School,Not applicable,St Albans High School,Regular school,540060000444,,Regular local school district,5400600,,Biweekly,04/01/21,04/15/21,,,,,,,,,,,,,,,22
+West Virginia,WV,School,Not applicable,St Albans High School,Regular school,540060000444,,Regular local school district,5400600,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,22
+West Virginia,WV,School,Not applicable,St Albans High School EX,Regular school,540060000444,,Regular local school district,5400600,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,St. Alban's High School,Regular school,540060000444,,Regular local school district,5400600,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,10
+West Virginia,WV,School,Not applicable,Straley Elementary School,Regular school,540084001311,,Regular local school district,5400840,,Biweekly,10/02/20,10/16/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Summers County High School/Middle School,Regular school,540135000787,,Regular local school district,5401350,,Biweekly,04/21/21,05/05/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Taylor Co Middle School,Regular school,540138001462,,Regular local school district,5401380,,Biweekly,03/17/21,03/31/21,,,,,,,,,,,,,,,0
+West Virginia,WV,School,Not applicable,Taylor Co Middle School,Regular school,540138001462,,Regular local school district,5401380,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,0
+West Virginia,WV,School,Not applicable,Taylor Co Middle School,Regular school,540138001462,,Regular local school district,5401380,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Taylor Co Middle School,Regular school,540138001462,,Regular local school district,5401380,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Taylor Co Middle School,Regular school,540138001462,,Regular local school district,5401380,,Biweekly,04/06/21,04/20/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Taylor County Middle School,Regular school,540138001462,,Regular local school district,5401380,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Tucker County High School,Regular school,540141001272,,Regular local school district,5401410,,Biweekly,11/06/20,11/20/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Tucker Valley Elementary School,Regular school,540141000851,,Regular local school district,5401410,,Biweekly,11/04/20,11/18/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Tygart Valley High School,Regular school,540126001011,,Regular local school district,5401260,,Biweekly,04/27/21,05/11/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Tygart Valley High School,Regular school,540126001011,,Regular local school district,5401260,,Biweekly,05/08/21,05/22/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Valley High School,Regular school,540156001132,,Regular local school district,5401560,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Valley High School,Regular school,540156001132,,Regular local school district,5401560,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Valley High School,Regular school,540156001132,,Regular local school district,5401560,,Biweekly,04/27/21,05/11/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Valley High School,Regular school,540156001132,,Regular local school district,5401560,,Biweekly,04/29/21,05/13/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Valley High School,Regular school,540156001132,,Regular local school district,5401560,,Biweekly,05/03/21,05/17/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Valley High School,Regular school,540156001132,,Regular local school district,5401560,,Biweekly,05/10/21,05/24/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Valley Pk-8,Regular school,540030001596,,Regular local school district,5400300,,Biweekly,04/03/21,04/17/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Valley Pk-8,Regular school,540030001596,,Regular local school district,5400300,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Van Devender Middle School,Regular school,540162001180,,Regular local school district,5401620,,Biweekly,05/10/21,05/24/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Van Devender Middle School,Regular school,540162001180,,Regular local school district,5401620,,Biweekly,05/14/21,05/28/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Van Devender Middle School,Regular school,540162001180,,Regular local school district,5401620,,Biweekly,05/19/21,06/02/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Van Elementary,Regular school,540009000054,,Regular local school district,5400090,,Biweekly,03/23/21,04/06/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Van Elementary,Regular school,540009000054,,Regular local school district,5400090,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Van Elementary,Regular school,540009000054,,Regular local school district,5400090,,Biweekly,03/31/21,04/14/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Van High School,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,03/11/21,03/25/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Van High School,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,Van High School,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,16
+West Virginia,WV,School,Not applicable,Van High School,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,03/31/21,04/14/21,,,,,,,,,,,,,,,17
+West Virginia,WV,School,Not applicable,Van High School,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,17
+West Virginia,WV,School,Not applicable,Van High School EX,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Van High School EX,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Van High School EX,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,7
+West Virginia,WV,School,Not applicable,Van High School EX,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,13
+West Virginia,WV,School,Not applicable,Van High School EX,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,03/16/21,03/30/21,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,Van High School EX,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,Van High School EX,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,Van High School EX,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,15
+West Virginia,WV,School,Not applicable,Van Jr./Sr. High School EX,Regular school,540009000055,,Regular local school district,5400090,,Biweekly,03/03/21,03/17/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,03/05/21,03/19/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,03/06/21,03/20/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,03/08/21,03/22/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,03/22/21,04/05/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,03/23/21,04/06/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,9
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,04/11/21,04/25/21,,,,,,,,,,,,,,,10
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,04/18/21,05/02/21,,,,,,,,,,,,,,,10
+West Virginia,WV,School,Not applicable,Wahama High School,Regular school,540078000630,,Regular local school district,5400780,,Biweekly,04/20/21,05/04/21,,,,,,,,,,,,,,,10
+West Virginia,WV,School,Not applicable,Walton Elementary/Middle,Regular school,540132001033,,Regular local school district,5401320,,Biweekly,03/19/21,04/02/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Walton Elementary/Middle,Regular school,540132001033,,Regular local school district,5401320,,Biweekly,03/29/21,04/12/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Walton Elementary/Middle,Regular school,540132001033,,Regular local school district,5401320,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Walton Elementary/Middle School,Regular school,540132001033,,Regular local school district,5401320,,Biweekly,03/19/21,04/02/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Washington Irving Middle School,Regular school,540051000605,,Regular local school district,5400510,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Washington Irving Middle School,Regular school,540051000605,,Regular local school district,5400510,,Biweekly,04/06/21,04/20/21,,,,,,,,,,,,,,,9
+West Virginia,WV,School,Not applicable,Washington Irving Middle School,Regular school,540051000605,,Regular local school district,5400510,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,9
+West Virginia,WV,School,Not applicable,Washington Irving Middle School,Regular school,540051000605,,Regular local school district,5400510,,Biweekly,04/15/21,04/29/21,,,,,,,,,,,,,,,9
+West Virginia,WV,School,Not applicable,Wayne High EX,Regular school,540150001112,,Regular local school district,5401500,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Wayne High School,Regular school,540150001112,,Regular local school district,5401500,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Wayne High School,Regular school,540150001112,,Regular local school district,5401500,,Biweekly,03/21/21,04/04/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Wayne High School,Regular school,540150001112,,Regular local school district,5401500,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Wayne High School,Regular school,540150001112,,Regular local school district,5401500,,Biweekly,03/28/21,04/11/21,,,,,,,,,,,,,,,8
+West Virginia,WV,School,Not applicable,Wayne High School EX,Regular school,540150001112,,Regular local school district,5401500,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Wayne High School EX,Regular school,540150001112,,Regular local school district,5401500,,Biweekly,03/12/21,03/26/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Wayne High School EX,Regular school,540150001112,,Regular local school district,5401500,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Wayne High School EX,Regular school,540150001112,,Regular local school district,5401500,,Biweekly,03/18/21,04/01/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Wayne Middle/High School EX,Regular school,540150001112,,Regular local school district,5401500,,Biweekly,03/15/21,03/29/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Weir High School,Regular school,540045000269,,Regular local school district,5400450,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Weir High School,Regular school,540045000269,,Regular local school district,5400450,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Weir High School,Regular school,540045000269,,Regular local school district,5400450,,Biweekly,03/25/21,04/08/21,,,,,,,,,,,,,,,9
+West Virginia,WV,School,Not applicable,Weir High School,Regular school,540045000269,,Regular local school district,5400450,,Biweekly,03/29/21,04/12/21,,,,,,,,,,,,,,,9
+West Virginia,WV,School,Not applicable,Weir High School,Regular school,540045000269,,Regular local school district,5400450,,Biweekly,03/30/21,04/13/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Weir High School,Regular school,540045000269,,Regular local school district,5400450,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,Weir High School,Regular school,540045000269,,Regular local school district,5400450,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,14
+West Virginia,WV,School,Not applicable,Weirton Elementary School,Regular school,540045001513,,Regular local school district,5400450,,Biweekly,10/16/20,10/30/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Weirton Elementary School,Regular school,540045001513,,Regular local school district,5400450,,Biweekly,10/19/20,11/02/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Weirton Elementary School,Regular school,540045001513,,Regular local school district,5400450,,Biweekly,10/23/20,11/06/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Weirton Elementary School,Regular school,540045001513,,Regular local school district,5400450,,Biweekly,10/26/20,11/09/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Weirton Elementary School,Regular school,540045001513,,Regular local school district,5400450,,Biweekly,11/02/20,11/16/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Weirton Elementary School,Regular school,540045001513,,Regular local school district,5400450,,Biweekly,11/16/20,11/30/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Weirton Elementary School,Regular school,540045001513,,Regular local school district,5400450,,Biweekly,04/01/21,04/15/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Weirton Elementary School,Regular school,540045001513,,Regular local school district,5400450,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Weirton Elementary School,Regular school,540045001513,,Regular local school district,5400450,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Weirton Elementary School,Regular school,540045001513,,Regular local school district,5400450,,Biweekly,04/08/21,04/22/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Weirton Middle School,Regular school,540045001501,,Regular local school district,5400450,,Biweekly,10/15/20,10/29/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Weirton Middle School,Regular school,540045001501,,Regular local school district,5400450,,Biweekly,10/19/20,11/02/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Weirton Middle School,Regular school,540045001501,,Regular local school district,5400450,,Biweekly,10/26/20,11/09/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Weirton Middle School,Regular school,540045001501,,Regular local school district,5400450,,Biweekly,11/02/20,11/16/20,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Whitmyer Elementary School,Regular school,540099001139,,Regular local school district,5400990,,Biweekly,04/30/21,05/14/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Williamstown Elementary School,Regular school,540162001187,,Regular local school district,5401620,,Biweekly,01/27/21,02/10/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Williamstown Elementary School,Regular school,540162001187,,Regular local school district,5401620,,Biweekly,02/03/21,02/17/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Williamstown Elementary School,Regular school,540162001187,,Regular local school district,5401620,,Biweekly,02/05/21,02/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Williamstown Elementary School,Regular school,540162001187,,Regular local school district,5401620,,Biweekly,02/09/21,02/23/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Williamstown High School,Regular school,540162001188,,Regular local school district,5401620,,Biweekly,03/01/21,03/15/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Williamstown High School,Regular school,540162001188,,Regular local school district,5401620,,Biweekly,03/09/21,03/23/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Williamstown High School,Regular school,540162001188,,Regular local school district,5401620,,Biweekly,03/10/21,03/24/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Williamstown High School,Regular school,540162001188,,Regular local school district,5401620,,Biweekly,03/11/21,03/25/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Williamstown High School,Regular school,540162001188,,Regular local school district,5401620,,Biweekly,03/16/21,03/30/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Williamstown High School,Regular school,540162001188,,Regular local school district,5401620,,Biweekly,03/22/21,04/05/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Williamstown Middle School,Regular school,540162001188,,Regular local school district,5401620,,Biweekly,10/12/20,10/26/20,,,,,,,,,,,,,,,6
+West Virginia,WV,School,Not applicable,Winfield Middle School,Regular school,540120001304,,Regular local school district,5401200,,Biweekly,10/15/20,10/29/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Winfield Middle School,Regular school,540120001304,,Regular local school district,5401200,,Biweekly,10/17/20,10/31/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Winfield Middle School,Regular school,540120001304,,Regular local school district,5401200,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Winfield Middle School,Regular school,540120001304,,Regular local school district,5401200,,Biweekly,04/09/21,04/23/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Winfield Middle School,Regular school,540120001304,,Regular local school district,5401200,,Biweekly,04/11/21,04/25/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Wirt County High School,Regular school,540159001140,,Regular local school district,5401590,,Biweekly,10/15/20,10/29/20,,,,,,,,,,,,,,,10
+West Virginia,WV,School,Not applicable,Wirt County High School,Regular school,540159001140,,Regular local school district,5401590,,Biweekly,10/20/20,11/03/20,,,,,,,,,,,,,,,10
+West Virginia,WV,School,Not applicable,Wirt County High School,Regular school,540159001140,,Regular local school district,5401590,,Biweekly,10/26/20,11/09/20,,,,,,,,,,,,,,,10
+West Virginia,WV,School,Not applicable,Wirt County Primary Center,Regular school,540159001135,,Regular local school district,5401590,,Biweekly,01/22/21,02/05/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Wirt County Primary Center,Regular school,540159001135,,Regular local school district,5401590,,Biweekly,01/27/21,02/10/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Wirt County Primary Center,Regular school,540159001135,,Regular local school district,5401590,,Biweekly,01/29/21,02/12/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Wirt County Primary Center,Regular school,540159001135,,Regular local school district,5401590,,Biweekly,02/04/21,02/18/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Wirt County Primary Center,Regular school,540159001135,,Regular local school district,5401590,,Biweekly,02/08/21,02/22/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Wirt County Primary Center,Regular school,540159001135,,Regular local school district,5401590,,Biweekly,02/16/21,03/02/21,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Wirt County Primary Center,Regular school,540159001135,,Regular local school district,5401590,,Biweekly,03/22/21,04/05/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Wirt County Primary Center,Regular school,540159001135,,Regular local school district,5401590,,Biweekly,03/24/21,04/07/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Wirt County Primary Center,Regular school,540159001135,,Regular local school district,5401590,,Biweekly,03/29/21,04/12/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Wirt County Primary Center,Regular school,540159001135,,Regular local school district,5401590,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Wirt County Primary Center,Regular school,540159001135,,Regular local school district,5401590,,Biweekly,04/05/21,04/19/21,,,,,,,,,,,,,,,5
+West Virginia,WV,School,Not applicable,Woodrow Wilson High School,Regular school,540123000991,,Regular local school district,5401230,,Biweekly,02/09/21,02/23/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Woodrow Wilson High School,Regular school,540123000991,,Regular local school district,5401230,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Woodrow Wilson High School EX,Regular school,540123000991,,Regular local school district,5401230,,Biweekly,02/09/21,02/23/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Woodrow Wilson High School EX,Regular school,540123000991,,Regular local school district,5401230,,Biweekly,03/04/21,03/18/21,,,,,,,,,,,,,,,3
+West Virginia,WV,School,Not applicable,Wyoming East School,Regular school,540165001028,,Regular local school district,5401650,,Biweekly,10/05/20,10/19/20,,,,,,,,,,,,,,,2
+West Virginia,WV,School,Not applicable,Zela Elementary,Regular school,540102000852,,Regular local school district,5401020,,Biweekly,05/03/21,05/17/21,,,,,,,,,,,,,,,4
+West Virginia,WV,School,Not applicable,Zela Elementary School,Regular school,540102000852,,Regular local school district,5401020,,Biweekly,05/03/21,05/17/21,,,,,,,,,,,,,,,4
